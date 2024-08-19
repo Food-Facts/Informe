@@ -203,7 +203,7 @@ Nuesta Startup proporciona un análisis detallado de la composición nutricional
 __Casaverde De La Cruz Ernesto - 20221b657__
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/dasdewq.PNG?token=GHSAT0AAAAAACWEDCVFAU5RTJUUYLKPFZIGZWD2RBQ " alt="ErdavicPerfil" style="width: 25%; height: auto;">
+    <img src="https://i.postimg.cc/7ZYBgd0R/dasdewq.png " alt="ErdavicPerfil" style="width: 25%; height: auto;">
 </div>
 
 Estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Siempre me tomo los trabajos como parte de mi desarrollo personal tengo habilidades de programación en c++, HTML, css, JavaScript, SQL, mongoDB, Python Además se dominar las metodologías agiles y gestión de proyectos privados o públicos. Me gustaría aprender más sobre la programación. En mis tiempos libres practico fútbol, también me gusta leer libros, ver películas y viajar. Me considero responsable, respetuosa y amable, con estas habilidades comprometo a terminar el proyecto de la mejor manera para aportar a la sociedad.
