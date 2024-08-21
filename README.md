@@ -208,6 +208,13 @@ __Casaverde De La Cruz Ernesto - 20221b657__
 
 Estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Siempre me tomo los trabajos como parte de mi desarrollo personal tengo habilidades de programación en c++, HTML, css, JavaScript, SQL, mongoDB, Python Además se dominar las metodologías agiles y gestión de proyectos privados o públicos. Me gustaría aprender más sobre la programación. En mis tiempos libres practico fútbol, también me gusta leer libros, ver películas y viajar. Me considero responsable, respetuosa y amable, con estas habilidades comprometo a terminar el proyecto de la mejor manera para aportar a la sociedad.
 
+__Abraam Bernabe Acosta Elera - 202219199__
+
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/5tsxZFDv/i.png" alt="AbraamPerfil" style="width: 20%; height: auto;">
+</div>
+
+Actualmente estoy estudiando la carrera de ingenieria de software en la 
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
