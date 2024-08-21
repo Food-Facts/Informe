@@ -214,7 +214,8 @@ __Abraam Bernabe Acosta Elera - 202219199__
     <img src="https://i.postimg.cc/5tsxZFDv/i.png" alt="AbraamPerfil" style="width: 20%; height: auto;">
 </div>
 
-Actualmente estoy estudiando la carrera de ingenieria de software en la 
+Actualmente estoy estudiando la carrera de ingeniería de software en la UPC. Soy una eprsona que le gusta trabajar en equipo, me considero muy colaborativo para realizar distintas tareas. Tengo conocimientos en algunos lenguajes de programacion como C++, SWIFT, HTML, css, js, python, tambien tomo muy enserio estos proyectos porque me sirven de practica para otros poryectos, en mis tiempos libres me gusta ver peliculas e ir al gimnasio.
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
