@@ -219,6 +219,12 @@ Actualmente estoy estudiando la carrera de ingeniería de software en la UPC. So
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
+#### Antecedentes:
+En las ultimas décadas, el consumo de alimentos procesados ha aumento mucho en todo el mundo. Solo en el Perú, la venta de alimentos ultraprocesados incrementó una cifra alarmante del 107% entre los años 2000 y 2013 (Instituto Naciaonal de Salud, 2021). Esto se debe en parte al costo accesible y la vida util de estos productos. Sin embargo este cmabio en el consumo ha generado preocupaciones sobre la calidad nutricional y la seguridad de los alimentos industrialmente producidos. A medidad de que los consumidores se vuelven mas consientes de la importancia de una buena dieta, aumenta la demanda de informacion precisa sobre los ingredientes y valores nutricionales de los alimentos.
+
+#### Problematica:
+La problematica que abordamos para nuestro proyecto es la falta de transpariencia y precision en la información nutricional de los alimentos procesados, esto representa un desafio significativo para las personas que desean tomar desiciones informadas sobre su alimentacion. Aunque las etiquetas nutricionales son obligatorias en muchos paises, a menudo presentan información de manera que puede ser dificil de entender.
+Sin un acceso facil a analisis detallados y personalizados, los consumidores se enfrentan a la posibilidad de adoptar dietas que, sin saberlo, podrian contribuir a problemas de salud, como la obesidad, enfermedades cardiacas o diabetes. Por lo tanto, existe una necesidad clara de una plataforma que no solo facilite la comprensión de los valores nutricionales, sino que también identifique posibles riesgos para la salud.
 
 ### 1.2.2 Lean UX Process.
 
