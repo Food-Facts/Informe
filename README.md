@@ -256,12 +256,33 @@ Hemos detectados un factor critico que podria afectar la experiencia del usuario
 ¿Como podriamos tener todos los valores nutricionales y sus riesgos de los prodcutos procesados en nuestro sistema?
 
 ### 1.2.2.2. Lean UX Assumptions.
+* Los usuarios son personas que se preocupan por su salud y quieres prevenir riesgos en su salud
+* El problema anterior se podria resolver mediante un servicio de la plataforma Nutrir que permita que el usuario ingrese un nuevo producto procesado.
+* Vamos a adquirir a los usuario a traves de publicidad en redes sociales
+* Unos de los valores del cliente es la reponsabilidad
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-
+* Creemos que al proporcionar informacion de valores nutricionales de manera didactica a las personas, estas seran mas repsonsables al comprar porductos procesados.
+* Creemos que al informar sobre los riesgos a la salud, los usuarios tendran mayor cuidado al consumir productos procesados
+* Creemos que al tener un servicio de ingreso personalizado sobre la seguridad de estos alimentos, se podria formar una comunidad entorno a nuestra plataforma Nutrir
+* Sabremos que hemos tenido exito cuando las personas sean mas responsables al consumir alimentos procesados.
+  
 ### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
+Nuestra startup esta dirigida a aquellas personas que quieren estar mejor informados al comprar productos procesados, es asi que mediante Nutrir pueden estar mas informados y tambien podran cuidar su salud.
+**Descripción:** Esta seccion esta compuesta por personas que priorizan una alimentación saludable y buscan activamente información sobre los productos que consumen. Estos consumidores están preocupados por la calidad de los alimentos procesados y desean comprender mejor las etiquetas nutricionales para tomar decisiones informadas.
+
+**Características Demográficas:**
+
+Edad: Entre 25 y 45 años.
+Nivel Educativo: Generalmente con educación universitaria o superior.
+Ingreso: Ingresos medios a altos, con capacidad para gastar más en productos percibidos como más saludables.
+Ubicación: Mayormente en zonas urbanas, donde el acceso a información y productos saludables es más amplio.
+Información Estadística:
+
+Según un informe de Euromonitor International (2021), el 42% de los consumidores globales indica que está dispuesto a pagar más por productos saludables, y este porcentaje es aún mayor en las zonas urbanas de América Latina.
+En Perú, un estudio de Kantar Worldpanel (2020) mostró que el 31% de los hogares busca activamente productos con menos aditivos y conservantes, lo que refleja una tendencia creciente hacia la alimentación consciente.
 
 <h1 style="font-family: 'Roboto' sans-serif;"> Capítulo II: Requirements Elicitation & Analysis</h1> 
 
