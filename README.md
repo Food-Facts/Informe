@@ -268,6 +268,7 @@ Hemos detectados un factor critico que podria afectar la experiencia del usuario
 * Sabremos que hemos tenido exito cuando las personas sean mas responsables al consumir alimentos procesados.
   
 ### 1.2.2.4. Lean UX Canvas.
+<a href="https://ibb.co/x6HVPnb"><img src="https://i.ibb.co/89cFTyw/canvas-Nutrir.png" alt="canvas-Nutrir" border="0"></a>
 
 ## 1.3. Segmentos objetivo.
 Nuestra startup esta dirigida a aquellas personas que quieren estar mejor informados al comprar productos procesados, es asi que mediante Nutrir pueden estar mas informados y tambien podran cuidar su salud.
