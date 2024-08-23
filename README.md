@@ -226,9 +226,34 @@ En las ultimas décadas, el consumo de alimentos procesados ha aumento mucho en 
 La problematica que abordamos para nuestro proyecto es la falta de transpariencia y precision en la información nutricional de los alimentos procesados, esto representa un desafio significativo para las personas que desean tomar desiciones informadas sobre su alimentacion. Aunque las etiquetas nutricionales son obligatorias en muchos paises, a menudo presentan información de manera que puede ser dificil de entender.
 Sin un acceso facil a analisis detallados y personalizados, los consumidores se enfrentan a la posibilidad de adoptar dietas que, sin saberlo, podrian contribuir a problemas de salud, como la obesidad, enfermedades cardiacas o diabetes. Por lo tanto, existe una necesidad clara de una plataforma que no solo facilite la comprensión de los valores nutricionales, sino que también identifique posibles riesgos para la salud.
 
+**-What? (¿Cuál es el problema?)**
+* El principal problema es que a los consumidores se les dificulta interpretar y entender las tablas de valores nutricionales de productos procesados
+
+**-When? (¿Cuando estamos viendo este problema?)**
+* El problema lo estamos viendo cuando las personas quieren comprar alimentos procesados y necesitan la informacion nutricional
+
+**-Where? (¿Dónde estamos viendo el problema?)**
+* EL problema se puede ver mucho en los suppermercados, donde la mayoria de las personas compran podructos procesados
+  
+**-Who? (¿A quien le sucede?)**
+* El problema le sucede a los consumidores de productos procesados que no interpretan bien la tabla de valores nutricionales del producto
+
+**-Why? (¿Por qué se genera este problema?)**
+* Este problema se genera por la falta de informacion de parte de los productores de los insumos
+
+**-How? (¿Cómo se diferencia el problema del estado normal (óptimo)? ¿La tendencia en la que aparece el problema es aleatoria o sigue un patrón?)**
+* Este problema es muy diferente a otros, se podria decir que es un problema muy grave ya que afecta directamente a la salud de las personas
+
+**-How much? (¿Cuántos problemas se dan en un dia? ¿En una semana? ¿En un mes?)**
+* Este problema se puede dar multiples veces, sobre todo en los ultimos años que se incremento el consumo de productos procesados.
+
 ### 1.2.2 Lean UX Process.
 
 ### 1.2.2.1. Lean UX Problem Statements.
+Nuestra plataforma ofrece una base de datos nutricionales e informacion acerca de productos procesados, sus valores nutricionales de manera didactica y riesgos a la salud por el consumo excesivo de estos, a traves de nuestra paltaforma, lo usuarios pueden estar informados sobre los ingredientes y riesgos de estos productos.
+Hemos detectados un factor critico que podria afectar la experiencia del usuario, este factor seria que como hya muchos prodcutos procesados algunos de estos no se encuentran en nuestra base de datos, esto requiere una actualizacion constante de los datos en nuestro sistema.
+
+¿Como podriamos tener todos los valores nutricionales y sus riesgos de los prodcutos procesados en nuestro sistema?
 
 ### 1.2.2.2. Lean UX Assumptions.
 
