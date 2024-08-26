@@ -1,4 +1,3 @@
-
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
 
 <h1 style="text-align: center; font-family: 'Open Sans', sans-serif;">INFORME FINAL DEL PROYECTO</h1>
@@ -14,8 +13,8 @@
     <p>Ingeniería de Software</p>
     <p>SI729 - Desarrollo de Aplicaciones Open Source</p>
     <p>Docente: Hugo Allan Mori Paiva</p>
-    <p>Startup: Nutrir Inc.</p>
-    <p>Producto: Nutrir</p>
+    <p>Startup: Food-Facts Inc.</p>
+    <p>Producto: Food-Facts</p>
 </div>
 
 <br>
@@ -189,7 +188,7 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Nombre de la startup: Nutrir
+Nombre de la startup: Food-Facts
 
 Nuesta Startup proporciona un análisis detallado de la composición nutricional de alimentos procesados y producidos industrialmente. El sistema recopila y procesa datos de etiquetas de productos, bases de datos nutricionales y estudios científicos para ofrecer:
 
@@ -257,21 +256,24 @@ Hemos detectados un factor critico que podria afectar la experiencia del usuario
 
 ### 1.2.2.2. Lean UX Assumptions.
 * Los usuarios son personas que se preocupan por su salud y quieres prevenir riesgos en su salud
-* El problema anterior se podria resolver mediante un servicio de la plataforma Nutrir que permita que el usuario ingrese un nuevo producto procesado.
+* El problema anterior se podria resolver mediante un servicio de la plataforma Food-Facts que permita que el usuario ingrese un nuevo producto procesado.
 * Vamos a adquirir a los usuario a traves de publicidad en redes sociales
 * Unos de los valores del cliente es la reponsabilidad
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
 * Creemos que al proporcionar informacion de valores nutricionales de manera didactica a las personas, estas seran mas repsonsables al comprar porductos procesados.
 * Creemos que al informar sobre los riesgos a la salud, los usuarios tendran mayor cuidado al consumir productos procesados
-* Creemos que al tener un servicio de ingreso personalizado sobre la seguridad de estos alimentos, se podria formar una comunidad entorno a nuestra plataforma Nutrir
+* Creemos que al tener un servicio de ingreso personalizado sobre la seguridad de estos alimentos, se podria formar una comunidad entorno a nuestra plataforma Food-Facts
 * Sabremos que hemos tenido exito cuando las personas sean mas responsables al consumir alimentos procesados.
   
 ### 1.2.2.4. Lean UX Canvas.
-<a href="https://ibb.co/x6HVPnb"><img src="https://i.ibb.co/89cFTyw/canvas-Nutrir.png" alt="canvas-Nutrir" border="0"></a>
+
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/uBDL4Y7.png" alt="canvas" style="width: auto; height: auto;">
+</div>
 
 ## 1.3. Segmentos objetivo.
-Nuestra startup esta dirigida a aquellas personas que quieren estar mejor informados al comprar productos procesados, es asi que mediante Nutrir pueden estar mas informados y tambien podran cuidar su salud.
+Nuestra startup esta dirigida a aquellas personas que quieren estar mejor informados al comprar productos procesados, es asi que mediante Food-Facts pueden estar mas informados y tambien podran cuidar su salud.
 **Descripción:** Esta seccion esta compuesta por personas que priorizan una alimentación saludable y buscan activamente información sobre los productos que consumen. Estos consumidores están preocupados por la calidad de los alimentos procesados y desean comprender mejor las etiquetas nutricionales para tomar decisiones informadas.
 
 **Características Demográficas:**
@@ -289,25 +291,510 @@ En Perú, un estudio de Kantar Worldpanel (2020) mostró que el 31% de los hogar
 
 ## 2.1. Competidores.
 
+Realizamos una investigación acerca de nuestros competidores cuyos producto u objetivos son parecidos a nuestro Startup. En la cual encontramos que la mayoría de los competidores son internacionales. Los competidores analizados son: MyFitnessPal, Yuka y Fooducate.
+
+**MyFitnessPal**
+Descripción: MyFitnessPal es una de las aplicaciones más populares para el seguimiento de la dieta y el ejercicio. Ofrece un extenso catálogo de alimentos y sus valores nutricionales, junto con herramientas para registrar y analizar la ingesta diaria de calorías.
+Fortalezas: Gran base de datos de alimentos, fácil de usar, integración con dispositivos de fitness.
+Debilidades: Enfocado más en el seguimiento de calorías que en un análisis profundo de los ingredientes y riesgos para la salud asociados a los alimentos procesados.
+
+**Yuka**
+Descripción: Yuka es una aplicación móvil que permite escanear productos alimenticios para evaluar su calidad nutricional y detectar la presencia de aditivos perjudiciales. También sugiere alternativas más saludables.
+Fortalezas: Evaluación instantánea de productos, interfaz amigable, recomendación de alternativas saludables.
+Debilidades: Su enfoque es más en la calidad nutricional y la seguridad alimentaria, pero menos en la personalización detallada de la información según las condiciones de salud específicas del usuario.
+
+**Fooducate**
+Descripción: Fooducate es una plataforma que ayuda a los usuarios a hacer elecciones alimenticias más saludables mediante la evaluación de la calidad de los alimentos basándose en sus ingredientes y valor nutricional. También ofrece herramientas de seguimiento para la pérdida de peso y la gestión de la dieta.
+Fortalezas: Análisis detallado de los ingredientes, sistema de puntuación fácil de entender, educación nutricional.
+Debilidades: Su análisis puede ser visto como simplista y no ofrece reportes personalizados o un análisis profundo de los posibles riesgos para la salud.
+
 ### 2.1.1. Análisis competitivo.
+ Food-Facts se posiciona como una plataforma innovadora que proporciona un análisis detallado y personalizado de la composición nutricional de alimentos procesados en el mercado peruano. En un entorno donde la preocupación por la salud y la seguridad alimentaria está en aumento, Food-Facts ofrece una propuesta de valor única frente a sus competidores, centrada en la transparencia y personalización de la información nutricional.
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th colspan="5">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td>¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4">Identificar oportunidades y amenazas en el mercado, entender las fortalezas y debilidades de los competidores, y definir estrategias para diferenciar a Food-Facts en un mercado competitivo.</td>
+  </tr>
+  <tr>
+    <td colspan="5"></td>
+  </tr>
+  <tr>
+    <th>(En la cabecera colocar por cada competidor nombre y logo)</th>
+    <th>Food-Facts</th>
+    <th>Competidor 1 MyFitnessPal</th>
+    <th>Competidor 2 Yuka</th>
+    <th>Competidor 3 Fooducate</th>
+  </tr>
+  <tr>
+    <th colspan="5" style="text-align: center;"><strong>Perfil</strong></th>
+  </tr>
+  <tr>
+    <td>Overview</td>
+    <td>Food-Facts es una plataforma que proporciona un análisis detallado y personalizado de la composición nutricional de alimentos procesados, centrada en el mercado peruano.</td>
+    <td>MyFitnessPal es una aplicación popular para el seguimiento de la dieta y el ejercicio, con una gran base de datos de alimentos.</td>
+    <td>Yuka es una aplicación que permite escanear productos alimenticios para evaluar su calidad nutricional y detectar aditivos perjudiciales.</td>
+    <td>Fooducate ayuda a los usuarios a tomar decisiones alimenticias saludables mediante la evaluación de la calidad de los alimentos.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>Transparencia y personalización en el análisis de alimentos procesados, enfocado en el mercado peruano.</td>
+    <td>Gran base de datos de alimentos y fácil integración con dispositivos de fitness.</td>
+    <td>Evaluación instantánea de productos con recomendaciones de alternativas saludables.</td>
+    <td>Sistema de puntuación fácil de entender y enfoque en la educación nutricional.</td>
+  </tr>
+  <tr>
+    <th colspan="5" style="text-align: center;"><strong>Perfil de Marketing</strong></th>
+  </tr>
+  <tr>
+    <td>Mercado objetivo</td>
+    <td>Consumidores peruanos interesados en la salud y la transparencia alimentaria.</td>
+    <td>Usuarios globales interesados en el seguimiento de la dieta y el ejercicio.</td>
+    <td>Consumidores preocupados por la calidad nutricional y los aditivos en sus alimentos.</td>
+    <td>Usuarios interesados en tomar decisiones alimenticias más saludables y gestionar su dieta.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Campañas centradas en la personalización y transparencia para diferenciarse en el mercado peruano.</td>
+    <td>Marketing enfocado en la facilidad de uso y la gran base de datos de alimentos.</td>
+    <td>Enfocado en la seguridad alimentaria y la recomendación de productos más saludables.</td>
+    <td>Educación nutricional y la simplicidad de su sistema de puntuación como puntos clave de marketing.</td>
+  </tr>
+  <tr>
+    <th colspan="5" style="text-align: center;"><strong>Perfil de Producto</strong></th>
+  </tr>
+  <tr>
+    <td>Productos & Servicios</td>
+    <td>Plataforma de análisis nutricional detallado y personalizado.</td>
+    <td>Aplicación de seguimiento de dieta y ejercicio con base de datos de alimentos.</td>
+    <td>Aplicación de evaluación nutricional y seguridad alimentaria.</td>
+    <td>Plataforma para la evaluación de calidad de alimentos y herramientas de seguimiento de dieta.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Modelo de negocio en desarrollo, potencialmente basado en suscripciones o análisis premium.</td>
+    <td>Modelo freemium con opciones de suscripción para características avanzadas.</td>
+    <td>Aplicación gratuita con potenciales ingresos por publicidad o funciones premium.</td>
+    <td>Freemium con opciones de pago para funcionalidades avanzadas.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td>Aplicación web y móvil enfocada en el mercado peruano.</td>
+    <td>Aplicación móvil y web con integración a dispositivos de fitness.</td>
+    <td>Aplicación móvil con interfaz amigable.</td>
+    <td>Aplicación móvil y web con enfoque en la simplicidad.</td>
+  </tr>
+  <tr>
+    <th colspan="5" style="text-align: center;"><strong>Análisis SWOT</strong></th>
+  </tr>
+  <tr>
+    <td colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td>Fortalezas</td>
+    <td>
+      <ul>
+        <li>Enfoque en el mercado peruano, lo que permite una personalización más relevante.</li>
+        <li>Análisis detallado y personalizado de la información nutricional.</li>
+        <li>Compromiso con la transparencia y la seguridad alimentaria.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Extensa base de datos de alimentos.</li>
+        <li>Integración con dispositivos de fitness y aplicaciones de terceros.</li>
+        <li>Interfaz fácil de usar y establecida en el mercado global.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Evaluación instantánea y sencilla de la calidad nutricional de productos.</li>
+        <li>Recomendación de alternativas saludables.</li>
+        <li>Interfaz amigable y orientada al usuario.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Análisis educativo y fácil de entender para los consumidores.</li>
+        <li>Sistema de puntuación que simplifica la toma de decisiones alimenticias.</li>
+        <li>Fuerte enfoque en la educación nutricional.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>
+      <ul>
+        <li>Falta de reconocimiento de marca en el mercado global.</li>
+        <li>Limitada a alimentos procesados disponibles en el mercado peruano.</li>
+        <li>Modelo de negocio en desarrollo.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Enfocado principalmente en el seguimiento de calorías.</li>
+        <li>Menor enfoque en los riesgos de salud asociados a los ingredientes específicos.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Menor personalización basada en las condiciones de salud del usuario.</li>
+        <li>Enfoque limitado en los detalles de los ingredientes específicos.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>El análisis puede ser visto como simplista.</li>
+        <li>Falta de reportes personalizados y un análisis profundo de los riesgos de salud.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>
+      <ul>
+        <li>Incremento en la demanda de transparencia en la información alimentaria en Perú.</li>
+        <li>Expansión a otros mercados de América Latina.</li>
+        <li>Asociaciones con empresas de alimentos saludables y organismos de salud.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Creación de funcionalidades avanzadas para un análisis más detallado de ingredientes.</li>
+        <li>Expansión de su base de datos a mercados locales y específicos.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Expansión a nuevas categorías de productos y mercados.</li>
+        <li>Desarrollo de más funciones personalizadas para diferentes condiciones de salud.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Integración con más dispositivos de salud y aplicaciones de bienestar.</li>
+        <li>Desarrollo de funciones que ofrezcan un análisis más profundo de los ingredientes.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>
+      <ul>
+        <li>Competencia de aplicaciones internacionales bien establecidas.</li>
+        <li>Potenciales cambios en las regulaciones alimentarias que afecten el análisis de productos.</li>
+        <li>Barrera de entrada para competir en mercados globales.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Aumento de competidores con bases de datos similares.</li>
+        <li>Posible saturación del mercado con aplicaciones de seguimiento de dieta.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Regulaciones más estrictas sobre la seguridad alimentaria.</li>
+        <li>Posible saturación del mercado de aplicaciones de evaluación de alimentos.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Creciente competencia en la oferta de aplicaciones de salud y nutrición.</li>
+        <li>El aumento de la preocupación sobre la privacidad de los datos.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+Nuestra estrategia como startup es diferenciarnos mediante la profundidad y personalización del análisis nutricional. Mientras otros competidores se enfocan en el conteo de calorías o en evaluaciones superficiales, Food-Facts ofrecerá un análisis detallado y personalizado de la composición de alimentos procesados, enfocándose en los riesgos para la salud a corto y largo plazo.
+
+Además, proporcionaremos contenido educativo y relevante para el mercado peruano, adaptado a las preferencias locales, lo que nos permitirá destacar y captar la atención de usuarios conscientes de la seguridad alimentaria.
+
+
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
+
+Food-Facts es una plataforma diseñada para proporcionar un análisis detallado y personalizado de la composición nutricional de alimentos procesados, enfocándose en la identificación de riesgos para la salud y la educación nutricional. Food-Facts permite a los usuarios registrar productos, obtener información detallada sobre los ingredientes y recibir reportes personalizados basados en sus condiciones de salud, ayudándoles a tomar decisiones alimenticias más seguras y saludables.
+
+Preguntas para la Entrevista:
+
+* ¿Con qué frecuencia consumes alimentos procesados?
+* ¿Te preocupa el impacto de los alimentos procesados en tu salud?
+* ¿Tienes alguna condición de salud que afecte tus decisiones alimenticias (como alergias, diabetes, etc.)?
+* ¿Revisas regularmente las etiquetas nutricionales de los productos que compras?
+* ¿Qué tipo de información te gustaría obtener al registrar un producto alimenticio?
+* ¿Cómo te sentirías si una aplicación te alertara sobre posibles riesgos para la salud asociados con ciertos alimentos?
+* ¿Crees que recibir reportes personalizados sobre tu dieta podría ayudarte a mejorar tu salud?
+* ¿Qué características adicionales te gustaría que Food-Facts tuviera para ayudarte a elegir alimentos más saludables?
+* ¿Cuánto estarías dispuesto a pagar por una aplicación que te ofrezca un análisis detallado y personalizado de tus alimentos?
+* ¿Qué tan útil te parece una aplicación como Food-Facts en tu vida diaria?
 
 ### 2.2.2. Registro de entrevistas.
 
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
+Desde la creación de Food-Facts, hemos llevado a cabo varias actividades clave para identificar las necesidades de nuestros usuarios:
 
+* Lluvia de Ideas: Comenzamos con una sesión donde propusimos y seleccionamos la idea central de Food-Facts: ofrecer un análisis nutricional profundo y personalizado de alimentos procesados.
+* Startup Profile: Desarrollamos el perfil de la startup, definiendo objetivos y características diferenciadoras para posicionarnos en el mercado.
+* Análisis de Problemática: Investigamos el impacto creciente de los alimentos ultraprocesados en la salud, usando fuentes como Euromonitor y Kantar.
+* 5W2H: Aplicamos esta técnica para entender mejor qué necesitan nuestros usuarios, por qué, y cómo Food-Facts puede satisfacer esas necesidades.
+* Entrevistas: Realizamos entrevistas a consumidores preocupados por la salud, lo que nos ayudó a refinar nuestro enfoque y diferenciarnos de los competidores.
+
+Estas actividades nos permitieron identificar de manera efectiva las necesidades clave de nuestros usuarios y guiar el desarrollo de Food-Facts.
 ### 2.3.1. User Personas.
+En esta sección, presentamos las fichas de User Persona, que representan arquetipos de los usuarios objetivo de Food-Facts. Estos arquetipos han sido elaborados a partir del análisis detallado de entrevistas y un estudio exhaustivo de la competencia. Las fichas destacan las características demográficas, comportamientos, necesidades y frustraciones de cada segmento objetivo, permitiéndonos comprender mejor a nuestros usuarios y diseñar soluciones que realmente respondan a sus necesidades.
+
+Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que también guían nuestras decisiones de diseño y desarrollo, asegurando que cada función de Food-Facts esté alineada con las expectativas y necesidades reales del mercado.
+
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/F7fU9Ro.png" alt="user1" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/DAvsgkl.png" alt="user2" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/dksoplu.png" alt="user3" style="width: auto; height: auto;">
+</div>
+
 ### 2.3.2. User Task Matrix.
+
+**Persona 1: "María, la Mamá Preocupada por la Salud"**
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Tareas</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Buscar recetas saludables en línea</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Escanear productos en el supermercado</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Leer etiquetas nutricionales</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Consultar blogs de nutrición</td>
+    <td>Often</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Preparar comidas saludables para su familia</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Comprar productos orgánicos</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Evitar alimentos con aditivos perjudiciales</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Seguir recomendaciones de expertos en nutrición</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+</table>
+
+**Persona 2: "Jose luis, el Profesional Activo y Consciente"**
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Tareas</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Usar aplicaciones de fitness</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Buscar snacks saludables</td>
+    <td>Often</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Leer etiquetas cuando tiene tiempo</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Hacer ejercicio regularmente</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Controlar su peso</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Seguir una dieta balanceada pero flexible</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Consultar alertas de riesgos nutricionales</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Tomar decisiones rápidas sobre alimentos en el trabajo</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+</table>
+
+**Persona 3: "Ana, la Estudiante Universitaria con Restricciones Alimenticias"**
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Tareas</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Investigar alimentos sin gluten</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Leer etiquetas de productos para verificar alérgenos</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Participar en foros sobre dietas y nutrición</td>
+    <td>Often</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Probar nuevas recetas sin gluten</td>
+    <td>Often</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Compartir información sobre productos seguros</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Seguir blogs especializados en dietas restrictivas</td>
+    <td>Often</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Verificar la precisión de etiquetas</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Asistir a charlas sobre nutrición</td>
+    <td>Occasionally</td>
+    <td>Medium</td>
+  </tr>
+</table>
+
 ### 2.3.3. User Journey Mapping.
+
+**Persona 1: "Jose luis, el Profesional Activo y Consciente"**
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/XRLmCVM.png" alt="jmp1" style="width: auto; height: auto;">
+</div>
+
+**Persona 2: "María, la Mamá Preocupada por la Salud"**
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/JBd3Vyj.png" alt="jmp2" style="width: auto; height: auto;">
+</div>
+
+**Persona 3: "Ana, la Estudiante Universitaria con Restricciones Alimenticias"**
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/AwWbNS1.png" alt="jmp3" style="width: auto; height: auto;">
+</div>
+
 ### 2.3.4. Empathy Mapping.
+
+**Persona 1: "Jose luis, el Profesional Activo y Consciente"**
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/pd2Pjco.png" alt="empathy1" style="width: auto; height: auto;">
+</div>
+
+**Persona 2: "María, la Mamá Preocupada por la Salud"**
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/hwy2M0P.png" alt="empathy2" style="width: auto; height: auto;">
+</div>
+
+**Persona 3: "Ana, la Estudiante Universitaria con Restricciones Alimenticias"**
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/uMnEUz7.png" alt="empathy3" style="width: auto; height: auto;">
+</div>
+
+
 ### 2.3.5. As-is Scenario Mapping.
+Escenario en el que una persona va a comprar productos procesados sin usar Food-Facts
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/S7KrpwJ.jpeg" alt="empathy3" style="width: auto; height: auto;">
+</div>
+
 ## 2.4. Ubiquitous Language.
+
+En la startup Food-Facts, es esencial establecer un lenguaje común y sin ambigüedades que facilite la comunicación entre todos los miembros del equipo, así como con los stakeholders. A continuación, se presenta un glosario de términos clave en inglés, junto con su equivalente en español y su definición en español.
+
+#### Glosario de Términos
+
+* **Nutritional Composition (Composición Nutricional)**
+Definición: Hace referencia a la proporción de macro y micronutrientes presentes en un alimento, tales como carbohidratos, proteínas, grasas, vitaminas y minerales.
+
+* **Processed Food (Alimento Procesado)**
+Definición: Alimentos que han sido alterados en su forma natural a través de procesos industriales para mejorar su sabor, textura, vida útil o conveniencia.
+
+* **Ingredient Analysis (Análisis de Ingredientes)**
+Definición: Evaluación detallada de los ingredientes presentes en un producto alimenticio para determinar su origen, calidad, y posibles impactos en la salud.
+
+* **Nutritional Labeling (Etiquetado Nutricional)**
+Definición: Información proporcionada en el envase del producto que detalla la cantidad de calorías y nutrientes, además de advertencias sobre el contenido de alérgenos y otros componentes relevantes.
+
+* **Health Risk (Riesgo para la Salud)**
+Definición: Potencial de un alimento o ingrediente para causar efectos adversos en la salud, basado en su composición y cantidad consumida.
+
+* **Food Safety (Seguridad Alimentaria)**
+Definición: Conjunto de condiciones y prácticas que preservan la calidad de los alimentos para prevenir enfermedades y garantizar que sean seguros para el consumo.
+
+* **Personalized Report (Reporte Personalizado)**
+Definición: Informe adaptado a las necesidades y preocupaciones específicas de un usuario, que proporciona recomendaciones basadas en sus preferencias y el análisis de productos alimenticios.
+
+* **Nutritional Value (Valor Nutricional)**
+Definición: Medida de la calidad y cantidad de nutrientes que un alimento ofrece en relación con las necesidades dietéticas humanas.
+
+* **Industrial Food Production (Producción Industrial de Alimentos)**
+Definición: Proceso de fabricación a gran escala de alimentos que incluye la manipulación, conservación, y embalaje utilizando maquinaria y tecnología avanzada.
+
+* **Food Additive (Aditivo Alimentario)**
+Definición: Sustancias añadidas a los alimentos para mejorar su sabor, apariencia o conservación, como conservantes, colorantes o saborizantes.
+
+Este glosario servirá como referencia para todos los integrantes de Food-Facts, asegurando que el equipo maneje los mismos conceptos y términos de manera consistente en todas las etapas del proyecto. 
 
 <h1 style="font-family: 'Roboto' sans-serif;"> Capítulo III: Requirements Specification</h1> 
 
