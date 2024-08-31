@@ -755,7 +755,7 @@ Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que 
 ### 2.3.5. As-is Scenario Mapping.
 Escenario en el que una persona va a comprar productos procesados sin usar Food-Facts
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/S7KrpwJ.jpeg" alt="empathy3" style="width: auto; height: auto;">
+    <img src="http://imgfz.com/i/S7KrpwJ.jpeg" alt="asis" style="width: auto; height: auto;">
 </div>
 
 ## 2.4. Ubiquitous Language.
@@ -800,9 +800,113 @@ Este glosario servirá como referencia para todos los integrantes de Food-Facts,
 
 
 ## 3.1. To-Be Scenario Mapping.
+Escenario en el que una persona va a comprar productos procesados usando Food-Facts
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/bkaqgnP.jpeg" alt="tobe" style="width: auto; height: auto;">
+</div>
+
 ## 3.2. User Stories.
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th colspan="5">User Stories</th>
+  </tr>
+  <tr>
+    <td colspan="5">
+      Requisitos definidos junto con el conjunto de User Stories y Epics para los requisitos identificados. Los User Stories incluyen Acceptance Criteria. En esta sección el equipo redacta una introducción y presenta un cuadro con la estructura especificada a continuación. Solo se elabora un cuadro para todo el conjunto de Epics/Stories. Debe dedicar una línea del cuadro a cada Epic / User Story.
+    </td>
+  </tr>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Criterios de Aceptación</th>
+    <th>Relacionado con (Epic ID)</th>
+  </tr>
+  <tr>
+    <td>US-001</td>
+    <td>Visualizar información nutricional detallada</td>
+    <td>Como usuario, quiero poder ver la información nutricional detallada de los productos alimenticios procesados para tomar decisiones informadas sobre mi salud.</td>
+    <td>El usuario puede ver una lista completa de valores nutricionales y alertas de salud para cada producto buscado.</td>
+    <td>EP-001</td>
+  </tr>
+  <tr>
+    <td>US-002</td>
+    <td>Buscar productos por nombre o categoría</td>
+    <td>Como usuario, quiero buscar productos alimenticios por su nombre o categoría para encontrar rápidamente información nutricional específica.</td>
+    <td>El usuario puede ingresar el nombre o seleccionar una categoría, y recibir una lista de productos relevantes con su información nutricional detallada.</td>
+    <td>EP-001</td>
+  </tr>
+  <tr>
+    <td>US-003</td>
+    <td>Personalización de alertas de salud</td>
+    <td>Como usuario, quiero personalizar alertas de salud basadas en mis condiciones médicas (por ejemplo, diabetes, hipertensión) para evitar productos que puedan ser perjudiciales para mi salud.</td>
+    <td>El usuario puede configurar su perfil con condiciones de salud específicas y recibir alertas personalizadas al buscar productos.</td>
+    <td>EP-002</td>
+  </tr>
+  <tr>
+    <td>US-004</td>
+    <td>Comparar productos similares</td>
+    <td>Como usuario, quiero comparar varios productos procesados similares para elegir la opción más saludable según la información nutricional proporcionada.</td>
+    <td>El usuario puede seleccionar dos o más productos y ver una comparación lado a lado de sus valores nutricionales y alertas de salud.</td>
+    <td>EP-003</td>
+  </tr>
+</table>
+
+
 ## 3.3. Impact Mapping.
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/bkaqgnP.jpeg" alt="impac" style="width: auto; height: auto;">
+</div>
 ## 3.4. Product Backlog.
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US01</td>
+      <td>Personalizar preferencias alimenticias</td>
+      <td>Como usuario quiero poder personalizar mis preferencias alimenticias en la app para recibir recomendaciones que se alineen con mis necesidades nutricionales.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US02</td>
+      <td>Alertas de ingredientes peligrosos</td>
+      <td>Como usuario con alergias alimentarias deseo recibir alertas sobre ingredientes peligrosos en los productos para evitar riesgos a mi salud.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>US03</td>
+      <td>Información detallada de valores nutricionales</td>
+      <td>Como usuario deseo acceder a información detallada sobre los valores nutricionales de los productos procesados para tomar decisiones informadas sobre mi dieta.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>US04</td>
+      <td>Recomendaciones de productos sin gluten</td>
+      <td>Como usuario con intolerancia al gluten deseo obtener recomendaciones de productos sin gluten para mantener mi dieta segura.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US05</td>
+      <td>Base de datos de productos confiable</td>
+      <td>Como usuario deseo que la app cuente con una base de datos de productos confiable y actualizada para asegurar la precisión en las recomendaciones.</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
 
 <h1 style="font-family: 'Roboto' sans-serif;">Capítulo IV: Product Design</h1> 
 
