@@ -1231,13 +1231,119 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fstructurizr-94828-SystemContext-001.png?alt=media&token=a6f7d435-1cf9-40f6-8c59-ce7e72bcf7c9 " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+</div>
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fstructurizr-94828-Container-001.png?alt=media&token=6148aafb-2469-49dd-8b15-939cbe985480 " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+</div>
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fstructurizr-94828-Component-001.png?alt=media&token=c63fab78-f0a7-4a48-b96a-ddcd735b253b " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+</div>
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FDCfoodfacts%20(2).png?alt=media&token=2c1320c3-397d-4f93-925a-aefccb7da993 " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+</div>
+
 ### 4.7.2. Class Dictionary.
+
+### User
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| User | id | Identificador del usuario | int | 4 bytes | Mayor a Cero |
+| | name | Nombre del usuario | string | Cadena de caracteres | Permite solo letras |
+| | email | Correo del usuario | string | Cadena de caracteres | Formato de email válido |
+| | password | Contraseña del usuario | string | Cadena de caracteres | Permite letras, números y símbolos |
+| | phone | Número de teléfono del usuario | string | Cadena de caracteres | Formato de número telefónico |
+
+### Subscription
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Subscription | startDate | Fecha de inicio de la suscripción | Date | Fecha | Permite solo fechas válidas |
+| | endDate | Fecha de finalización de la suscripción | Date | Fecha | Permite solo fechas válidas |
+| | type | Tipo de suscripción | string | Cadena de caracteres | Premium, Standard, Básico |
+| | cost | Costo de la suscripción | double | Moneda | Mayor o igual a 0 |
+
+### Food
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Food | name | Nombre del alimento | string | Cadena de caracteres | Permite solo letras |
+| | brand | Marca del alimento | string | Cadena de caracteres | Permite solo letras |
+| | category | Categoría del alimento | string | Cadena de caracteres | Permite solo letras |
+| | weight | Peso del alimento | double | Gramos | Mayor a 0 |
+| | calories | Calorías del alimento | double | Calorías | Mayor a 0 |
+
+### Nutrient
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Nutrient | name | Nombre del nutriente | string | Cadena de caracteres | Permite solo letras |
+| | amount | Cantidad del nutriente | double | Variable | Mayor a 0 |
+| | unit | Unidad de medida del nutriente | string | Cadena de caracteres | g, mg, μg, etc. |
+| | dailyRecommended | Cantidad diaria recomendada | double | Variable | Mayor a 0 |
+
+### Composition
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Composition | food | Alimento asociado a la composición | Food | N/A | N/A |
+| | nutrients | Lista de nutrientes | List<Nutrient> | N/A | N/A |
+| | totalAmount | Cantidad total de nutrientes | double | Variable | Mayor a 0 |
+| | dailyPercentage | Porcentaje diario recomendado | double | Porcentaje | Entre 0 y 100 |
+
+### PersonalizedRecommendation
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| PersonalizedRecommendation | user | Usuario que recibe la recomendación | User | N/A | N/A |
+| | recommendationName | Nombre de la recomendación | string | Cadena de caracteres | Permite solo letras |
+| | description | Descripción de la recomendación | string | Cadena de caracteres | N/A |
+| | creationDate | Fecha de creación de la recomendación | Date | Fecha | Permite solo fechas válidas |
+
+### AnalysisSystem
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| AnalysisSystem | systemName | Nombre del sistema de análisis | string | Cadena de caracteres | Permite solo letras |
+| | version | Versión del sistema | string | Cadena de caracteres | N/A |
+| | lastUpdate | Fecha de la última actualización | Date | Fecha | Permite solo fechas válidas |
+
+### AnalysisReport
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| AnalysisReport | userId | Identificador del usuario asociado | int | 4 bytes | Mayor a Cero |
+| | compositionId | Identificador de la composición asociada | int | 4 bytes | Mayor a Cero |
+| | recommendations | Recomendaciones generadas por el sistema | string | Cadena de caracteres | N/A |
+| | reportDate | Fecha del reporte | Date | Fecha | Permite solo fechas válidas |
+| | result | Resultado del análisis | string | Cadena de caracteres | N/A |
+
+### AnalysisHistory
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| AnalysisHistory | pastAnalyses | Lista de análisis previos | List<AnalysisReport> | N/A | N/A |
+| | lastAnalysisDate | Fecha del último análisis | Date | Fecha | Permite solo fechas válidas |
+| | currentStatus | Estado actual del análisis | string | Cadena de caracteres | N/A |
+
+### Notification
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Notification | message | Mensaje de la notificación | string | Cadena de caracteres | N/A |
+| | sendDate | Fecha de envío de la notificación | Date | Fecha | Permite solo fechas válidas |
+| | read | Estado de lectura de la notificación | boolean | 1 bit | true o false |
+| | type | Tipo de notificación | string | Cadena de caracteres | N/A |
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FDBfoodFacts.png?alt=media&token=5cacaaef-ef20-4cc0-871b-035ffe7119fb " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+</div>
 
 <h1 style="font-family: 'Roboto' sans-serif;">Capítulo V: Product Implementation, Validation & Deployment</h1> 
 
