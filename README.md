@@ -1504,6 +1504,36 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-1.png?alt=media&token=7c79d376-82dd-4e67-8647-e3fda100a686" alt="Ww1" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-2.png?alt=media&token=e6d6945b-a0ca-4b07-87d1-52ccbdcbafce" alt="Ww2" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-3.png?alt=media&token=f5e84087-bcea-44f9-8a32-c8f8d7f60277" alt="Ww3" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-4.png?alt=media&token=371ce36e-4e8c-427b-81f7-264ff9f51eff" alt="Ww4" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-5.png?alt=media&token=22dbf229-1856-40e1-b6da-ce5693e2443e" alt="Ww5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-6.png?alt=media&token=276ec28b-71b3-4926-bc77-983aba1111a3" alt="Ww6" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-7.png?alt=media&token=e8371a4c-82d3-46ad-b32c-ded792deb907" alt="Ww7" style="width: auto; height: auto;">
+</div>
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 <div style="text-align: center;">
@@ -1511,6 +1541,35 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
 </div>
 
 ### 4.4.2. Web Applications Mock-ups.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM1.PNG?alt=media&token=94e1ba1f-979f-4c6a-be64-354fa9cba8a9" alt="Wm1" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM2.PNG?alt=media&token=1c3c83b9-488f-4abc-b2d6-0a72870dd01a" alt="Wm2" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM3.PNG?alt=media&token=2a53345d-ceb0-42a5-9dbf-203fd8d5a3e9" alt="Wm3" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM4.PNG?alt=media&token=751dad94-9014-4a41-b141-26f7dc2daac4" alt="Wm4" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM5.PNG?alt=media&token=582ccf38-a07c-4b7d-81a7-e0a998f4073f" alt="Wm5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM6.PNG?alt=media&token=901d0283-43fb-4b6b-9b06-7e947a912398" alt="Wm6" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM7.PNG?alt=media&token=2d5d94c9-5370-4d4a-8d3d-081c1caebbba" alt="Wm7" style="width: auto; height: auto;">
+</div>
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 <div style="text-align: center;">
@@ -1518,6 +1577,18 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
 </div>
 
 ## 4.5. Web Applications Prototyping.
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fprot1.png?alt=media&token=990c6d82-5cae-457a-9e75-0e84d030ceb8" alt="5" style="width: auto; height: auto;">
+</div>
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fprot2.png?alt=media&token=fee68dbf-2903-4437-b6a4-88dac544e9e7" alt="5" style="width: auto; height: auto;">
+</div>
+
+
 ## 4.6. Domain-Driven Software Architecture.
 
 En esta seccion abordaremos el tema de la arquitectura de nuestro proyecto utilizando los concpetos de digramas de clase UML y c4 model structurizr
