@@ -260,43 +260,146 @@ Sin un acceso facil a analisis detallados y personalizados, los consumidores se 
 ### 1.2.2 Lean UX Process.
 
 ### 1.2.2.1. Lean UX Problem Statements.
-Nuestra plataforma ofrece una base de datos nutricionales e informacion acerca de productos procesados, sus valores nutricionales de manera didactica y riesgos a la salud por el consumo excesivo de estos, a traves de nuestra paltaforma, lo usuarios pueden estar informados sobre los ingredientes y riesgos de estos productos.
-Hemos detectados un factor critico que podria afectar la experiencia del usuario, este factor seria que como hya muchos prodcutos procesados algunos de estos no se encuentran en nuestra base de datos, esto requiere una actualizacion constante de los datos en nuestro sistema.
 
-¿Como podriamos tener todos los valores nutricionales y sus riesgos de los prodcutos procesados en nuestro sistema?
+Cuando lanzamos nuestra plataforma de información nutricional Food-Facts para  los consumidores preocupados por su salud, el mercado carecía de herramientas accesibles y completas para conocer los detalles nutricionales de los productos procesados. En ese entorno, nuestra plataforma se destacó al ofrecer una base de datos extensa y fácil de usar, empoderando a los usuarios a tomar decisiones informadas sobre su alimentación. Sin embargo, el rápido crecimiento de la industria alimentaria y la constante introducción de nuevos productos han generado un desafío significativo: mantener nuestra base de datos actualizada de manera eficiente y precisa. La necesidad de una actualización constante de los datos está incrementando nuestros costos operativos, consumiendo recursos de desarrollo y potencialmente afectando la confianza de los usuarios en la precisión de la información proporcionada.
+
+Cuando lanzamos FoodFacts, el mercado carecía de una fuente de información nutricional confiable y fácil de usar. Nuestra plataforma se destacó al ofrecer una base de datos extensa y detallada, empoderando a los usuarios a tomar decisiones más saludables. Sin embargo, el rápido crecimiento de la industria alimentaria y la constante introducción de nuevos productos han generado una brecha significativa en nuestra base de datos. Actualmente, el 35% de las búsquedas de nuestros usuarios no arrojan resultados, lo que limita su capacidad para obtener la información que necesitan y genera frustración. Esta falta de datos no solo afecta la satisfacción del usuario, sino que también reduce la credibilidad de FoodFacts como fuente de información nutricional completa. Además, dedicamos el 20% de nuestros recursos de desarrollo a actualizar manualmente nuestra base de datos, lo que limita nuestra capacidad para innovar y agregar nuevas funcionalidades a la plataforma. Este esfuerzo continuo impacta directamente en nuestros costos operativos y dificulta nuestra capacidad para escalar el negocio.
 
 ### 1.2.2.2. Lean UX Assumptions.
-* Los usuarios son personas que se preocupan por su salud y quieres prevenir riesgos en su salud
-* El problema anterior se podria resolver mediante un servicio de la plataforma Food-Facts que permita que el usuario ingrese un nuevo producto procesado.
-* Vamos a adquirir a los usuario a traves de publicidad en redes sociales
-* Unos de los valores del cliente es la reponsabilidad
+
+#### Features:
+
+__Búsqueda de Alimentos__
+
+- Resultado Empresarial: Posicionamiento como el buscador de alimentos más completo y confiable del mercado.
+
+- Beneficio para el Usuario: Facilidad para encontrar información detallada sobre cualquier producto alimenticio, incluyendo ingredientes, alérgenos, valores nutricionales y comparaciones con otros productos similares.
+
+__Creación de Perfiles Nutricionales Personalizados__
+
+- Resultado Empresarial: Mayor engagement del usuario y generación de datos valiosos para personalizar la experiencia.
+
+- Beneficio para el Usuario: Creación de perfiles nutricionales personalizados basados en objetivos de salud, restricciones alimentarias y preferencias.
+
+__Seguimiento de Consumo Alimentario__
+
+- Resultado Empresarial: Fomentar hábitos alimenticios saludables y aumentar la retención de usuarios.
+
+- Beneficio para el Usuario: Registro fácil y seguimiento del consumo diario de alimentos, con análisis de tendencias y sugerencias personalizadas para mejorar la dieta.
+
+__Comunidades y Foros__
+
+- Resultado Empresarial: Fortalecimiento de la marca y creación de una comunidad de usuarios comprometidos.
+
+- Beneficio para el Usuario: Interacción con otros usuarios, participación en discusiones sobre nutrición y acceso a consejos de expertos.
+
+#### Business Outcomes
+
+- Liderazgo en el Mercado: Posicionarse como la plataforma de referencia para información nutricional en el mercado hispanohablante.
+
+- Generación de Ingresos: Monetizar a través de suscripciones premium, partnerships con marcas de alimentos, venta de datos anónimos a investigadores y publicidad segmentada.
+
+- Impacto Social: Contribuir a la mejora de la salud pública y la educación nutricional en la comunidad hispana.
+
+#### User Benefits
+
+ - Empoderamiento: Dotar a los usuarios con el conocimiento necesario para tomar decisiones informadas sobre su alimentación y mejorar su calidad de vida.
+
+- Conveniencia: Ofrecer una experiencia rápida y fácil de usar, accesible desde cualquier dispositivo.
+
+- Personalización: Adaptar la aplicación a las necesidades y preferencias individuales de cada usuario.
+
+- Comunidad: Fomentar una comunidad de usuarios que comparten intereses comunes y se apoyan mutuamente.
+
+
+#### Assumptions
+- Se asume que los usuarios de FoodFacts están dispuestos a proporcionar información personal (edad, sexo, peso, altura, alergias alimentarias, etc.) para obtener recomendaciones nutricionales personalizadas y precisas.
+
+- Se asume que los usuarios valorarán la capacidad de escanear códigos de barras de productos para obtener información nutricional instantánea.
+
+- Se asume que los usuarios estarán interesados en recibir notificaciones personalizadas sobre nuevos productos, ofertas especiales y consejos nutricionales.
+
+- Se asume que los usuarios buscarán una interfaz intuitiva y fácil de usar, que les permita navegar rápidamente por la aplicación y encontrar la información que necesitan.
+
+- e asume que los usuarios estarán dispuestos a pagar por una suscripción premium para acceder a funciones avanzadas, como planes de alimentación personalizados y seguimiento detallado de sus objetivos nutricionales.
+
+- Se asume que los usuarios confiarán en la precisión y fiabilidad de la información proporcionada por FoodFacts.
+
+- Se asume que los usuarios estarán interesados en compartir sus experiencias y opiniones con otros usuarios a través de una comunidad en línea.
+
+- Se asume que los usuarios valorarán la posibilidad de integrar FoodFacts con otras aplicaciones de salud y bienestar, como rastreadores de actividad física y aplicaciones de fitness.
+
+- Se asume que los usuarios estarán interesados en recibir contenido educativo sobre nutrición y salud, como artículos, videos y recetas saludables.
+
+- Se asume que los usuarios buscarán una aplicación que se adapte a sus necesidades específicas y les permita personalizar su experiencia.
+
+- Se asume que los usuarios estarán dispuestos a recomendar FoodFacts a sus amigos y familiares.
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-* Creemos que al proporcionar informacion de valores nutricionales de manera didactica a las personas, estas seran mas repsonsables al comprar porductos procesados.
-* Creemos que al informar sobre los riesgos a la salud, los usuarios tendran mayor cuidado al consumir productos procesados
-* Creemos que al tener un servicio de ingreso personalizado sobre la seguridad de estos alimentos, se podria formar una comunidad entorno a nuestra plataforma Food-Facts
-* Sabremos que hemos tenido exito cuando las personas sean mas responsables al consumir alimentos procesados.
-  
+ 
+- Creemos que lograremos un aumento del 30% en el número de usuarios activos mensuales si los usuarios alcanzan una base de datos más completa y actualizada de productos procesados, incluyendo información detallada sobre ingredientes, alérgenos y aditivos.
+- Creemos que lograremos un aumento del 20% en la satisfacción del cliente si los usuarios alcanzan una mejor comprensión de los riesgos asociados al consumo excesivo de ciertos nutrientes o aditivos a través de informes personalizados y alertas sobre posibles riesgos para la salud.
+- Creemos que lograremos un aumento del 15% en la tasa de retención de usuarios a largo plazo si los usuarios alcanzan una experiencia más personalizada con la creación de perfiles nutricionales detallados y recomendaciones de alimentos basadas en sus objetivos de salud.
+- Creemos que lograremos un aumento del 25% en el número de usuarios que comparten la aplicación en redes sociales si los usuarios alcanzan una mayor confianza en la precisión y fiabilidad de la información proporcionada por la plataforma.
+- Creemos que lograremos un aumento del 10% en el valor promedio de las compras realizadas a través de nuestros socios afiliados si los usuarios alcanzan una mayor facilidad para encontrar productos saludables y sostenibles gracias a los filtros de búsqueda avanzados y las recomendaciones personalizadas.
+- Creemos que lograremos una calificación promedio de 4.8 estrellas en las tiendas de aplicaciones si los usuarios alcanzan una mayor satisfacción con la interfaz de usuario intuitiva y la facilidad de navegación dentro de la aplicación.
+- Creemos que lograremos un aumento del 15% en la tasa de conversión de usuarios gratuitos a premium si los usuarios alcanzan acceso a funciones exclusivas como la comparación de productos similares, la creación de planes de alimentación personalizados y el seguimiento de sus objetivos nutricionales a largo plazo.
+- Creemos que lograremos un aumento del 20% en el tiempo promedio de uso de la aplicación si los usuarios alcanzan una mayor interacción con la plataforma a través de la participación en comunidades y foros donde puedan compartir sus experiencias y conocimientos sobre nutrición.
+- Creemos que lograremos reducir en un 10% el tiempo que los usuarios tardan en encontrar información nutricional específica si implementamos una función de búsqueda por voz y reconocimiento de imágenes de productos.
+- Creemos que lograremos un aumento del 5% en el número de reseñas positivas en la aplicación si los usuarios alcanzan una mejor experiencia de atención al cliente a través de un chat en vivo con nutricionistas y un sistema de tickets de soporte eficiente.
+
 ### 1.2.2.4. Lean UX Canvas.
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/uBDL4Y7.png" alt="canvas" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FleanUXfoodFacts.png?alt=media&token=4d7f80c1-0545-463a-a907-09dcf10ce897" alt="canvas" style="width: auto; height: auto;">
 </div>
 
 ## 1.3. Segmentos objetivo.
-Nuestra startup esta dirigida a aquellas personas que quieren estar mejor informados al comprar productos procesados, es asi que mediante Food-Facts pueden estar mas informados y tambien podran cuidar su salud.
-**Descripción:** Esta seccion esta compuesta por personas que priorizan una alimentación saludable y buscan activamente información sobre los productos que consumen. Estos consumidores están preocupados por la calidad de los alimentos procesados y desean comprender mejor las etiquetas nutricionales para tomar decisiones informadas.
 
-**Características Demográficas:**
+### Descripción de cada segmento objetivo:
 
-Edad: Entre 25 y 45 años.
-Nivel Educativo: Generalmente con educación universitaria o superior.
-Ingreso: Ingresos medios a altos, con capacidad para gastar más en productos percibidos como más saludables.
-Ubicación: Mayormente en zonas urbanas, donde el acceso a información y productos saludables es más amplio.
-Información Estadística:
+__Consumidores Conscientes de la Salud:__
 
-Según un informe de Euromonitor International (2021), el 42% de los consumidores globales indica que está dispuesto a pagar más por productos saludables, y este porcentaje es aún mayor en las zonas urbanas de América Latina.
-En Perú, un estudio de Kantar Worldpanel (2020) mostró que el 31% de los hogares busca activamente productos con menos aditivos y conservantes, lo que refleja una tendencia creciente hacia la alimentación consciente.
+Este segmento objetivo está compuesto por individuos que priorizan una alimentación saludable y buscan activamente información sobre los productos que consumen. Estos consumidores están preocupados por la calidad de los alimentos procesados y desean comprender mejor las etiquetas nutricionales para tomar decisiones informadas. Buscan una herramienta que les permita identificar alimentos saludables, evitar alérgenos y tomar decisiones de compra más conscientes.
+
+__Personas con Trastornos Alimentarios:__
+
+Este segmento objetivo está compuesto por personas que viven con trastornos alimentarios como anorexia, bulimia o trastorno por atracón. Estos individuos a menudo experimentan una relación compleja con la comida y buscan herramientas para controlar sus impulsos y tomar decisiones más saludables. Al utilizar Food-Facts, pueden obtener información precisa sobre los alimentos que consumen, lo que les permite tomar decisiones más conscientes y controlar sus hábitos alimentarios.
+
+### Datos cuantitativos del problema:
+
+__Consumidores Conscientes de la Salud__
+
+Se estima que el 70% de los consumidores peruanos declara estar preocupado por su salud y nutrición, sin embargo, el 60% de ellos admite tener dificultades para interpretar las etiquetas nutricionales. Además, un estudio reciente reveló que el 45% de los consumidores peruanos cree que la información nutricional en los productos procesados es engañosa o incompleta. Esta falta de información precisa y confiable genera confusión y dificulta la toma de decisiones informadas sobre los alimentos que consumimos.
+
+__Personas con Trastornos Alimentarios__
+
+En Perú, se estima que el 1% de la población sufre de algún tipo de trastorno alimentario. Estos individuos enfrentan desafíos significativos para acceder a información precisa y confiable sobre los alimentos, lo que dificulta la gestión de su condición. Además, la estigmatización asociada a los trastornos alimentarios a menudo impide que estas personas busquen ayuda y apoyo.
+
+### Variables geográficas, demográficas y psicológicas:
+
+__Variable geográfica__
+
+- País: Perú <br>
+- Ciudades: Urbanas y suburbanas
+
+__Variable demográfica__
+
+- Género: Femenino y masculino<br>
+- Edad: 18 a 45 años<br>
+- Ocupación: Estudiantes, profesionales, amas de casa
+- Estado civil: Soltero, casado, divorciado<br>
+- Nivel socioeconómico: Medio y alto
+
+__Variable psicográfica__
+
+- Consumidores conscientes de la salud: Buscan productos naturales, orgánicos y libres de aditivos. Valoran la transparencia en la información y están dispuestos a pagar más por productos de alta calidad.<br>
+- Personas con trastornos alimentarios: Buscan control, perfección y aprobación. Pueden experimentar ansiedad, depresión y baja autoestima.
+- Valores: Control, perfección, seguridad, aceptación.
+- Actitudes: Preocupación excesiva por el peso y la imagen corporal, miedo a la comida, dificultad para controlar los impulsos, baja autoestima.
+- Estilo de vida: Restricciones alimentarias extremas, ejercicio excesivo, aislamiento social, búsqueda constante de información sobre alimentos.
+- Motivaciones: Controlar sus síntomas, mejorar su relación con la comida, recuperar su salud mental, encontrar apoyo social.
+
 
 <h1 style="font-family: 'Roboto' sans-serif;"> Capítulo II: Requirements Elicitation & Analysis</h1> 
 
@@ -568,15 +671,15 @@ En esta sección, presentamos las fichas de User Persona, que representan arquet
 Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que también guían nuestras decisiones de diseño y desarrollo, asegurando que cada función de Food-Facts esté alineada con las expectativas y necesidades reales del mercado.
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/F7fU9Ro.png" alt="user1" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fuser1.png?alt=media&token=cc0ab3b9-7ac5-4488-823d-3644f58e70ba" alt="user1" style="width: auto; height: auto;">
 </div>
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/DAvsgkl.png" alt="user2" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fuser2.png?alt=media&token=1dbb5f4e-31d0-4b95-b2b4-1c14dca30f79" alt="user2" style="width: auto; height: auto;">
 </div>
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/dksoplu.png" alt="user3" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fuser3.png?alt=media&token=eceb5bb7-067e-4b8d-82d0-bb2098563309" alt="user3" style="width: auto; height: auto;">
 </div>
 
 ### 2.3.2. User Task Matrix.
@@ -732,41 +835,41 @@ Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que 
 
 **Persona 1: "Jose luis, el Profesional Activo y Consciente"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/XRLmCVM.png" alt="jmp1" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FJ1.png?alt=media&token=d56464f1-a07f-45a1-8659-06686c06f862" alt="jmp1" style="width: auto; height: auto;">
 </div>
 
 **Persona 2: "María, la Mamá Preocupada por la Salud"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/JBd3Vyj.png" alt="jmp2" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FJ2.png?alt=media&token=0a1763eb-4e04-4690-8f2f-150941da1a8b" alt="jmp2" style="width: auto; height: auto;">
 </div>
 
 **Persona 3: "Ana, la Estudiante Universitaria con Restricciones Alimenticias"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/AwWbNS1.png" alt="jmp3" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FJ3.png?alt=media&token=f1d7a10f-abb7-42a8-b647-e5a5163997b0" alt="jmp3" style="width: auto; height: auto;">
 </div>
 
 ### 2.3.4. Empathy Mapping.
 
 **Persona 1: "Jose luis, el Profesional Activo y Consciente"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/pd2Pjco.png" alt="empathy1" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FE1.png?alt=media&token=a1648f95-387a-4936-9f99-d79a00dde3a8" alt="empathy1" style="width: auto; height: auto;">
 </div>
 
 **Persona 2: "María, la Mamá Preocupada por la Salud"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/hwy2M0P.png" alt="empathy2" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FE2.png?alt=media&token=5ff8fb83-bbb9-40ff-9b8c-7234ef7d2dbd" alt="empathy2" style="width: auto; height: auto;">
 </div>
 
 **Persona 3: "Ana, la Estudiante Universitaria con Restricciones Alimenticias"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/uMnEUz7.png" alt="empathy3" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FE3.png?alt=media&token=c05e373e-27f1-4211-b381-04a2b87eb752" alt="empathy3" style="width: auto; height: auto;">
 </div>
 
 
 ### 2.3.5. As-is Scenario Mapping.
 Escenario en el que una persona va a comprar productos procesados sin usar Food-Facts
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/S7KrpwJ.jpeg" alt="asis" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FAS-IS-foodfacts.png?alt=media&token=5680e4a2-898e-4b6a-8cbf-8fd938908238" alt="asis" style="width: auto; height: auto;">
 </div>
 
 ## 2.4. Ubiquitous Language.
@@ -813,7 +916,7 @@ Este glosario servirá como referencia para todos los integrantes de Food-Facts,
 ## 3.1. To-Be Scenario Mapping.
 Escenario en el que una persona va a comprar productos procesados usando Food-Facts
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/bkaqgnP.jpeg" alt="tobe" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FTO-BE-foodfacts.png?alt=media&token=867d3aaa-2fa9-4cc4-b85c-8df37a30ae9c" alt="tobe" style="width: auto; height: auto;">
 </div>
 
 ## 3.2. User Stories.
