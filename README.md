@@ -1319,10 +1319,137 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+
+La estructura de FoodFacts se presenta a través de un diagrama en árbol que detalla la jerarquía de sus componentes y funcionalidades. El diagrama se inicia en el nodo principal FoodFacts, que representa la aplicación en su totalidad. Desde este punto se ramifican dos grandes ramas: Landing Page, que corresponde a la página de inicio o aterrizaje, y Login, que agrupa todas las funcionalidades relacionadas con el acceso y gestión de usuarios. Una vez dentro, el usuario accede al Home que actúa como el centro de control, desde donde se ramifican secciones como Profile, Navbar, Nutritionist, Settings y Sign Out. Además, cuenta con secciones específicas para la gestión de productos (Products) y para el registro y recuperación de contraseñas. La sección Products ofrece información detallada sobre los alimentos, incluyendo nutrientes, ingredientes y origen. Por otro lado, la sección Nutritionist parece estar diseñada para profesionales de la nutrición, proporcionando herramientas y datos específicos para su trabajo. FoodFacts es una aplicación que, a juzgar por su estructura, busca ofrecer una plataforma tanto para usuarios finales que desean conocer más sobre los alimentos que consumen, como para profesionales de la nutrición que requieren herramientas especializadas para su labor.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FOrganitation%20System%20Food-Facts.jpg?alt=media&token=f69455fe-5f66-4280-9a78-e2307e996328" alt="O-S" style="width: auto; height: auto;">
+</div>
+
 ### 4.2.2. Labeling Systems.
+
+- Landing Page: Etiqueta para la página de inicio donde se presenta la aplicación y se ofrecen las opciones de iniciar sesión, registrarse o recuperar contraseña.
+
+- Login: Etiqueta para la función que permite a los usuarios autentificarse en la aplicación y acceder a sus funcionalidades.
+
+- Home: Etiqueta para la página principal del usuario, que actúa como punto de partida para navegar por las diferentes secciones de la aplicación.
+
+- Profile: Incluye etiquetas adicionales como:
+
+- Edit Profile: Para modificar la información personal del usuario.
+
+- Settings: Para configurar las preferencias del usuario.
+
+- Nutritionist Profile: Para la información específica del perfil de un nutricionista (si aplica).
+
+- User Data: Para visualizar los datos personales del usuario organizados por categorías (ej: país, ciudad, historial de búsqueda).
+
+- Nutritionist: Contiene etiquetas como: Patient Management: Para gestionar la información de los pacientes.
+
+- Diet Plans: Para crear y administrar planes de alimentación personalizados.
+
+- Research Tools: Para acceder a herramientas de investigación y bases de datos nutricionales.
+
+- Educational Resources: Para acceder a materiales educativos y guías de nutrición.
+Products: Incluye etiquetas como:
+
+- Food Database: Para buscar y consultar información sobre una amplia variedad de alimentos.
+- Nutrition Facts: Para visualizar los valores nutricionales de un producto específico.
+- Ingredients: Para ver la lista de ingredientes de un producto.
+- Allergens: Para identificar alérgenos presentes en un producto.
+- Settings: Incluye etiquetas como:
+
+- General Settings: Para configurar las preferencias generales de la aplicación.
+- Notification Settings: Para personalizar las notificaciones.
+- Account Settings: Para gestionar la información de la cuenta del usuario.
+- Data Privacy: Para configurar las opciones de privacidad de los datos.
+- Sign Out: Etiqueta para cerrar la sesión del usuario.
+
+- Search: Para la función de búsqueda de alimentos o nutrientes.
+- Favorites: Para guardar alimentos favoritos o búsquedas frecuentes.
+- Shopping List: Para crear listas de compras.
+- Community: Para interactuar con otros usuarios y compartir experiencias.
+
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de FoodFacts.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="FoodFacts: Tu guía completa de nutrición. Descubre información detallada sobre alimentos, calcula tu ingesta calórica y crea planes de alimentación saludables. Perfecto para nutricionistas y cualquier persona interesada en una vida más sana.">
+    <meta name="keywords" content="nutrición, alimentos, dieta, salud, calorías, nutricionista, planes de alimentación, FoodFacts, guía nutricional, alimentos saludables">
+    <meta name="author" content="FoodFacts">
+
+    <meta property="og:title" content="FoodFacts | Tu Guía Completa de Nutrición">
+    <meta property="og:description" content="Con FoodFacts, conocerás todo lo que necesitas saber sobre los alimentos que consumes. Calcula tus macros, descubre nuevos alimentos y mejora tu alimentación.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.foodfacts.com">
+    <meta property="og:image" content="https://www.foodfacts.com/images/landing-page.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="FoodFacts | Tu Guía Completa de Nutrición">
+    <meta name="twitter:description" content="Toma el control de tu alimentación con FoodFacts. ¡Descarga la app ahora!">
+    <meta name="twitter:image" content="https://www.foodfacts.com/images/landing-page.jpg">
+
+    <title>FoodFacts | Tu Guía Completa de Nutrición</title>
+</head>
+<body>
+    </body>
+</html>
+
+```
+
 ### 4.2.4. Searching Systems.
+
+
+
+__Ubicación__
+- Se encuentra de manera prominente en la página principal, permitiendo a los usuarios buscar rápidamente alimentos, recetas, nutrientes o cualquier otra información relacionada.
+
+__Funcionalidad__
+- Permite realizar búsquedas por palabras clave, como "recetas veganas con quinoa" o "alimentos ricos en hierro".
+
+__Filtros de Búsqueda__
+- Tipo de alimento: Filtrar por frutas, verduras, granos, lácteos, carnes, etc.
+- Nutrientes: Filtrar por contenido de macronutrientes (proteínas, carbohidratos, grasas) y micronutrientes (vitaminas, minerales).
+- Dietéticas: Filtrar por alimentos adecuados para dietas específicas (vegana, vegetariana, ceto, sin gluten, etc.).
+- Alergenos: Filtrar por alimentos que contengan alérgenos comunes (gluten, lactosa, frutos secos, etc.).
+- Restricciones dietéticas: Filtrar por alimentos que cumplan con ciertas restricciones (bajo en sodio, sin azúcar añadida, etc.).
+
+- Rango de calorías: Filtrar por contenido calórico.
+- Cocina: Filtrar por tipo de cocina (italiana, mexicana, asiática, etc.).
+
+__Presentación de Resultados__
+- Listados: Mostrar los resultados en una lista con información concisa como nombre del alimento, imagen, valor nutricional destacado y un enlace para ver más detalles.
+- Tarjetas: Presentar los resultados en tarjetas visuales con información resumida y una imagen atractiva.
+- Recetas: Mostrar recetas relacionadas con la búsqueda, incluyendo ingredientes y pasos a seguir.
+- Gráficos: Visualizar la composición nutricional de los alimentos a través de gráficos circulares o barras.
+
+__Ordenamiento de Resultados__
+- Relevancia: Ordenar los resultados según la coincidencia con los términos de búsqueda.
+- Popularidad: Ordenar por popularidad o número de veces que se ha buscado un alimento.
+- Valor nutricional: Ordenar por contenido de un nutriente específico (por ejemplo, mayor contenido de proteína).
+- Precio: Ordenar por precio de menor a mayor o viceversa.
+
+__Sugerencias de Búsqueda__
+- Búsquedas relacionadas: Sugerir términos de búsqueda similares o relacionados con la consulta inicial.
+- Productos complementarios: Sugerir alimentos que complementen la búsqueda actual (por ejemplo, si se busca "pollo", sugerir "especias para pollo").
+- Recetas: Sugerir recetas que incluyan el alimento buscado.
+
 ### 4.2.5. Navigation Systems.
+
+En el sitio web de FoodFacts, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte izquierda de la pantalla.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FNS.PNG?alt=media&token=bfa29c27-fb63-44f4-bbe2-9cd12d3a312b " alt="N-S" style="width: auto; height: auto;">
+</div>
+
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
