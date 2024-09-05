@@ -1480,14 +1480,48 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
 
 ### 4.3.2. Landing Page Mock-up.
 
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2Fhome.PNG?alt=media&token=8dad5bdb-eaaf-4ca7-bb73-f62b93df9bc0" alt="W5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2Fhom2.PNG?alt=media&token=965f566a-d3f2-4e5b-b486-31c3a8e3d651" alt="W5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2Fhome3.PNG?alt=media&token=413d6866-cf05-4cac-9de2-a896deb38286" alt="W5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FAboutUs.PNG?alt=media&token=42d51e46-fef1-4736-b15d-3ab93cc06a43" alt="W5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FAsks.PNG?alt=media&token=32ba3cd2-ce44-428c-9b98-8c3397b1bf88" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FwireframesDiagram.png?alt=media&token=2d0fb32d-2378-47f1-96e5-9408dccb0fe7" alt="5" style="width: auto; height: auto;">
+</div>
+
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fuserflowdiagrams.png?alt=media&token=e859d8ae-f7e2-475b-9bbe-6db1cbb26762" alt="5" style="width: auto; height: auto;">
+</div>
+
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
+
+En esta seccion abordaremos el tema de la arquitectura de nuestro proyecto utilizando los concpetos de digramas de clase UML y c4 model structurizr
+
 ### 4.6.1. Software Architecture Context Diagram.
 
 <div style="text-align: center;">
