@@ -1451,8 +1451,36 @@ En el sitio web de FoodFacts, los usuarios pueden navegar de manera fluida a tra
 
 
 ## 4.3. Landing Page UI Design.
+
+En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing Page y el Website que seria toda la parte visible por parte del cliente.
+
 ### 4.3.1. Landing Page Wireframe.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-1.png?alt=media&token=3f12c6f6-5b53-4da0-8b78-e0c88ce9d72d" alt="W1" style="width: auto; height: auto;">
+</div>
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-2.png?alt=media&token=651ec32d-f694-4442-a01b-b950eecd7d72" alt="W2" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-3.png?alt=media&token=bc247e12-521c-4c63-9a0d-fb16205beaa9" alt="W3" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-4.png?alt=media&token=760b04e5-b399-4f38-9276-e3af3f2c11a1" alt="W4" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-5.png?alt=media&token=95d0dbee-dd4b-443b-9f82-ee5c8dea0ddb" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
 ### 4.3.2. Landing Page Mock-up.
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
