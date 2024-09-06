@@ -36,6 +36,18 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">Michael Quispe</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U20221E734</td>
             </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">--------</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">----------</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">----------</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">-----------</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">----------</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">-----------</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -2049,8 +2061,13 @@ index.html: Archivo principal HTML.
 - **HTTPS**: GitHub Pages activa automáticamente el uso de HTTPS, por lo que no es necesario configurarlo manualmente.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+
 ### 5.2.1. Sprint 1
+
+Durante el Sprint 1, nuestro enfoque estuvo en el diseño de la landing page de nuestro producto. Trabajamos arduamente para conceptualizar y dar forma a la primera impresión que tendrán nuestros usuarios. Este sprint fue fundamental para establecer la estética y la estructura inicial de nuestra plataforma, sentando así las bases para futuras iteraciones.
+
 ### 5.2.1.1. Sprint Planning 1.
+
 ### 5.2.1.2. Sprint Backlog 1.
 ### 5.2.1.3. Development Evidence for Sprint Review.
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review.
@@ -2058,6 +2075,7 @@ index.html: Archivo principal HTML.
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
