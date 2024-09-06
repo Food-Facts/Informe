@@ -1117,7 +1117,15 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 
 ## 3.3. Impact Mapping.
 <div style="text-align: center;">
-    <img src="https://postimg.cc/S2J7PqyF" alt="impac1" style="width: auto; height: auto;">
+    <img src="https://i.postimg.cc/j5hgLdm5/impac1.png" alt="impac1" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/k4hSj0ts/impac2.png" alt="impac2" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/vTJVy5h6/impac3.png" alt="impac3" style="width: auto; height: auto;">
 </div>
 
 ## 3.4. Product Backlog.
