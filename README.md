@@ -652,8 +652,59 @@ Preguntas para la Entrevista:
 * ¿Qué tan útil te parece una aplicación como Food-Facts en tu vida diaria?
 
 ### 2.2.2. Registro de entrevistas.
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 1:**
+
+**Nombres y Apellidos:** Jennifer Quispe Roldan
+
+**Edad:** 21 años
+
+**Lugar de Residencia:** Surco
+
+**Ocupación:** Estudiante de ingwnieria ambiental
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EaME9ht66e9IkB9ADvm6ZFABMuihNvmulPWkdYo0Po7U_w?e=fnkBxW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Jennifer trata de evitar los alimentos procesados, pero los consume ocasionalmente por falta de tiempo o alternativas más saludables. Está preocupada por los efectos de estos productos en su salud a largo plazo debido a los ingredientes dañinos que suelen contener. Aunque no tiene una condición médica específica, se esfuerza por mantener una dieta equilibrada. Revisa siempre las etiquetas nutricionales de los productos, prestando especial atención a azúcares, grasas y sodio, además de evitar aditivos innecesarios.
+
+Le gustaría que al registrar un producto alimenticio, se proporcionara un desglose claro de los nutrientes e ingredientes, además de alertas sobre aditivos dañinos. Encuentra útil que una aplicación le advierta sobre riesgos de salud relacionados con ciertos alimentos y cree que reportes personalizados sobre su dieta la ayudarían a mejorar su salud. Le gustaría que una aplicación como Food-Facts ofreciera recomendaciones basadas en sus preferencias y necesidades, y la capacidad de escanear productos en tiendas para obtener información rápidamente. Está dispuesta a pagar entre $5 y $10 mensuales si la aplicación es de valor. Considera que esta herramienta sería útil para tomar decisiones más saludables en su vida diaria.
+
+**Segmento Objetivo: Personas con problemas alimenticios**
+**Entrevista 1:**
+
+**Nombres y Apellidos:** Fabrizio Sanchez Zamora
+
+**Edad:** 21 años
+
+**Lugar de Residencia:** Chorrillos
+
+**Ocupación:** Estudiante de ingwnieria de software
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EToONiw4RfdOlQFT358iV1QBlRVFleQk-XJ-0Ue570GPbw?e=dfE1NJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Fabrizio consume alimentos procesados con frecuencia, especialmente cuando se siente ansiosa o estresada, lo que le dificulta mantener una dieta equilibrada. Aunque está preocupada por el impacto de estos alimentos en su salud, a veces le resulta difícil evitarlos, lo que le genera culpa y afecta su estado de ánimo. No tiene una condición médica diagnosticada, pero su relación complicada con la comida influye en sus decisiones alimenticias, alternando entre comer en exceso o evitar comer. A veces revisa las etiquetas nutricionales, pero esto puede causarle frustración o ansiedad, por lo que en otras ocasiones las evita.
+
+Prefiere recibir información clara sobre los alimentos sin sentirse juzgada, y cree que una aplicación que le mostrara riesgos para la salud sería útil si lo hiciera de manera positiva y sin generar más ansiedad. Reportes personalizados podrían ser útiles, pero le preocupa que aumenten su ansiedad si no están orientados al cambio gradual. Le gustaría que la aplicación incluyera herramientas para gestionar la ansiedad relacionada con la comida, y está dispuesta a pagar una opción accesible si la ayuda tanto en lo emocional como en lo físico. Cree que Food-Facts podría ser útil si maneja la información de manera equilibrada y no la hace sentir mal por sus elecciones.
 
 ### 2.2.3. Análisis de entrevistas.
+
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 1:**
+
+**Analisis de la Entrevista:** Jennifer demuestra una preocupación activa por su salud, priorizando la reducción de alimentos procesados y la mejora continua de su dieta. Aunque no tiene una condición de salud que afecte sus decisiones alimenticias, muestra un alto nivel de conciencia sobre los riesgos de los ingredientes procesados. Su comportamiento en la compra, como revisar etiquetas nutricionales, sugiere un fuerte deseo de estar informada y tomar decisiones conscientes, especialmente con respecto a nutrientes clave y aditivos dañinos.
+
+La disposición de la persona a utilizar una aplicación como Food-Facts resalta la creciente demanda por herramientas tecnológicas que faciliten el acceso a información nutricional detallada y personalizada. Además, el interés en recibir alertas y reportes personalizados refleja una tendencia hacia el control de la salud a través de datos personalizados. La disposición a pagar por la aplicación muestra una valoración positiva de los beneficios potenciales de contar con una herramienta que apoye la toma de decisiones saludables, lo que sugiere que Food-Facts podría tener éxito si cumple con estas expectativas.
+
+**Segmento Objetivo: Personas con problemas alimenticios**
+
+**Entrevista 1:**
+
+**Analisis de la Entrevista:** Fabrizio tiene una relación compleja con la comida, marcada por la ansiedad y la culpa, lo que afecta tanto sus hábitos alimenticios como su bienestar emocional. Aunque es consciente de los riesgos de los alimentos procesados y se preocupa por su salud, la dificultad para mantener una dieta equilibrada la lleva a recurrir a estos productos. La fluctuación entre obsesionarse con las etiquetas y evitarlas refleja una lucha interna por controlar su alimentación sin aumentar su ansiedad.
+
+El enfoque de esta persona hacia una aplicación como Food-Facts refleja la necesidad de una herramienta que le brinde apoyo emocional y funcional. No solo requiere información nutricional clara, sino también un enfoque que no la haga sentir juzgada o que aumente su ansiedad. La inclusión de herramientas para gestionar el estrés y la relación emocional con la comida sería clave para que esta aplicación sea útil para ella. Si Food-Facts puede ofrecer un enfoque de bienestar integral, que equilibre lo emocional y lo físico, podría tener un impacto positivo en personas con dificultades similares.
+
 
 ## 2.3. Needfinding.
 Desde la creación de Food-Facts, hemos llevado a cabo varias actividades clave para identificar las necesidades de nuestros usuarios:
@@ -1324,7 +1375,21 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+### 4.1.1. General Style Guidelines.
+Typography: Para nuestra fuente haremos uso de dos tipografías, ambas en sus variantes de peso Regular, Medium, Semi Bold y Bold. Merriweather Sans, principalmente usado para los títulos, subtítulos y encabezados de artículos. Roboto, empleado para contenido como párrafos, texto informativo, etc. Elaboramos unas reglas para un estilo uniforme en los contenidos de la Landing Page y Aplicación Web. Cabe recalcar que el sistema varía con el principio de Responsive Design.
+
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/k3FNMJY.png" alt="Tipografia" style="width: 50%; height: auto;">
+</div>
+
 ### 4.1.2. Web Style Guidelines.
+
+El enfoque principal del estilo para la aplicación web y la landing page se centra en:
+Diseño minimalista y colorido: La aplicación tendrá un enfoque minimalista para evitar abrumar al usuario con demasiada información o elementos en pantalla.
+Imágenes ilustrativas: Se utilizarán ilustraciones en lugar de fotografías, ya que estas se alinean mejor con el estilo minimalista y permiten una mayor personalización visual.
+Elementos de interacción intuitivos: Los elementos de la aplicación serán intuitivos para mejorar la experiencia del usuario, destacándose principalmente con los colores primarios y secundarios.
+Contraste de colores: Se prioriza un adecuado contraste entre los elementos para mejorar la claridad y legibilidad dentro de la aplicación.
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 
