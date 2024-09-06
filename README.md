@@ -1535,17 +1535,12 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
 </div>
 
 
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-2.png?alt=media&token=651ec32d-f694-4442-a01b-b950eecd7d72" alt="W2" style="width: auto; height: auto;">
-</div>
 
 <div style="text-align: center;">
     <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-3.png?alt=media&token=bc247e12-521c-4c63-9a0d-fb16205beaa9" alt="W3" style="width: auto; height: auto;">
 </div>
 
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-4.png?alt=media&token=760b04e5-b399-4f38-9276-e3af3f2c11a1" alt="W4" style="width: auto; height: auto;">
-</div>
+
 
 <div style="text-align: center;">
     <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-5.png?alt=media&token=95d0dbee-dd4b-443b-9f82-ee5c8dea0ddb" alt="W5" style="width: auto; height: auto;">
@@ -1555,23 +1550,31 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
 ### 4.3.2. Landing Page Mock-up.
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2Fhome.PNG?alt=media&token=8dad5bdb-eaaf-4ca7-bb73-f62b93df9bc0" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup1.png?alt=media&token=66295e34-726b-42bb-8137-40fbdebf7c62" alt="W5" style="width: auto; height: auto;">
 </div>
 
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2Fhom2.PNG?alt=media&token=965f566a-d3f2-4e5b-b486-31c3a8e3d651" alt="W5" style="width: auto; height: auto;">
-</div>
+
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2Fhome3.PNG?alt=media&token=413d6866-cf05-4cac-9de2-a896deb38286" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup2.png?alt=media&token=f7712ff2-b0fb-4536-b28b-0f4b70836d70" alt="W5" style="width: auto; height: auto;">
 </div>
 
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FAboutUs.PNG?alt=media&token=42d51e46-fef1-4736-b15d-3ab93cc06a43" alt="W5" style="width: auto; height: auto;">
-</div>
+
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FAsks.PNG?alt=media&token=32ba3cd2-ce44-428c-9b98-8c3397b1bf88" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup3.jpg?alt=media&token=3e9d68ea-0d54-447f-b0e9-234f8369e27c" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup4.png?alt=media&token=c23bf888-7e8b-4416-9de8-2d7d0ae5e52d" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup5.png?alt=media&token=dc43d040-35b4-41f4-8990-54ae1e32682e" alt="W5" style="width: auto; height: auto;">
 </div>
 
 
