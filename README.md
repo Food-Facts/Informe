@@ -1003,198 +1003,43 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 
 ## 3.2. User Stories.
 
-<table border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <th colspan="5">User Stories</th>
-  </tr>
-  <tr>
-    <td colspan="5">
-      Requisitos definidos junto con el conjunto de User Stories y Epics para los requisitos identificados. Los User Stories incluyen Acceptance Criteria. En esta sección el equipo redacta una introducción y presenta un cuadro con la estructura especificada a continuación. Solo se elabora un cuadro para todo el conjunto de Epics/Stories. Debe dedicar una línea del cuadro a cada Epic / User Story.
-    </td>
-  </tr>
-  <tr>
-    <th>Epic / Story ID</th>
-    <th>Título</th>
-    <th>Descripción</th>
-    <th>Criterios de Aceptación</th>
-    <th>Relacionado con (Epic ID)</th>
-  </tr>
-  <tr>
-    <td>US-001</td>
-    <td>Visualizar información nutricional detallada</td>
-    <td>Como usuario, quiero poder ver la información nutricional detallada de los productos alimenticios procesados para tomar decisiones informadas sobre mi salud.</td>
-    <td>Visualización exitosa<br>Dado que un usuario busca un producto alimenticio procesado, cuando selecciona el producto de la lista de resultados, entonces se muestra una página con la información nutricional detallada del producto, incluyendo calorías, grasas, proteínas, carbohidratos, y otros valores relevantes.</td>
-    <td>EP-001</td>
-  </tr>
-  <tr>
-    <td>US-002</td>
-    <td>Buscar productos por nombre o categoría</td>
-    <td>Como usuario, quiero buscar productos alimenticios por su nombre o categoría para encontrar rápidamente información nutricional específica.</td>
-    <td>Búsqueda por nombre exitosa<br>Dado que un usuario quiere encontrar un producto específico, cuando ingresa el nombre del producto en la barra de búsqueda y presiona "Buscar", entonces el sistema muestra una lista de productos relevantes con su información nutricional detallada.</td>
-    <td>EP-001</td>
-  </tr>
-  <tr>
-    <td>US-003</td>
-    <td>Personalización de alertas de salud</td>
-    <td>Como usuario, quiero personalizar alertas de salud basadas en mis condiciones médicas (por ejemplo, diabetes, hipertensión) para evitar productos que puedan ser perjudiciales para mi salud.</td>
-    <td>Configuración de alertas basada en condiciones de salud<br>Dado que un usuario tiene una condición de salud específica (por ejemplo, diabetes), cuando ingresa esta información en su perfil, entonces el sistema genera alertas personalizadas al buscar productos que puedan ser perjudiciales.</td>
-    <td>EP-002</td>
-  </tr>
-  <tr>
-    <td>US-004</td>
-    <td>Comparar productos similares</td>
-    <td>Como usuario, quiero comparar varios productos procesados similares para elegir la opción más saludable según la información nutricional proporcionada.</td>
-    <td>Comparación de dos productos<br>Dado que un usuario desea comparar dos productos procesados, cuando selecciona ambos productos para comparación, entonces el sistema muestra una tabla lado a lado con los valores nutricionales y alertas de salud de cada producto.</td>
-    <td>EP-003</td>
-  </tr>
-  <tr>
-    <td>US-005</td>
-    <td>Valor nutricional real</td>
-    <td>Como usuario, quiero ver el valor nutricional real de los productos para tomar decisiones informadas sobre mi alimentación.</td>
-    <td>Visualización de valores nutricionales<br>Dado que selecciono un producto, cuando visualizo su información nutricional, entonces deben mostrarse detalles como calorías, grasas, proteínas y otros nutrientes.</td>
-    <td>EP-003</td>
-  </tr>
-  <tr>
-    <td>US-006</td>
-    <td>Registro de usuarios</td>
-    <td>Como nuevo usuario, quiero registrarme en la plataforma para acceder a la información y alertas personalizadas.</td>
-    <td>Registro exitoso<br>Dado que un nuevo usuario ingresa sus datos, cuando presiona "Registrarse", entonces su cuenta se crea exitosamente.</td>
-    <td>EP-004</td>
-  </tr>
-  <tr>
-    <td>US-007</td>
-    <td>Inicio de sesión de usuarios</td>
-    <td>Como usuario registrado, quiero iniciar sesión en la plataforma para acceder a mis alertas y configuraciones personalizadas.</td>
-    <td>Inicio de sesión exitoso<br>Dado que un usuario registrado ingresa sus credenciales, cuando presiona "Iniciar sesión", entonces puede acceder a su cuenta.</td>
-    <td>EP-004</td>
-  </tr>
-  <tr>
-    <td>US-008</td>
-    <td>Recuperar contraseña</td>
-    <td>Como usuario, quiero poder recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.</td>
-    <td>Recuperación de contraseña<br>Dado que un usuario olvidó su contraseña, cuando solicita recuperación, entonces recibe un enlace para restablecerla.</td>
-    <td>EP-005</td>
-  </tr>
-  <tr>
-    <td>US-009</td>
-    <td>Actualizar perfil de usuario</td>
-    <td>Como usuario, quiero poder actualizar mi perfil (información personal y preferencias) para mantener mis datos al día y recibir alertas relevantes.</td>
-    <td>Actualización exitosa<br>Dado que un usuario desea actualizar su perfil, cuando guarda los cambios, entonces la información se actualiza correctamente.</td>
-    <td>EP-006</td>
-  </tr>
-  <tr>
-    <td>US-010</td>
-    <td>Visualizar historial de búsquedas</td>
-    <td>Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado.</td>
-    <td>Visualización del historial<br>Dado que un usuario accede a su cuenta, cuando selecciona "Historial", entonces puede ver todas sus búsquedas anteriores.</td>
-    <td>EP-007</td>
-  </tr>
-  <tr>
-    <td>US-011</td>
-    <td>Configuración de notificaciones</td>
-    <td>Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes.</td>
-    <td>Configuración de notificaciones<br>Dado que un usuario desea configurar notificaciones, cuando selecciona las opciones deseadas, entonces recibe alertas según sus preferencias.</td>
-    <td>EP-008</td>
-  </tr>
-  <tr>
-    <td>US-012</td>
-    <td>Obtener reportes personalizados</td>
-    <td>Como usuario, quiero generar reportes personalizados sobre la seguridad y valor nutricional de productos específicos para revisarlos o compartirlos.</td>
-    <td>Generación de reporte<br>Dado que un usuario quiere un reporte, cuando selecciona los productos y genera el reporte, entonces puede visualizarlo o descargarlo.</td>
-    <td>EP-009</td>
-  </tr>
-  <tr>
-    <td>US-013</td>
-    <td>Explorar categorías de productos</td>
-    <td>Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional.</td>
-    <td>Exploración de categorías<br>Dado que un usuario accede al menú de categorías, cuando selecciona una categoría, entonces puede ver la lista de productos relacionados.</td>
-    <td>EP-010</td>
-  </tr>
-  <tr>
-    <td>US-014</td>
-    <td>Ver alertas de productos no saludables</td>
-    <td>Como usuario, quiero recibir alertas sobre productos no saludables que estoy considerando comprar para evitar riesgos a mi salud.</td>
-    <td>Recepción de alertas<br>Dado que un usuario busca un producto, cuando el producto tiene riesgos asociados, entonces recibe una alerta con detalles.</td>
-    <td>EP-011</td>
-  </tr>
-  <tr>
-    <td>US-015</td>
-    <td>Identificación de Aditivos Artificiales</td>
-    <td>Como usuario, quiero saber si un producto contiene aditivos artificiales para evitarlos en mi dieta.</td>
-    <td>Marcado de aditivos<br>Dado que selecciono un producto, cuando contiene aditivos artificiales, entonces debe identificarse claramente con una explicación de cada aditivo.</td>
-    <td>EP-012</td>
-  </tr>
-  <tr>
-    <td>US-016</td>
-    <td>Filtrar productos por valor nutricional</td>
-    <td>Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas.</td>
-    <td>Aplicación de filtros<br>Dado que un usuario desea filtrar productos, cuando selecciona los filtros deseados, entonces ve una lista de productos que cumplen con los criterios.</td>
-    <td>EP-013</td>
-  </tr>
-  <tr>
-    <td>US-017</td>
-    <td>Recomendaciones de productos saludables</td>
-    <td>Como usuario, quiero recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos para mejorar mi dieta.</td>
-    <td>Recepción de recomendaciones<br>Dado que un usuario tiene un perfil configurado, cuando accede a la plataforma, entonces recibe recomendaciones personalizadas de productos saludables.</td>
-    <td>EP-014</td>
-  </tr>
-  <tr>
-    <td>US-018</td>
-    <td>Guardar productos favoritos</td>
-    <td>Como usuario, quiero guardar productos en una lista de favoritos para acceder rápidamente a su información en el futuro.</td>
-    <td>Guardado de favoritos<br>Dado que un usuario encuentra un producto interesante, cuando selecciona "Añadir a favoritos", entonces el producto se guarda en su lista personal.</td>
-    <td>EP-015</td>
-  </tr>
-  <tr>
-    <td>US-019</td>
-    <td>Eliminar productos de favoritos</td>
-    <td>Como usuario, quiero poder eliminar productos de mi lista de favoritos para mantenerla actualizada con mis preferencias actuales.</td>
-    <td>Eliminación de favoritos<br>Dado que un usuario ya no desea un producto en favoritos, cuando selecciona "Eliminar", entonces el producto se elimina de la lista.</td>
-    <td>EP-015</td>
-  </tr>
-  <tr>
-    <td>US-020</td>
-    <td>Comparación de Productos</td>
-    <td>Como usuario, quiero comparar rápidamente dos productos para elegir la opción más saludable.</td>
-    <td>Comparación de ingredientes<br>Dado que selecciono dos productos, cuando los comparo, entonces el sistema debe mostrar las diferencias clave en ingredientes y valores nutricionales.</td>
-    <td>EP-016</td>
-  </tr>
-  <tr>
-    <td>US-021</td>
-    <td> Informes de Tendencias de Consumo</td>
-    <td>Como usuario, quiero recibir informes periódicos sobre tendencias en mi consumo alimenticio para hacer ajustes si es necesario.</td>
-    <td>Análisis de tendencias<br>Dado que consumo productos regularmente, cuando se genera un informe, entonces debe incluir un análisis de tendencias en el consumo de calorías y nutrientes.</td>
-    <td>EP-016</td>
-  </tr>
-  <tr>
-    <td>US-022</td>
-    <td> Sugerencias para Mejora de Hábitos Alimenticios</td>
-    <td>Como usuario, quiero recibir sugerencias para mejorar mis hábitos alimenticios basadas en mi consumo actual.</td>
-    <td>Sugerencias personalizadas<br>Dado que mi historial de consumo está registrado, cuando recibo sugerencias, entonces deben estar basadas en análisis de patrones de consumo.</td>
-    <td>EP-017</td>
-  </tr>
-  <tr>
-    <td>US-023</td>
-    <td>Filtro por Preferencias Alimenticias</td>
-    <td>Como usuario, quiero filtrar productos según mis preferencias alimenticias para encontrar opciones adecuadas a mi dieta.</td>
-    <td>Filtro aplicado correctamente<br>Dado que configuro mis preferencias alimenticias, cuando busco productos, entonces deben mostrarse solo aquellos que cumplen con mis criterios.</td>
-    <td>EP-018</td>
-  </tr>
-  <tr>
-    <td>US-024</td>
-    <td>Gestión de Listas de Productos</td>
-    <td>Como usuario, quiero poder crear y gestionar listas de productos para planificar mis compras o consumo.</td>
-    <td>Gestión de listas<br>Dado que tengo varias listas, cuando necesito gestionarlas, entonces debo poder editar, eliminar o combinar listas según mis necesidades.</td>
-    <td>EP-019</td>
-  </tr>
-  <tr>
-    <td>US-025</td>
-    <td>Consulta de Información sobre Seguridad Alimentaria</td>
-    <td>Como usuario, quiero consultar información sobre la seguridad alimentaria de productos específicos para tomar decisiones informadas.</td>
-    <td>Resumen claro<br>Dado que selecciono un producto, cuando consulto su información de seguridad, entonces debe mostrarse un resumen claro y detallado de riesgos y precauciones.</td>
-    <td>EP-020</td>
-  </tr>
-</table>
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|--------|-------------|-----------------------------------|
+| 1       | US-006        | Registro de usuarios | Como nuevo usuario, quiero registrarme en la plataforma para acceder a información y alertas personalizadas. | 2 |
+| 2       | US-007        | Inicio de sesión de usuarios | Como usuario registrado, quiero iniciar sesión para acceder a mis alertas y configuraciones personalizadas. | 2 |
+| 3       | US-018        | Guardar productos favoritos | Como usuario, quiero guardar productos en una lista de favoritos para acceder rápidamente a su información en el futuro. | 2 |
+| 4       | US-019        | Eliminar productos de favoritos | Como usuario, quiero poder eliminar productos de mi lista de favoritos para mantenerla actualizada con mis preferencias actuales. | 2 |
+| 5       | US-002        | Buscar productos por nombre o categoría | Como usuario, quiero buscar productos alimenticios por su nombre o categoría para encontrar rápidamente información nutricional específica. | 3 |
+| 6       | US-005        | Valor nutricional real | Como usuario, quiero ver el valor nutricional real de los productos para tomar decisiones informadas sobre mi alimentación. | 3 |
+| 7       | US-008        | Recuperar contraseña | Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta. | 3 |
+| 8       | US-009        | Actualizar perfil de usuario | Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes. | 3 |
+| 9       | US-010        | Visualizar historial de búsquedas | Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado. | 3 |
+| 10      | US-011        | Configuración de notificaciones | Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes. | 3 |
+| 11      | US-013        | Explorar categorías de productos | Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional. | 3 |
+| 12      | US-016        | Filtrar productos por valor nutricional | Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas. | 3 |
+| 13      | US-001        | Visualizar información nutricional detallada | Como usuario, quiero ver la información nutricional detallada de los productos alimenticios procesados para tomar decisiones informadas sobre mi salud. | 5 |
+| 14      | US-004        | Comparar productos similares | Como usuario, quiero comparar varios productos similares para elegir la opción más saludable según la información nutricional. | 5 |
+| 15      | US-012        | Obtener reportes personalizados | Como usuario, quiero generar reportes personalizados sobre la seguridad y valor nutricional de productos específicos para revisarlos o compartirlos. | 5 |
+| 16      | US-014        | Ver alertas de productos no saludables | Como usuario, quiero recibir alertas sobre productos no saludables para evitar riesgos a mi salud. | 5 |
+| 17      | US-015        | Identificación de Aditivos Artificiales | Como usuario, quiero saber si un producto contiene aditivos artificiales para evitarlos en mi dieta. | 5 |
+| 18      | US-017        | Recomendaciones de productos saludables | Como usuario, quiero recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos para mejorar mi dieta. | 5 |
+| 19      | US-020        | Comparación de Productos | Como usuario, quiero comparar rápidamente dos productos para elegir la opción más saludable. | 5 |
+| 20      | US-022        | Sugerencias para Mejora de Hábitos Alimenticios | Como usuario, quiero recibir sugerencias para mejorar mis hábitos alimenticios basadas en mi consumo actual. | 5 |
+| 21      | US-023        | Filtro por Preferencias Alimenticias | Como usuario, quiero filtrar productos según mis preferencias alimenticias para encontrar opciones adecuadas a mi dieta. | 5 |
+| 22      | US-024        | Gestión de Listas de Productos | Como usuario, quiero poder crear y gestionar listas de productos para planificar mis compras o consumo. | 5 |
+| 23      | US-025        | Consulta de Información sobre Seguridad Alimentaria | Como usuario, quiero consultar información sobre la seguridad alimentaria de productos específicos para tomar decisiones informadas. | 5 |
+| 24      | US-003        | Personalización de alertas de salud | Como usuario, quiero personalizar alertas de salud basadas en mis condiciones médicas (diabetes, hipertensión) para evitar productos perjudiciales. | 8 |
+| 25      | US-021        | Informes de Tendencias de Consumo | Como usuario, quiero recibir informes periódicos sobre tendencias en mi consumo alimenticio para hacer ajustes si es necesario. | 8 |
+| 26      | US-026        | Diseño de Hero Section | Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación. | 3 |
+| 27      | US-027        | Sección de Características Principales | Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios. | 3 |
+| 28      | US-028        | Testimonios de Usuarios | Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación. | 2 |
+| 29      | US-029        | Formulario de Contacto | Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información. | 3 |
+| 30      | US-030        | Sección de Preguntas Frecuentes | Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente. | 2 |
+| 31      | US-031        | Diseño Responsivo | Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop). | 5 |
+| 32      | US-032        | Call-to-Action para Registro | Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación. | 2 |
+| 33      | US-033        | Integración de Redes Sociales | Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page. | 2 |
+| 34      | US-034        | Sección de Casos de Uso | Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día. | 3 |
+| 35      | US-035        | Optimización SEO | Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online. | 5 |
 
 
 ## 3.3. Impact Mapping.
