@@ -2075,6 +2075,77 @@ Durante el Sprint 1, nuestro enfoque estuvo en el diseño de la landing page de 
 
 ### 5.2.1.1. Sprint Planning 1.
 
+
+Acontinuacion  mostraremos la tabla:
+
+<table>
+   <tr>
+       <th>Sprint 1</th>
+       <th>Sprint 1</th>
+   </tr>
+   <tr>
+       <td colspan="2">Sprint Planning Background</td>
+       
+   </tr>
+   <tr>
+       <td>Date</td>
+       <td>2024/08/17</td>
+   </tr>
+   <tr>
+       <td>Time</td>
+       <td>10:00 PM</td>
+   </tr>
+   <tr>
+       <td>Location</td>
+       <td>Reunion Por Discord</td>
+   </tr>
+   <tr>
+       <td>Prepared By</td>
+       <td> </td>
+   </tr>
+   <tr>
+       <td>Attendees (to planning meeting)</td>
+       <td>
+</td>
+   </tr>
+   <tr>
+       <td>Sprint n 1 Review Summary</td>
+       <td>No hemos runido para analizar los user storys y de acuerdo a ello poner en marcha el trabajo </td>
+   </tr>
+   <tr>
+       <td>Sprint n – 1 Retrospective Summary</td>
+       <td>Las opiniones  son una buena comunicacion y trabajo en equipo</td>
+   </tr>
+   <tr>
+       <td colspan="2">Sprint Planning Background</td>
+       <td></td>
+   </tr>
+   <tr>
+       <td>Sprint 1 Goal</td>
+       <td>Completar el desarrollo de la landing page </td>
+   </tr>
+   <tr>
+       <td>Sprint 1 Velocity</td>
+       <td>Story 006: Gestión de Animales (6 Story Points)<br><br>
+Story 009: Gestión de Campañas (6 Story Points)
+<br><br>
+Story 008: Asociar Empleados (3 Story Points)
+<br><br>
+Story 007: Crear Campaña (4 Story Points)
+<br><br>
+Story 015: Explorar la Landing Page (4 Story Points)
+<br><br>
+Story 016: Descubrir las secciones informativas (4 Story Points)
+<br><br>
+</td>
+   </tr>
+   <tr>
+       <td>Sum of Story Points</td>
+       <td>Suma de Story Points: 6 + 6 + 3 + 4 + 4 + 4 = 27 Story Points</td>
+   </tr>
+</table>
+
+
 ### 5.2.1.2. Sprint Backlog 1.
 ### 5.2.1.3. Development Evidence for Sprint Review.
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review.
