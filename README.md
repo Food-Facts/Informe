@@ -2017,6 +2017,37 @@ index.html: Archivo principal HTML.
 ```
 
 ### 5.1.4. Software Deployment Configuration.
+
+####   Despliegue en GitHub Pages
+
+##### Acceder a la Configuración del Repositorio
+1. El usuario debe ir al repositorio en GitHub donde ya se encuentra el código del proyecto, por ejemplo: `https://github.com/usuario/food-facts-landing`.
+2. En la parte superior del repositorio, seleccionar la pestaña **Settings**.
+
+####  Configurar GitHub Pages
+
+1. En el menú de la izquierda, el usuario debe desplazarse hacia abajo hasta la sección **Pages**.
+2. En la sección **Source**, seleccionar el branch donde está almacenado el código (generalmente `main` o `master`).
+3. Si el código está en la raíz del repositorio, seleccionar la carpeta `/root` como directorio fuente.
+4. Presionar el botón **Save** para guardar la configuración.
+
+#### Esperar a que el Sitio se Publique
+1. GitHub comenzará a desplegar automáticamente la página web.
+2. Una vez completado, aparecerá un enlace que permitirá acceder al sitio web publicado. 
+
+
+####  Verificación del Despliegue
+1. El usuario puede hacer clic en el enlace proporcionado por GitHub Pages o copiarlo en su navegador para verificar que la página web está en línea.
+
+####  Actualizaciones Futuras
+1. Para actualizar la página web, el usuario debe hacer cambios en su código local, confirmarlos (`commit`), y luego enviarlos (`push`) al repositorio.
+2. GitHub Pages volverá a desplegar automáticamente la página cada vez que se realicen nuevos envíos de código al branch configurado.
+
+#### Consideraciones Adicionales
+
+- **Custom Domain**: Si el usuario quiere configurar un dominio personalizado, puede hacerlo agregando un archivo `CNAME` con el nombre del dominio en el repositorio y configurando el DNS en el proveedor del dominio.
+- **HTTPS**: GitHub Pages activa automáticamente el uso de HTTPS, por lo que no es necesario configurarlo manualmente.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1.
