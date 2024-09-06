@@ -1200,195 +1200,34 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 </div>
 
 ## 3.4. Product Backlog.
-<table border="1" cellpadding="5" cellspacing="0">
-  <thead>
-    <tr>
-      <th># Orden</th>
-      <th>User Story Id</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
-    </tr>
-  </thead>
-  <tbody>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>US-001</td>
-    <td>Visualizar información nutricional detallada</td>
-    <td>Como usuario, quiero ver la información nutricional detallada de los productos alimenticios procesados para tomar decisiones informadas sobre mi salud.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>US-002</td>
-    <td>Buscar productos por nombre o categoría</td>
-    <td>Como usuario, quiero buscar productos alimenticios por su nombre o categoría para encontrar rápidamente información nutricional específica.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>US-003</td>
-    <td>Personalización de alertas de salud</td>
-    <td>Como usuario, quiero personalizar alertas de salud basadas en mis condiciones médicas (diabetes, hipertensión) para evitar productos perjudiciales.</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>US-004</td>
-    <td>Comparar productos similares</td>
-    <td>Como usuario, quiero comparar varios productos similares para elegir la opción más saludable según la información nutricional.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>US-005</td>
-    <td>Valor nutricional real</td>
-    <td>Como usuario, quiero ver el valor nutricional real de los productos para tomar decisiones informadas sobre mi alimentación.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>US-006</td>
-    <td>Registro de usuarios</td>
-    <td>Como nuevo usuario, quiero registrarme en la plataforma para acceder a información y alertas personalizadas.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>US-007</td>
-    <td>Inicio de sesión de usuarios</td>
-    <td>Como usuario registrado, quiero iniciar sesión para acceder a mis alertas y configuraciones personalizadas.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>US-008</td>
-    <td>Recuperar contraseña</td>
-    <td>Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>US-009</td>
-    <td>Actualizar perfil de usuario</td>
-    <td>Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>US-010</td>
-    <td>Visualizar historial de búsquedas</td>
-    <td>Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>US-011</td>
-    <td>Configuración de notificaciones</td>
-    <td>Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>US-012</td>
-    <td>Obtener reportes personalizados</td>
-    <td>Como usuario, quiero generar reportes personalizados sobre la seguridad y valor nutricional de productos específicos para revisarlos o compartirlos.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>US-013</td>
-    <td>Explorar categorías de productos</td>
-    <td>Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>US-014</td>
-    <td>Ver alertas de productos no saludables</td>
-    <td>Como usuario, quiero recibir alertas sobre productos no saludables para evitar riesgos a mi salud.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>US-015</td>
-    <td>Identificación de Aditivos Artificiales</td>
-    <td>Como usuario, quiero saber si un producto contiene aditivos artificiales para evitarlos en mi dieta.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>US-016</td>
-    <td>Filtrar productos por valor nutricional</td>
-    <td>Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td>US-017</td>
-    <td>Recomendaciones de productos saludables</td>
-    <td>Como usuario, quiero recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos para mejorar mi dieta.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td>US-018</td>
-    <td>Guardar productos favoritos</td>
-    <td>Como usuario, quiero guardar productos en una lista de favoritos para acceder rápidamente a su información en el futuro.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td>US-019</td>
-    <td>Eliminar productos de favoritos</td>
-    <td>Como usuario, quiero poder eliminar productos de mi lista de favoritos para mantenerla actualizada con mis preferencias actuales.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td>US-020</td>
-    <td>Comparación de Productos</td>
-    <td>Como usuario, quiero comparar rápidamente dos productos para elegir la opción más saludable.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>21</td>
-    <td>US-021</td>
-    <td>Informes de Tendencias de Consumo</td>
-    <td>Como usuario, quiero recibir informes periódicos sobre tendencias en mi consumo alimenticio para hacer ajustes si es necesario.</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td>US-022</td>
-    <td>Sugerencias para Mejora de Hábitos Alimenticios</td>
-    <td>Como usuario, quiero recibir sugerencias para mejorar mis hábitos alimenticios basadas en mi consumo actual.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td>US-023</td>
-    <td>Filtro por Preferencias Alimenticias</td>
-    <td>Como usuario, quiero filtrar productos según mis preferencias alimenticias para encontrar opciones adecuadas a mi dieta.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td>US-024</td>
-    <td>Gestión de Listas de Productos</td>
-    <td>Como usuario, quiero poder crear y gestionar listas de productos para planificar mis compras o consumo.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td>US-025</td>
-    <td>Consulta de Información sobre Seguridad Alimentaria</td>
-    <td>Como usuario, quiero consultar información sobre la seguridad alimentaria de productos específicos para tomar decisiones informadas.</td>
-    <td>5</td>
-  </tr>
-  </tbody>
-</table>
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+|--------|---------------|--------|-------------|-----------------------------------|
+| 1      | US-006        | Registro de usuarios | Como nuevo usuario, quiero registrarme en la plataforma para acceder a información y alertas personalizadas. | 2 |
+| 2      | US-007        | Inicio de sesión de usuarios | Como usuario registrado, quiero iniciar sesión para acceder a mis alertas y configuraciones personalizadas. | 2 |
+| 3      | US-018        | Guardar productos favoritos | Como usuario, quiero guardar productos en una lista de favoritos para acceder rápidamente a su información en el futuro. | 2 |
+| 4      | US-019        | Eliminar productos de favoritos | Como usuario, quiero poder eliminar productos de mi lista de favoritos para mantenerla actualizada con mis preferencias actuales. | 2 |
+| 5      | US-002        | Buscar productos por nombre o categoría | Como usuario, quiero buscar productos alimenticios por su nombre o categoría para encontrar rápidamente información nutricional específica. | 3 |
+| 6      | US-005        | Valor nutricional real | Como usuario, quiero ver el valor nutricional real de los productos para tomar decisiones informadas sobre mi alimentación. | 3 |
+| 7      | US-008        | Recuperar contraseña | Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta. | 3 |
+| 8      | US-009        | Actualizar perfil de usuario | Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes. | 3 |
+| 9      | US-010        | Visualizar historial de búsquedas | Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado. | 3 |
+| 10     | US-011        | Configuración de notificaciones | Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes. | 3 |
+| 11     | US-013        | Explorar categorías de productos | Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional. | 3 |
+| 12     | US-016        | Filtrar productos por valor nutricional | Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas. | 3 |
+| 13     | US-001        | Visualizar información nutricional detallada | Como usuario, quiero ver la información nutricional detallada de los productos alimenticios procesados para tomar decisiones informadas sobre mi salud. | 5 |
+| 14     | US-004        | Comparar productos similares | Como usuario, quiero comparar varios productos similares para elegir la opción más saludable según la información nutricional. | 5 |
+| 15     | US-012        | Obtener reportes personalizados | Como usuario, quiero generar reportes personalizados sobre la seguridad y valor nutricional de productos específicos para revisarlos o compartirlos. | 5 |
+| 16     | US-014        | Ver alertas de productos no saludables | Como usuario, quiero recibir alertas sobre productos no saludables para evitar riesgos a mi salud. | 5 |
+| 17     | US-015        | Identificación de Aditivos Artificiales | Como usuario, quiero saber si un producto contiene aditivos artificiales para evitarlos en mi dieta. | 5 |
+| 18     | US-017        | Recomendaciones de productos saludables | Como usuario, quiero recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos para mejorar mi dieta. | 5 |
+| 19     | US-020        | Comparación de Productos | Como usuario, quiero comparar rápidamente dos productos para elegir la opción más saludable. | 5 |
+| 20     | US-022        | Sugerencias para Mejora de Hábitos Alimenticios | Como usuario, quiero recibir sugerencias para mejorar mis hábitos alimenticios basadas en mi consumo actual. | 5 |
+| 21     | US-023        | Filtro por Preferencias Alimenticias | Como usuario, quiero filtrar productos según mis preferencias alimenticias para encontrar opciones adecuadas a mi dieta. | 5 |
+| 22     | US-024        | Gestión de Listas de Productos | Como usuario, quiero poder crear y gestionar listas de productos para planificar mis compras o consumo. | 5 |
+| 23     | US-025        | Consulta de Información sobre Seguridad Alimentaria | Como usuario, quiero consultar información sobre la seguridad alimentaria de productos específicos para tomar decisiones informadas. | 5 |
+| 24     | US-003        | Personalización de alertas de salud | Como usuario, quiero personalizar alertas de salud basadas en mis condiciones médicas (diabetes, hipertensión) para evitar productos perjudiciales. | 8 |
+| 25     | US-021        | Informes de Tendencias de Consumo | Como usuario, quiero recibir informes periódicos sobre tendencias en mi consumo alimenticio para hacer ajustes si es necesario. | 8 |
+
 
 <h1 style="font-family: 'Roboto' sans-serif;">Capítulo IV: Product Design</h1> 
 
@@ -2078,72 +1917,21 @@ Durante el Sprint 1, nuestro enfoque estuvo en el diseño de la landing page de 
 
 Acontinuacion  mostraremos la tabla:
 
-<table>
-   <tr>
-       <th>Sprint 1</th>
-       <th>Sprint 1</th>
-   </tr>
-   <tr>
-       <td colspan="2">Sprint Planning Background</td>
-       
-   </tr>
-   <tr>
-       <td>Date</td>
-       <td>2024/08/17</td>
-   </tr>
-   <tr>
-       <td>Time</td>
-       <td>10:00 PM</td>
-   </tr>
-   <tr>
-       <td>Location</td>
-       <td>Reunion Por Discord</td>
-   </tr>
-   <tr>
-       <td>Prepared By</td>
-       <td> </td>
-   </tr>
-   <tr>
-       <td>Attendees (to planning meeting)</td>
-       <td>
-</td>
-   </tr>
-   <tr>
-       <td>Sprint n 1 Review Summary</td>
-       <td>No hemos runido para analizar los user storys y de acuerdo a ello poner en marcha el trabajo </td>
-   </tr>
-   <tr>
-       <td>Sprint n – 1 Retrospective Summary</td>
-       <td>Las opiniones  son una buena comunicacion y trabajo en equipo</td>
-   </tr>
-   <tr>
-       <td colspan="2">Sprint Planning Background</td>
-       <td></td>
-   </tr>
-   <tr>
-       <td>Sprint 1 Goal</td>
-       <td>Completar el desarrollo de la landing page </td>
-   </tr>
-   <tr>
-       <td>Sprint 1 Velocity</td>
-       <td>Story 006: Gestión de Animales (6 Story Points)<br><br>
-Story 009: Gestión de Campañas (6 Story Points)
-<br><br>
-Story 008: Asociar Empleados (3 Story Points)
-<br><br>
-Story 007: Crear Campaña (4 Story Points)
-<br><br>
-Story 015: Explorar la Landing Page (4 Story Points)
-<br><br>
-Story 016: Descubrir las secciones informativas (4 Story Points)
-<br><br>
-</td>
-   </tr>
-   <tr>
-       <td>Sum of Story Points</td>
-       <td>Suma de Story Points: 6 + 6 + 3 + 4 + 4 + 4 = 27 Story Points</td>
-   </tr>
-</table>
+| Sprint 1 | Sprint 1 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024/08/17 |
+| **Time** | 10:00 PM |
+| **Location** | Reunión por Discord |
+| **Prepared By** | Michael Quispe |
+| **Attendees (to planning meeting)** | Ernesto Casaverde U20221B657 <br> Sebastian Ramos U202222846 <br> Abraam Acosta U202219199 <br> Melina Liz Santillan Alvarado U202216058 |
+| **Sprint n 1 Review Summary** | Nos hemos reunido para analizar las User Stories y de acuerdo a ello poner en marcha el trabajo. Estamos neutros con el trabajo realizado. |
+| **Sprint n – 1 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
+| **Sprint Planning Background** | |
+| **Sprint 1 Goal** | Completar el desarrollo de la landing page |
+| **Sprint 1 Velocity** | **Story US-006**: Registro de usuarios (2 Story Points) <br><br> **Story US-007**: Inicio de sesión de usuarios (2 Story Points) <br><br> **Story US-018**: Guardar productos favoritos (2 Story Points) <br><br> **Story US-019**: Eliminar productos de favoritos (2 Story Points) <br><br> **Story US-002**: Buscar productos por nombre o categoría (3 Story Points) <br><br> **Story US-005**: Valor nutricional real (3 Story Points) |
+| **Sum of Story Points** | Suma de Story Points: 2 + 2 + 2 + 2 + 3 + 3 = **14 Story Points** |
+
 
 
 ### 5.2.1.2. Sprint Backlog 1.
