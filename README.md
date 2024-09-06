@@ -1167,16 +1167,17 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 
 
 ## 3.3. Impact Mapping.
+
 <div style="text-align: center;">
-    <img src="https://i.postimg.cc/j5hgLdm5/impac1.png" alt="impac1" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fimpac1.png?alt=media&token=8ea5a6c0-fc57-41b3-b4af-0a3c02a868ce" alt="impac1" style="width: auto; height: auto;">
 </div>
 
 <div style="text-align: center;">
-    <img src="https://i.postimg.cc/k4hSj0ts/impac2.png" alt="impac2" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fimpac2.png?alt=media&token=a919cb5d-b132-4b9c-8a1c-e6cb3cb2f249" alt="impac2" style="width: auto; height: auto;">
 </div>
 
 <div style="text-align: center;">
-    <img src="https://i.postimg.cc/vTJVy5h6/impac3.png" alt="impac3" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fimpac3.png?alt=media&token=50cff0f0-b41f-413b-bd5f-db065ca5f188" alt="impac3" style="width: auto; height: auto;">
 </div>
 
 ## 3.4. Product Backlog.
