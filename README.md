@@ -204,14 +204,19 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Nombre de la startup: Food-Facts
+Nombre de la startup: NutrionSolutions
 
+NutritionSolutions es una startup con el propósito de contribuir en la mejora de la nutrición de los peruanos. Por medio de Food-Facts deseamos facilitar la compresión sobre los valores nutricionales de los alimentos procesados, debido a que de este modo lograremos que los peruanos puedan mejorar su dieta, por lo tanto, podrán tener una mejor salud y una buena calidad de vida.
 Nuesta Startup proporciona un análisis detallado de la composición nutricional de alimentos procesados y producidos industrialmente. El sistema recopila y procesa datos de etiquetas de productos, bases de datos nutricionales y estudios científicos para ofrecer:
 
 - Conocer los ingredientes y valores nutricionales reales
 - Identificar posibles riesgos para la salud a corto y largo plazo
 - Obtener reportes personalizados sobre la seguridad de los alimentos
 
+#### Misión
+Nuestra misión es mejorar la nutrición de los peruanos. Además, incremetar la transparencia nutricional en el Perú.
+#### Visión
+Nuestra visión es ser una de las empresas de nutrición más reconocidas en el Perú.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
