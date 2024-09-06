@@ -1242,7 +1242,20 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Typography: Para nuestra fuente haremos uso de dos tipografías, ambas en sus variantes de peso Regular, Medium, Semi Bold y Bold. Merriweather Sans, principalmente usado para los títulos, subtítulos y encabezados de artículos. Roboto, empleado para contenido como párrafos, texto informativo, etc. Elaboramos unas reglas para un estilo uniforme en los contenidos de la Landing Page y Aplicación Web. Cabe recalcar que el sistema varía con el principio de Responsive Design.
+#### Logo
+Es un logo sencillo y muestra una apariencia agradable. Además, representa muy bien a Food-Facts.
+
+#### Color
+#8CBA2F  
+#E2E2E2
+
+Se selecciono estos colores, debido a que permite un apariencia fresca. Además, proporciona un diseño moderno al landing page y a la aplicación web.
+
+#### Lenguaje
+El lenguaje seleccionado es formal, ya que permite una mejor comunicación con el usuario. Este tipo de lenguaje sera aplicado en el landing page y la aplicación web.
+
+#### Tipografía
+Para nuestra fuente haremos uso de dos tipografías, ambas en sus variantes de peso Regular, Medium, Semi Bold y Bold. Merriweather Sans, principalmente usado para los títulos, subtítulos y encabezados de artículos. Roboto, empleado para contenido como párrafos, texto informativo, etc. Elaboramos unas reglas para un estilo uniforme en los contenidos de la Landing Page y Aplicación Web. Cabe recalcar que el sistema varía con el principio de Responsive Design.
 
 <div style="text-align: center;">
     <img src="http://imgfz.com/i/k3FNMJY.png" alt="Tipografia" style="width: 50%; height: auto;">
