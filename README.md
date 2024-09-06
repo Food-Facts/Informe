@@ -37,8 +37,8 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">U20221E734</td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 8px;">--------</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">----------</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Sebastian Ramos</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">U202222846</td>
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">----------</td>
