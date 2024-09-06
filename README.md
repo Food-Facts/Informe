@@ -45,8 +45,8 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">U202219199</td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 8px;">----------</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">-----------</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Melina Liz Santillan Alvarado</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">U202216058</td>
             </tr>
         </tbody>
     </table>
