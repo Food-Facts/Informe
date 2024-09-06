@@ -238,6 +238,13 @@ __Quispe Roldan Michael Fred - 20221E734__
 </div>
 Actualmente estoy cursando el quinto ciclo de ingenieria de software. Mi compromiso con la responsabilidad, la atención y la disposición para liderar me capacita para desempeñar un papel efectivo como líder en mi equipo. Estas cualidades me permiten trabajar en colaboración con mis compañeros, mantener altos estándares de desempeño y avanzar hacia el logro de nuestros objetivos comunes.
 
+__Ramos Calagua Sebastian Alexander - 202222846__
+
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/4NB27nzr/Sebastian-Ramos-foto-perfil.jpg" alt="SebasPerfil" style="width: 15%; height: auto;">
+</div>
+Estudiante de la carrera de Ingeniería de Software. Me gusta todo lo relacionado a la tecnología y al desarrollo web. Espero ansioso poder aprender más del curso a medida que se desarrolle este proyecto.
+
 __Santillan Alvarado, Melina Liz - 202216058__
 
 <div style="text-align: center;">
