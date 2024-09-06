@@ -1411,19 +1411,19 @@ En esta seccion abordaremos el tema de la arquitectura de nuestro proyecto utili
 ### 4.6.1. Software Architecture Context Diagram.
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fstructurizr-94828-SystemContext-001.png?alt=media&token=a6f7d435-1cf9-40f6-8c59-ce7e72bcf7c9 " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fc4model%2Fstructurizr-94828-SystemContext-001-002.png?alt=media&token=6e70a79b-9f39-4557-8c2a-8d64c4526e8d" alt="ErdavicPerfil" style="width: 100%; height: auto;">
 </div>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fstructurizr-94828-Container-001.png?alt=media&token=6148aafb-2469-49dd-8b15-939cbe985480 " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fc4model%2Fstructurizr-94828-Container-001-001.png?alt=media&token=28d3cc44-e9ed-4dda-a44c-f00b5b04d80d" alt="ErdavicPerfil" style="width: 100%; height: auto ">
 </div>
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fstructurizr-94828-Component-001.png?alt=media&token=c63fab78-f0a7-4a48-b96a-ddcd735b253b " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fc4model%2Fstructurizr-94828-Component-001-001.png?alt=media&token=8becd9c4-ba52-4522-9f10-35a7de712957" alt="ErdavicPerfil" style="width: 100%; height: auto;">
 </div>
 
 ## 4.7. Software Object-Oriented Design.
