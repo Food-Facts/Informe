@@ -1830,6 +1830,189 @@ Es así como en nuestro repositorio será observable el uso de etiquetas como v0
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+#### Convenciones de Estilo para HTML
+
+- Estructura y Semántica
+Usar etiquetas semánticas siempre que sea posible para mejorar la accesibilidad y SEO:
+
+```html
+<header>, <nav>, <section>, <article>, <footer>, etc.
+Mantén la indentación consistente con 2 espacios.
+
+```
+
+- Las etiquetas deben estar en minúsculas.
+
+- Atributos de etiquetas deben estar entre comillas dobles "".
+
+Ejemplo:
+
+```html
+<section class="product-info">
+  <h2>Información del Producto</h2>
+  <p>Datos sobre el producto...</p>
+</section>
+``` 
+
+- Comentarios
+Usa comentarios para explicar secciones importantes del código, pero evita el exceso.
+
+Ejemplo:
+
+```html
+<!-- Inicio de la sección de productos -->
+<section class="product-info">
+  <!-- Detalles del producto -->
+  <p>Detalles...</p>
+</section>
+```
+
+- Nombres de Clases e IDs
+Nombres en kebab-case (minúsculas y separadas por guiones) para clases y IDs. <br>
+
+Ejemplo: product-info, main-header.
+Utilizar clases en lugar de IDs para estilos reutilizables.
+
+#### Convenciones de Estilo para CSS
+- Organización del Archivo
+Organiza el CSS en bloques lógicos (layout, tipografía, botones, etc.).
+
+Usa comentarios para separar secciones dentro del archivo CSS.
+
+Ejemplo:
+
+```css
+/* Layout */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Tipografía */
+h1, h2, h3 {
+  font-family: 'Arial', sans-serif;
+}
+```
+
+- Nombres de Clases <br>
+Utilizar nombres claros y descriptivos en kebab-case.<br>
+Ejemplo: .main-header, .product-details, .footer-links.
+
+- Uso de Unidades
+Usa rem o em para tamaños relativos (tipografía, márgenes, padding), y px para bordes o imágenes.<br>
+
+Ejemplo:
+
+```css
+body {
+  font-size: 16px;
+}
+h1 {
+  font-size: 2rem; /* Equivalente a 32px si 1rem = 16px */
+}
+
+```
+
+-  Selectores
+Evitar los selectores anidados profundamente para mejorar la legibilidad y evitar problemas de especificidad.
+Usar selectores clase (.) en lugar de selectores de ID (#), para que los estilos sean reutilizables.
+
+- Reset o Normalize CSS
+Considera usar un archivo de reset o normalize.css para tener una base consistente en todos los navegadores.
+- Flexbox y Grid
+Usa Flexbox y CSS Grid para layouts responsivos y más flexibles en lugar de sistemas basados en floats.<br>
+Ejemplo de Flexbox:
+
+```css
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+```
+#### Convenciones de Estilo para JavaScript
+
+-  Uso de let, const y var
+Usa const para variables cuyo valor no va a cambiar, y let para aquellas que pueden ser reasignadas.
+
+Evita usar var. <br>
+
+Ejemplo:
+
+```js
+const apiUrl = "https://api.foodfacts.com";
+let totalCalories = 0;
+```
+
+- Funciones
+Definir funciones con nombres descriptivos en camelCase.
+
+si usamos funciones en ES6, prioriza las funciones flecha.
+
+Ejemplo:
+
+```js
+const calculateRiskScore = (product) => {
+  // código aquí
+};
+
+```
+
+-  Comentarios 
+Usar comentarios para explicar la lógica compleja.
+
+Ejemplo:
+
+```js
+// Calcula el puntaje de riesgo del producto
+const riskScore = calculateRiskScore(product);
+```
+
+
+ - Buenas Prácticas
+Mantén las funciones pequeñas y específicas.
+
+Evitar la repetición de código (principio DRY: Don’t Repeat Yourself).
+
+Usar promesas o async/await para manejar el código asíncrono, evitando los callbacks anidados.
+
+Ejemplo:
+
+```js
+async function fetchProductData(productId) {
+  try {
+    const response = await fetch(`https://api.foodfacts.com/products/${productId}`);
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error("Error al obtener los datos del producto", error);
+  }
+}
+```
+
+- Manejo de Errores
+Usa bloques try/catch en código asíncrono para manejar errores y mejorar la confiabilidad.
+
+Ejemplo:
+
+```js
+try {
+  const productData = await fetchProductData(productId);
+} catch (error) {
+  console.error("Error al cargar los datos del producto", error);
+}
+
+```
+
+- Estructura de Archivos y Carpetas
+```
+index.html: Archivo principal HTML.
+/css/style.css: Archivo principal de estilos.
+/js/script.js: Archivo principal de JavaScript.
+/img/: Carpeta para imágenes.
+```
+
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
