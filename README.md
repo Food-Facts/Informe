@@ -238,6 +238,13 @@ __Quispe Roldan Michael Fred - 20221E734__
 </div>
 Actualmente estoy cursando el quinto ciclo de ingenieria de software. Mi compromiso con la responsabilidad, la atención y la disposición para liderar me capacita para desempeñar un papel efectivo como líder en mi equipo. Estas cualidades me permiten trabajar en colaboración con mis compañeros, mantener altos estándares de desempeño y avanzar hacia el logro de nuestros objetivos comunes.
 
+__Santillan Alvarado, Melina Liz - 202216058__
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/melina-6c1f0.appspot.com/o/melina%2FfotoMelina.jpg?alt=media&token=259db23f-51e3-479b-80c0-303f3d1cce41" alt="MelinaPerfil" style="width: 22%; height: auto;">
+</div>
+Estoy estudiando la carrera de Ingeniería de Software en la UPC. Soy una persona creativa y responsable. Además, realizo un buen trabajo en equipo y me gusta fortalecer mis estudios. Por otro lado, tengo conocimientos en HTML, CSS y C++.
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
