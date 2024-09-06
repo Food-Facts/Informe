@@ -1838,14 +1838,120 @@ Acontinuacion  mostraremos la tabla:
   <tr>
     <td>001</td>
     <td>apartado de la landing</td>
-    <td>006</td>
-    <td>Registro de Usuario</td>
-    <td></td>
+    <td>026</td>
+    <td>Diseño De Hero Section</td>
+    <td>Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación.</td>
     <td>6.00</td>
-    <td></td>
+    <td>Abraham Acosta</td>
+    <td>in-process</td>
+  </tr>
+   <tr>
+    <td>002</td>
+    <td>apartado de la landing</td>
+    <td>027</td>
+    <td>Sección de Características Principales</td>
+    <td>Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios.</td>
+    <td>8.00</td>
+    <td>Melina Santillan</td>
+    <td>To-do</td>
+  </tr>
+    <tr>
+    <td>003</td>
+    <td>apartado de la landing</td>
+    <td>028</td>
+    <td>Testimonios de Usuarios</td>
+    <td>Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación.</td>
+    <td>8.00</td>
+    <td>Ernesto Casverde</td>
+    <td>To-do</td>
+  </tr>
+   </tr>
+    <tr>
+    <td>004</td>
+    <td>apartado de la landing</td>
+    <td>029</td>
+    <td>Formulario de Contacto</td>
+    <td>Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información.</td>
+    <td>4.00</td>
+    <td>Sebastian Ramos</td>
+    <td>toReview</td>
+  </tr>
+   </tr>
+   </tr>
+    <tr>
+    <td>005</td>
+    <td>apartado de la landing</td>
+    <td>030</td>
+    <td>Sección de Preguntas Frecuentes</td>
+    <td>Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente.</td>
+    <td>6.00</td>
+    <td>Abraham Acosta</td>
+    <td>In-proccess</td>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>006</td>
+    <td>apartado de la landing</td>
+    <td>031</td>
+    <td>Diseño Responsivo</td>
+    <td>Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop).</td>
+    <td>8.00</td>
+    <td>Ernesto Casaverde</td>
+    <td>ToRewiew</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>007</td>
+    <td>apartado de la landing</td>
+    <td>032</td>
+    <td>Call-to-Action para Registro</td>
+    <td>Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación.</td>
+    <td>4.00</td>
+    <td>Sebastian Ramos</td>
     <td>Done</td>
   </tr>
-  
+   </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>008</td>
+    <td>apartado de la landing</td>
+    <td>033</td>
+    <td>Integración de Redes Sociales</td>
+    <td>Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page..</td>
+    <td>4.00</td>
+    <td>Michael Quispe</td>
+    <td>ToRewiew</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>009</td>
+    <td>apartado de la landing</td>
+    <td>034</td>
+    <td>Sección de Casos de Uso</td>
+    <td>Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día</td>
+    <td>4.00</td>
+    <td>Michael Quispe</td>
+    <td>ToRewiew</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>0010</td>
+    <td>apartado de la landing</td>
+    <td>035</td>
+    <td>Optimización SEO</td>
+    <td>Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online.</td>
+    <td>6.00</td>
+    <td>Ernesto Casaverde</td>
+    <td>Done</td>
+  </tr>
 </table>
 
 ### 5.2.1.3. Development Evidence for Sprint Review.
