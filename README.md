@@ -2144,18 +2144,132 @@ Feature: Optimización SEO
 ```
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En resumen hemos logrado implementar todos las historias de usuario de la landing page al igual que  todo el web application junto con su testing
+ 
+ Landing page Evidence:
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup1.png?alt=media&token=66295e34-726b-42bb-8137-40fbdebf7c62" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup2.png?alt=media&token=f7712ff2-b0fb-4536-b28b-0f4b70836d70" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup3.jpg?alt=media&token=3e9d68ea-0d54-447f-b0e9-234f8369e27c" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+
+Sprint: Sprint 1
+Fecha: 06/09/2024
+FooFacts
+
+1. Resumen
+El objetivo de este sprint fue diseñar e implementar secciones clave de la landing page, centrándonos en la interfaz de usuario (UI) y la experiencia de usuario (UX) para proporcionar una experiencia visual atractiva y fluida para los visitantes. Las siguientes secciones fueron trabajadas durante este sprint:
+
+- Hero Section (Sección Principal)<br>
+- Sección de Características<br>
+- Testimonios<br>
+- Formulario de Contacto<br>
+- Sección de Preguntas Frecuentes (FAQ)<br>
+- Diseño Responsivo<br>
+- Botones de Llamada a la Acción (CTA)<br>
+
+2. Trabajo Realizado
+<br><br>
+- 2.1 Hero Section
+Implementamos una sección principal visualmente atractiva con un mensaje claro que muestra la propuesta de valor de la aplicación.
+Se incluyó una imagen de fondo de alta calidad relacionada con el servicio.
+Agregamos un título y un subtítulo concisos que comunican rápidamente el propósito de la aplicación.<br><br>
+- 2.2 Sección de Características
+Diseñamos una sección que destaca las 3 características principales de la aplicación.
+Cada característica incluye una breve descripción, un ícono y visuales de apoyo.
+<br><br>
+- 2.3 Testimonios
+Añadimos una sección de testimonios para generar confianza entre los visitantes. Esta sección incluye comentarios reales de usuarios sobre la aplicación.
+Los testimonios incluyen el nombre de los usuarios y, opcionalmente, sus fotos.
+<br><br>
+- 2.4 Formulario de Contacto
+Desarrollamos un formulario de contacto sencillo y funcional en la parte inferior de la página.
+El formulario captura los datos básicos del usuario como nombre, correo electrónico y mensaje.
+Se muestra un mensaje de éxito tras el envío del formulario.
+<br><br>
+- 2.5 Sección de Preguntas Frecuentes (FAQ)
+Creamos una sección de preguntas frecuentes con 5 preguntas clave que abordan las inquietudes comunes de los usuarios.
+Cada pregunta es colapsable, mejorando la legibilidad.
+<br><br>
+- 2.6 Diseño Responsivo
+Aseguramos que toda la landing page sea completamente responsiva en diferentes dispositivos (móvil, tablet, escritorio).
+Probamos la página en varios tamaños de pantalla para garantizar una experiencia óptima.
+<br><br>
+- 2.7 Botones de Llamada a la Acción (CTA)
+Incorporamos botones de llamada a la acción estratégicamente ubicados, como los botones "Registrarse" y "Probar la Aplicación".
+Los botones están diseñados para ser visualmente atractivos y altamente clicables.
+
+3. Hallazgos y Desafíos
+Diseño Responsivo: Asegurar que la landing page se vea atractiva en todos los dispositivos fue un reto, especialmente con el escalado de imágenes en la Hero Section.
+Validación del Formulario: Se implementó validación básica para el formulario de contacto, pero se necesita más trabajo para manejar casos como correos electrónicos inválidos.
+Optimización SEO: Será necesario trabajar más en sprints futuros para mejorar el SEO mediante meta descripciones, textos alternativos para imágenes y palabras clave.
+
+4. Próximos Pasos
+Continuar optimizando la landing page para mejorar el rendimiento SEO.
+Implementar seguimiento en los botones de llamada a la acción para monitorear interacciones de los usuarios.
+Mejorar la validación del formulario y añadir la integración con backend para los envíos del formulario.
+Realizar pruebas adicionales con usuarios para recoger feedback sobre el diseño actual.
+
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Como lo explicamos anteriormente vamos usar githubPages como sistema de despliegue.
+
+Configuramos GitHub Pages
+
+- Vamos a la página de tu repositorio en GitHub.
+- Hazemos  clic en "Settings" en la barra superior.
+- En el menú lateral izquierdo, selecionamos  en "Pages".
+- En "Source", seleccionamod "main" como rama y "/" (root) como carpeta.
+Haz clic en "Save".
+
+
+Accedemos a la lading:
+
+GitHub nos proposciona una URL
+
+Esperamos unos minutos y se hizo el despliegue en  GitHub despliega tu sitio.
+
+<div style="text-align: center;">
+    <img src="" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+Landing page desplegado: https://food-facts.github.io/LandingPage/ 
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product.
+En este Aparto veremos colaboracion real entre todos los integrantes de FooDFacts en la implementacion de la landing Page
+
+Team collaboration de la Organizacion:
+
+Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas que otros pero es aplicando mejora continua entre compañeros.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fdesplieguelandingfoodfacts.PNG?alt=media&token=683cfb0a-584e-4823-9156-37f429834850" alt="W5" style="width: auto; height: auto;">
+</div>
 
 ## Conclusiones
-##  Conclusiones y recomendaciones.
-##  Video About-the-Team.
-##  Bibliografía
-##  Anexos
+
+
+- Una landing page sobre los riesgos de los alimentos procesados es una herramienta educativa crucial. <br><br> Puede influir significativamente en la conciencia pública sobre la salud alimentaria.
+<br><br>
+- El diseño atractivo y la usabilidad son fundamentales. Una estructura clara ayuda a los usuarios a encontrar información rápidamente, mejorando la efectividad del mensaje.
+<br><br>
+- El contenido debe ser científicamente preciso y actualizado. Esto aumenta la credibilidad y el valor informativo de la página.
+
