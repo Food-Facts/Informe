@@ -1257,7 +1257,7 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 
 
 ## 4.1. Style Guidelines.
-### 4.1.1. General Style Guidelines.
+
 ### 4.1.1. General Style Guidelines.
 #### Logo
 Es un logo sencillo y muestra una apariencia agradable. Además, representa muy bien a Food-Facts.
