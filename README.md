@@ -823,6 +823,26 @@ Gustabo evita los alimentos procesados, aunque a veces los consume por falta de 
 
 Revisa siempre las etiquetas para evitar conservantes y aditivos innecesarios. Valora recibir un desglose claro de ingredientes y alertas sobre posibles riesgos alimenticios. Le gustaría que una app como Food-Facts le ofreciera recomendaciones personalizadas, recetas y alternativas saludables, y estaría dispuesta a pagar entre 10 y 15 dólares al mes por un análisis detallado que mejore sus decisiones alimenticias.
 
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 6:**
+
+**Nombres y Apellidos:** Stiven Chavez
+
+**Edad:** 19 años
+
+**Lugar de Residencia:** Rimac
+
+**Ocupación:** Estudiante de economia de la USIL
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219199_upc_edu_pe/EYqykgJF8MlHhL9I3NIZE40ButtZK-gVUuE8DJigcGM3tQ?e=9AIx4c
+
+**Resumen de la Entrevista:** 
+Stiven le gusta cuidar mucho su alimentacion porque va regularmente al gimnasio, es por que siempre ve el valor nutricional que le aporta cada producto procesado, esto le toma mucho tiempo.
+
+El si pagaria una suscripcion ya que se le haria mas comodo y ahorraria mucho tiempo.
+
+
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -866,6 +886,13 @@ El enfoque de esta persona hacia una aplicación como Food-Facts refleja la nece
 
 Aunque no tiene problemas médicos graves, su historial familiar de diabetes y colesterol alto lo hace más consciente de su alimentación. Le parece muy útil recibir advertencias sobre posibles riesgos para la salud relacionados con ciertos alimentos, y cree que reportes personalizados sobre su dieta serían una excelente herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts ofreciera recomendaciones adaptadas a sus necesidades, alternativas más saludables y recetas.
 
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 6:**
+
+**Analisis de la Entrevista:** Stiven revisa regularmente las tablas de valores nutricionales, ya que el va al gimnasion muchos dias de la semana y esto le ayuda con su progreso. Pero esto le toma mucho tiempo el quisiera que Food-Facts le avise o le informe rapidamente los valores nutricionales de cada producto procesado que consume.
+
+El no sufre de alguna enfermedad que le impida consumir alimentos procesado pero si cuidado su salud al estar pendiente de lo que consume.
 
 ## 2.3. Needfinding.
 Desde la creación de Food-Facts, hemos llevado a cabo varias actividades clave para identificar las necesidades de nuestros usuarios:
