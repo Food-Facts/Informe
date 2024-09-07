@@ -105,7 +105,18 @@
 
 <h3 style="text-align: center; font-family: 'Roboto' sans-serif;">Project Report Collaboration Insights</h3>
 
+## Project Report Collaboration Insights
 
+| URL del Repositorio |
+|----------------------|
+| https://github.com/orgs/Food-Facts/repositories |
+
+Con todo lo Aportado en el proyecto hacemos el analisi grupal y obtenemos el siguiente grafico para afirmar que todos contribuimos:
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FTeam-insight-Informe.PNG?alt=media&token=8bf57737-e207-4004-841c-4822fa7a7056" alt="W5" style="width: auto; height: auto;">
+</div>
 
 
 ## Contenido
@@ -2266,7 +2277,7 @@ GitHub nos proposciona una URL
 Esperamos unos minutos y se hizo el despliegue en  GitHub despliega tu sitio.
 
 <div style="text-align: center;">
-    <img src="" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fdesplieguelandingfoodfacts.PNG?alt=media&token=683cfb0a-584e-4823-9156-37f429834850" alt="W5" style="width: auto; height: auto;">
 </div>
 
 
@@ -2281,7 +2292,7 @@ Team collaboration de la Organizacion:
 Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas que otros pero es aplicando mejora continua entre compañeros.
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fdesplieguelandingfoodfacts.PNG?alt=media&token=683cfb0a-584e-4823-9156-37f429834850" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FTeam-insight-Informe.PNG?alt=media&token=8bf57737-e207-4004-841c-4822fa7a7056" alt="W5" style="width: auto; height: auto;">
 </div>
 
 ## Conclusiones
@@ -2293,3 +2304,15 @@ Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas qu
 <br><br>
 - El contenido debe ser científicamente preciso y actualizado. Esto aumenta la credibilidad y el valor informativo de la página.
 
+
+## Bibliografia 
+
+
+## Anexos
+
+
+link del figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node-id=0-1&node-type=CANVAS&t=jMjJGt81TCCz2t9P-0
+
+link del repositorio: https://github.com/Food-Facts
+
+link del la landing desplegada: https://food-facts.github.io/LandingPage/
