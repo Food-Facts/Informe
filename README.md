@@ -2375,4 +2375,4 @@ link del repositorio: https://github.com/Food-Facts
 
 link del la landing desplegada: https://food-facts.github.io/LandingPage/
 
-link del video de Exposicion: 
+link del video de Exposicion: https://upcedupe-my.sharepoint.com/personal/u20221e734_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221e734%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1150793369%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0c40a393%2D68c3%2D4fd2%2Db47c%2Dd0d33862fa0c
