@@ -1996,7 +1996,49 @@ Acontinuacion  mostraremos la tabla:
 </table>
 
 ### 5.2.1.3. Development Evidence for Sprint Review.
+
+
+Para este entrega  hemos realizado en entre los 2 repositorios Informe y Landing Page hemos Hecho 65 commits varios de ellos sobre el informe, landing page y correcciones aca dejo los mas importante:
+
+
+
+| Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 6/09/2024        |
+| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 6/09/2024        |
+| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 5/09/2024        |
+| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 5/09/2024        |
+| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 5/09/2024        |
+| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 4/09/2024        |
+| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 5/09/2024        |
+| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 5/09/2024        |
+| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 4/09/2024        |
+| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 4/09/2024        |
+| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 3/09/2024        |
+|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 2/09/2024        |
+| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 4/09/2024        |
+| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 3/09/2024        |
+| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 3/09/2024        |
+| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 2/09/2024        |
+| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 2/09/2024        |
+| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 1/09/2024        |
+| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 1/09/2024        |
+| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 1/09/2024        |
+| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 1/09/2024        |
+
+Para ver todos los commits con mas detalle revisar el repositorio
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+En esta seccion implementamos el funcionamiento del obejtivo principal qiue seria la lanfing Page
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+| ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
+|testing | feature | e0371e140f454182f799a4ad90c1d79788ceedf8 | Added | feature's | 09/06/2024 |
+|testing|feature|20368ed7c294ffcddccb77ac6e81eea5cdf8113e| Added | feature's | 02/06/2024
+|testing|featuret|e5584573f932ba70cdebffb6390474c147ed2139| Added | feature's | 03/06/2024
+|testing|feature|cd4c0121f870a8b07c4c94ed38c4696e56f52d11| Added | feature's | 29/05/2024
+
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
