@@ -702,7 +702,7 @@ Preguntas para la Entrevista:
 Le gustaría que al registrar un producto alimenticio, se proporcionara un desglose claro de los nutrientes e ingredientes, además de alertas sobre aditivos dañinos. Encuentra útil que una aplicación le advierta sobre riesgos de salud relacionados con ciertos alimentos y cree que reportes personalizados sobre su dieta la ayudarían a mejorar su salud. Le gustaría que una aplicación como Food-Facts ofreciera recomendaciones basadas en sus preferencias y necesidades, y la capacidad de escanear productos en tiendas para obtener información rápidamente. Está dispuesta a pagar entre $5 y $10 mensuales si la aplicación es de valor. Considera que esta herramienta sería útil para tomar decisiones más saludables en su vida diaria.
 
 **Segmento Objetivo: Personas con problemas alimenticios**
-**Entrevista 1:**
+**Entrevista 2:**
 
 **Nombres y Apellidos:** Fabrizio Sanchez Zamora
 
@@ -718,6 +718,39 @@ Le gustaría que al registrar un producto alimenticio, se proporcionara un desgl
 
 Prefiere recibir información clara sobre los alimentos sin sentirse juzgada, y cree que una aplicación que le mostrara riesgos para la salud sería útil si lo hiciera de manera positiva y sin generar más ansiedad. Reportes personalizados podrían ser útiles, pero le preocupa que aumenten su ansiedad si no están orientados al cambio gradual. Le gustaría que la aplicación incluyera herramientas para gestionar la ansiedad relacionada con la comida, y está dispuesta a pagar una opción accesible si la ayuda tanto en lo emocional como en lo físico. Cree que Food-Facts podría ser útil si maneja la información de manera equilibrada y no la hace sentir mal por sus elecciones.
 
+
+
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 3:**
+
+**Nombres y Apellidos:** Fabian Reyes
+
+**Edad:** 20 años
+
+**Lugar de Residencia:** san martin de porres
+
+**Ocupación:** Estudiante de ingwnieria de Software
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/ERM6c7E06GFLiveva3Hx0NkBjDE3Bwt3vwlQct3lX8zilQ?e=dCeJdd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Fabián Reyes busca llevar una alimentación más saludable pero se encuentra con obstáculos en su día a día. Le preocupa el impacto de los alimentos procesados en su salud a largo plazo y desea conocer mejor los ingredientes de los productos que consume.
+
+Prioridades:
+
+Información detallada: Desea un desglose claro de los nutrientes e ingredientes de cada alimento, así como alertas sobre aditivos dañinos.
+Personalización: Valora mucho las recomendaciones personalizadas basadas en sus necesidades y preferencias.
+Comodidad: Le gustaría poder escanear productos en el supermercado para obtener información al instante.
+Salud: Busca una herramienta que le permita tomar decisiones más saludables y prevenir posibles riesgos.
+Expectativas de una aplicación:
+
+Análisis nutricional: 
+
+Un desglose detallado de los nutrientes y una advertencia sobre ingredientes poco saludables.
+Recomendaciones personalizadas: Sugerencias de alimentos y recetas basadas en sus objetivos y restricciones.
+Base de datos extensa: Una amplia base de datos de productos para poder escanear la mayoría de los alimentos que consume.
+Interfaz sencilla: Una aplicación fácil de usar y con una interfaz intuitiva.
+
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
@@ -730,11 +763,19 @@ La disposición de la persona a utilizar una aplicación como Food-Facts resalta
 
 **Segmento Objetivo: Personas con problemas alimenticios**
 
-**Entrevista 1:**
+**Entrevista 2:**
 
 **Analisis de la Entrevista:** Fabrizio tiene una relación compleja con la comida, marcada por la ansiedad y la culpa, lo que afecta tanto sus hábitos alimenticios como su bienestar emocional. Aunque es consciente de los riesgos de los alimentos procesados y se preocupa por su salud, la dificultad para mantener una dieta equilibrada la lleva a recurrir a estos productos. La fluctuación entre obsesionarse con las etiquetas y evitarlas refleja una lucha interna por controlar su alimentación sin aumentar su ansiedad.
 
 El enfoque de esta persona hacia una aplicación como Food-Facts refleja la necesidad de una herramienta que le brinde apoyo emocional y funcional. No solo requiere información nutricional clara, sino también un enfoque que no la haga sentir juzgada o que aumente su ansiedad. La inclusión de herramientas para gestionar el estrés y la relación emocional con la comida sería clave para que esta aplicación sea útil para ella. Si Food-Facts puede ofrecer un enfoque de bienestar integral, que equilibre lo emocional y lo físico, podría tener un impacto positivo en personas con dificultades similares.
+
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 3:**
+
+
+
+**Analisis de la Entrevista:** Fabián busca mejorar sus hábitos alimenticios y prevenir problemas de salud a largo plazo. Necesita información detallada y confiable, personalización, comodidad y confianza en una aplicación. Se frustra por la falta de tiempo, la información confusa y la dificultad para encontrar opciones saludables. Está dispuesto a invertir en herramientas para una vida más sana y le interesa la tecnología. Existe una demanda creciente de aplicaciones nutricionales personalizadas y fáciles de entender. Para desarrollar una aplicación, se requiere una interfaz intuitiva, una base de datos completa, recomendaciones personalizadas y educación nutricional. La integración con otros dispositivos, como wearables, puede agregar valor a la aplicación de Fabián.
 
 
 ## 2.3. Needfinding.
