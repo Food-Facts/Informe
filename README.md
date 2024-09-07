@@ -29,23 +29,23 @@
         </thead>
         <tbody>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 8px;">Ernesto Casaverde</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Casaverde de la cruz Ernesto David</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U20221B657</td>
             </tr>
              <tr>
-                <td style="border: 1px solid #ddd; padding: 8px;">Michael Quispe</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Quispe Roldan Michael Fred</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U20221E734</td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 8px;">Sebastian Ramos</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Ramos Calagua Sebastian Alexander</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U202222846</td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 8px;">Abraam Acosta</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Acosta Elera Abraham Bernabe</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U202219199</td>
             </tr>
             <tr>
-                <td style="border: 1px solid #ddd; padding: 8px;">Melina Liz Santillan Alvarado</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Santillan Alvarado Melina Liz</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U202216058</td>
             </tr>
         </tbody>
@@ -75,27 +75,27 @@
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">1.0</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">19/08/2024</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">Ernesto Casaverde</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Casaverde de la cruz Ernesto David</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Creación del repositorio del proyecto</td>
             </tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">2.0</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">23/08/2024</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">Abraham Acosta</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Acosta Elera Abraham Bernabe</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo el capitulo I, II y III</td>
             </tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">3.0</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">27/08/2024</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">Michael Quispe</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Quispe Roldan Michael Fred</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo el capitulo IV</td>
             </tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">4.0</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">02/09/2024</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">Sebastian Ramos</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Ramos Calagua Sebastian Alexander</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se desarrollo el landing page</td>
             </tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">5.0</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">05/09/2024</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">Melina Santillan</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Santillan Alvarado Melina Liz</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo capitulo V </td>
             </tr>
         </tbody>
