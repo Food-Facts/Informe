@@ -13,7 +13,7 @@
     <p>Ingeniería de Software</p>
     <p>SI729 - Desarrollo de Aplicaciones Open Source</p>
     <p>Docente: Hugo Allan Mori Paiva</p>
-    <p>Startup: Food-Facts Inc.</p>
+    <p>Startup: NutritionSolutions</p>
     <p>Producto: Food-Facts</p>
 </div>
 
@@ -782,6 +782,28 @@ Recomendaciones personalizadas: Sugerencias de alimentos y recetas basadas en su
 Base de datos extensa: Una amplia base de datos de productos para poder escanear la mayoría de los alimentos que consume.
 Interfaz sencilla: Una aplicación fácil de usar y con una interfaz intuitiva.
 
+
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 4:**
+
+**Nombres y Apellidos:** Esther Sánchez Gracia
+
+**Edad:** 31 años
+
+**Lugar de Residencia:** San Miguel
+
+**Ocupación:** Estudiante de Nutrición y Dietética
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222846_upc_edu_pe/EaOA9Sjf6LhCnYNrgpr-TIoBWdzDdl3GWOH_VmBruXGhOg?e=a4aMTn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Esther intenta evitar los alimentos procesados, aunque los consume ocasionalmente cuando no dispone de tiempo para preparar comidas frescas. Está preocupado por el impacto de estos productos en su salud debido a los altos niveles de azúcares, sodio y aditivos que contienen. A pesar de no tener una condición médica grave, su historial familiar de diabetes y colesterol alto lo hace más cuidadoso con su dieta.
+
+Revisa regularmente las etiquetas nutricionales, prestando atención a las calorías, grasas, azúcares añadidos, sodio y la lista de ingredientes, evitando aquellos con conservantes o aditivos innecesarios. Al registrar un producto alimenticio, le gustaría recibir un desglose claro de ingredientes y una evaluación del impacto en la salud.
+
+Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas. Estaría dispuesto a pagar entre 10 y 15 dólares al mes por una aplicación que ofrezca un análisis detallado y personalizado de los alimentos. La aplicación sería muy útil en su vida diaria para tomar decisiones alimenticias más saludables.
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
@@ -807,6 +829,14 @@ El enfoque de esta persona hacia una aplicación como Food-Facts refleja la nece
 
 
 **Analisis de la Entrevista:** Fabián busca mejorar sus hábitos alimenticios y prevenir problemas de salud a largo plazo. Necesita información detallada y confiable, personalización, comodidad y confianza en una aplicación. Se frustra por la falta de tiempo, la información confusa y la dificultad para encontrar opciones saludables. Está dispuesto a invertir en herramientas para una vida más sana y le interesa la tecnología. Existe una demanda creciente de aplicaciones nutricionales personalizadas y fáciles de entender. Para desarrollar una aplicación, se requiere una interfaz intuitiva, una base de datos completa, recomendaciones personalizadas y educación nutricional. La integración con otros dispositivos, como wearables, puede agregar valor a la aplicación de Fabián.
+
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 4:**
+
+**Analisis de la Entrevista:** Esther Revisa regularmente las etiquetas nutricionales, prestando atención a las calorías, grasas, azúcares añadidos, sodio y la lista de ingredientes, evitando aquellos con conservantes o aditivos innecesarios. Al registrar un producto alimenticio, le gustaría recibir un desglose claro de ingredientes y una evaluación del impacto en la salud.
+
+ A pesar de no tener una condición médica grave, su historial familiar de diabetes y colesterol alto lo hace más cuidadoso con su dieta. Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas.
 
 
 ## 2.3. Needfinding.
