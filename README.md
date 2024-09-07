@@ -804,6 +804,26 @@ Revisa regularmente las etiquetas nutricionales, prestando atención a las calor
 Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas. Estaría dispuesto a pagar entre 10 y 15 dólares al mes por una aplicación que ofrezca un análisis detallado y personalizado de los alimentos. La aplicación sería muy útil en su vida diaria para tomar decisiones alimenticias más saludables.
 
 
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 5:**
+
+**Nombres y Apellidos:** Gustabo Sulca
+
+**Edad:** 18 años
+
+**Lugar de Residencia:** San Miguel
+
+**Ocupación:** Estudiante de la upc.
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EeUZvZiPSGtLp29JGPWp_y0Babo6wGDDGkBLb6WXTD6AAQ?e=vzP8bk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** 
+Gustabo evita los alimentos procesados, aunque a veces los consume por falta de tiempo. Le preocupa el impacto de los altos niveles de azúcar, sodio y aditivos en su salud, especialmente por su historial familiar de diabetes y colesterol alto.
+
+Revisa siempre las etiquetas para evitar conservantes y aditivos innecesarios. Valora recibir un desglose claro de ingredientes y alertas sobre posibles riesgos alimenticios. Le gustaría que una app como Food-Facts le ofreciera recomendaciones personalizadas, recetas y alternativas saludables, y estaría dispuesta a pagar entre 10 y 15 dólares al mes por un análisis detallado que mejore sus decisiones alimenticias.
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
@@ -837,6 +857,14 @@ El enfoque de esta persona hacia una aplicación como Food-Facts refleja la nece
 **Analisis de la Entrevista:** Esther Revisa regularmente las etiquetas nutricionales, prestando atención a las calorías, grasas, azúcares añadidos, sodio y la lista de ingredientes, evitando aquellos con conservantes o aditivos innecesarios. Al registrar un producto alimenticio, le gustaría recibir un desglose claro de ingredientes y una evaluación del impacto en la salud.
 
  A pesar de no tener una condición médica grave, su historial familiar de diabetes y colesterol alto lo hace más cuidadoso con su dieta. Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas.
+
+ **Segmento Objetivo: Personas con problemas alimenticios**
+
+ **Entrevista 5:**
+
+**Analisis de la Entrevista:** gustabo sulca Monitorea con frecuencia las etiquetas de los alimentos, poniendo especial atención en las calorías, grasas, azúcares añadidos, sodio y la lista de ingredientes, evitando aquellos que contengan conservantes o aditivos innecesarios. Al elegir un producto, busca un desglose claro de los ingredientes y una valoración sobre su impacto en la salud.
+
+Aunque no tiene problemas médicos graves, su historial familiar de diabetes y colesterol alto lo hace más consciente de su alimentación. Le parece muy útil recibir advertencias sobre posibles riesgos para la salud relacionados con ciertos alimentos, y cree que reportes personalizados sobre su dieta serían una excelente herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts ofreciera recomendaciones adaptadas a sus necesidades, alternativas más saludables y recetas.
 
 
 ## 2.3. Needfinding.
@@ -2346,3 +2374,5 @@ link del figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node
 link del repositorio: https://github.com/Food-Facts
 
 link del la landing desplegada: https://food-facts.github.io/LandingPage/
+
+link del video de Exposicion: 
