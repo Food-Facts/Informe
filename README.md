@@ -78,6 +78,26 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">Ernesto Casaverde</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Creación del repositorio del proyecto</td>
             </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">2.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">23/08/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Abraham Acosta</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo el capitulo I, II y III</td>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">3.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">27/08/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Michael Quispe</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo el capitulo IV</td>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">4.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">02/09/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Sebastian Ramos</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se desarrollo el landing page</td>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">5.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">05/09/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Melina Santillan</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo capitulo V </td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -185,14 +205,14 @@
     </thead>
     <tbody>
         <tr>
-            <td>Criterio 1</td>
-            <td>Acción 1</td>
-            <td>Conclusión 1</td>
+            <td>Comunica oralmente con efectividad a diferentes <br> rangos de audiencia.</td>
+            <td>Ernesto Casaverde <br> TB1 <br> -Brindo ideas para la creacion del startup<br>-Brindo ideas para las user stories<br>-Brindo recomendaciones para hacer el trabajo <br>Abraham Acosta<br>TB1<br>-Ayudo en la lluvia de ideas<br> -Brindo informacion extra para considerar <br>Michael Quispe<br>TB1<br>-Coordinó reuniones<br>-Brindo ayuda comunicandose por el grupo<br>-Ayudo al equipo a comunicarse de manera efectiva<br>Sebastian Ramos<br>TB1 <br>-Se comunico por el grupo para brindar ayuda<br>-Apoyo con la lluvia de ideas<br>-Fue comunicando sus avances <br>Melina Santillan<br>TB1<br>-Se comunicaba frecuentemente<br>-Si tenia dudas lo comunicaba</td>
+            <td>El equipo demostró una comunicación constante y efectiva,<br> donde cada miembro aportó ideas y apoyó en la coordinación del trabajo.<br> Ernesto Casaverde brindó ideas clave para el desarrollo del startup y las historias de usuario,<br> además de dar recomendaciones para mejorar el trabajo en general. <br>Abraham Acosta y Sebastián Ramos apoyaron en la lluvia de ideas y la comunicación de avances. <br>Michael Quispe coordinó las reuniones y facilitó la comunicación dentro del equipo, asegurando la colaboración fluida.<br> Melina Santillán mantuvo una comunicación continua, expresando sus dudas y asegurándose de estar al tanto del progreso del equipo. <br>Esta dinámica de interacción contribuyó al éxito y avance del proyecto.</td>
         </tr>
         <tr>
-            <td>Criterio 2</td>
-            <td>Acción 2</td>
-            <td>Conclusión 2</td>
+            <td>Comunica por escrito con efectividad a diferentes <br> rangos de audiencia</td>
+            <td>Ernesto Casaverde <br> TB1 <br>-Creo el repositorio y el informe<br>-Realizo parte del capitulo IV y V<br>Abraham Acosta<br>TB1<br>-Realizo el capitulo I, II y III<br>-Ayudo en las mejoras continuas<br>Michael Quispe<br>TB1<br>-Realizo parte del capituloIV<br>-Ayudo en la creacion de los user stories<br>y product backlog<br>Sebastian Ramos<br>TB1<br>-Realizo en su mayoria el landing page<br>-Fue realizando mejoras en el landing page<br>Melina Santillan<br>TB1<br>-Realizo una parte del landing page<br>-Ayudo en las mejoras del landing page</td>
+            <td>El equipo mostró una comunicación efectiva por escrito, lo que permitió un progreso coordinado y organizado en las distintas tareas. <br>Ernesto Casaverde contribuyó significativamente en la creación del repositorio, el informe y partes clave del capítulo IV y V.<br> Abraham Acosta desarrolló los capítulos I, II y III, además de contribuir con mejoras continuas.<br> Michael Quispe trabajó en el capítulo IV y ayudó en la creación de las historias de usuario y el product backlog.<br> Sebastián Ramos asumió la mayor parte del desarrollo de la landing page, mientras que Melina Santillán contribuyó en su creación y en las mejoras del mismo. <br>El equipo logró avances sólidos al dividir responsabilidades y comunicarse efectivamente en la documentación y creación del proyecto.</td>
         </tr>
     </tbody>
 </table>
