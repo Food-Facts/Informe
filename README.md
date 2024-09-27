@@ -217,12 +217,12 @@ Con todo lo Aportado en el proyecto hacemos el analisi grupal y obtenemos el sig
     <tbody>
         <tr>
             <td>Comunica oralmente con efectividad a diferentes <br> rangos de audiencia.</td>
-            <td>Ernesto Casaverde <br> TB1 <br> -Brindo ideas para la creacion del startup<br>-Brindo ideas para las user stories<br>-Brindo recomendaciones para hacer el trabajo <br>Abraham Acosta<br>TB1<br>-Ayudo en la lluvia de ideas<br> -Brindo informacion extra para considerar <br>Michael Quispe<br>TB1<br>-Coordinó reuniones<br>-Brindo ayuda comunicandose por el grupo<br>-Ayudo al equipo a comunicarse de manera efectiva<br>Sebastian Ramos<br>TB1 <br>-Se comunico por el grupo para brindar ayuda<br>-Apoyo con la lluvia de ideas<br>-Fue comunicando sus avances <br>Melina Santillan<br>TB1<br>-Se comunicaba frecuentemente<br>-Si tenia dudas lo comunicaba</td>
+            <td>Ernesto Casaverde <br> TB1 <br> -Brindo ideas para la creacion del startup<br>-Brindo ideas para las user stories<br>-Brindo recomendaciones para hacer el trabajo <br> TP1 <br> -Brindo ideas para la creacion del front end<br>-Brindo ideas para el desarrollo<br>-Brindo recomendaciones para organizarlo <br>Abraham Acosta<br>TB1<br>-Ayudo en la lluvia de ideas<br> -Brindo informacion extra para considerar <br>TP1<br>-Ayudo en la creacion del front end<br> -Brindo su tiempo para desarrollar <br>Michael Quispe<br>TB1<br>-Coordinó reuniones<br>-Brindo ayuda comunicandose por el grupo<br>-Ayudo al equipo a comunicarse de manera efectiva<br>TP1<br>-Ayudo en la creacion del front end<br> -Brindo ayuda en la guia del desarrollo <br>Sebastian Ramos<br>TB1 <br>-Se comunico por el grupo para brindar ayuda<br>-Apoyo con la lluvia de ideas<br>-Fue comunicando sus avances <br>TP1<br>-Ayudo en la creacion del front end<br> -Ayudo y apoyo al grupo <br>Melina Santillan<br>TB1<br>-Se comunicaba frecuentemente<br>-Si tenia dudas lo comunicaba<br>TP1<br>-Brindo ayuda a los compañeros<br> -Comunico y pregunto sus dudas <br></td>
             <td>El equipo demostró una comunicación constante y efectiva,<br> donde cada miembro aportó ideas y apoyó en la coordinación del trabajo.<br> Ernesto Casaverde brindó ideas clave para el desarrollo del startup y las historias de usuario,<br> además de dar recomendaciones para mejorar el trabajo en general. <br>Abraham Acosta y Sebastián Ramos apoyaron en la lluvia de ideas y la comunicación de avances. <br>Michael Quispe coordinó las reuniones y facilitó la comunicación dentro del equipo, asegurando la colaboración fluida.<br> Melina Santillán mantuvo una comunicación continua, expresando sus dudas y asegurándose de estar al tanto del progreso del equipo. <br>Esta dinámica de interacción contribuyó al éxito y avance del proyecto.</td>
         </tr>
         <tr>
             <td>Comunica por escrito con efectividad a diferentes <br> rangos de audiencia</td>
-            <td>Ernesto Casaverde <br> TB1 <br>-Creo el repositorio y el informe<br>-Realizo parte del capitulo IV y V<br>Abraham Acosta<br>TB1<br>-Realizo el capitulo I, II y III<br>-Ayudo en las mejoras continuas<br>Michael Quispe<br>TB1<br>-Realizo parte del capituloIV<br>-Ayudo en la creacion de los user stories<br>y product backlog<br>Sebastian Ramos<br>TB1<br>-Realizo en su mayoria el landing page<br>-Fue realizando mejoras en el landing page<br>Melina Santillan<br>TB1<br>-Realizo una parte del landing page<br>-Ayudo en las mejoras del landing page</td>
+            <td>Ernesto Casaverde <br> TB1 <br>-Creo el repositorio y el informe<br>-Realizo parte del capitulo IV y V<br> TP1 <br>-Creo el repositorio del front end<br>-Realizo parte del front end de manera eficiente<br>Abraham Acosta<br>TB1<br>-Realizo el capitulo I, II y III<br>-Ayudo en las mejoras continuas<br> TP1 <br>-Comunico pr escrito sus inquietudes<br>-Realizo parte del frot end de manera eficiente<br>Michael Quispe<br>TB1<br>-Realizo parte del capituloIV<br>-Ayudo en la creacion de los user stories<br>y product backlog<br> TP1 <br>-Comunico los avances del front end<br>-Realizo parte del front end de manera eficiente<br>Sebastian Ramos<br>TB1<br>-Realizo en su mayoria el landing page<br>-Fue realizando mejoras en el landing page<br> TP1 <br>-Ayudo y comunico los avances del front end<br>-Ayudo a los demas respondiendoles sus dudas<br>Melina Santillan<br>TB1<br>-Realizo una parte del landing page<br>-Ayudo en las mejoras del landing page<br> TP1 <br>-Avanzo parte del front end<br>-Realizo parte del front end de manera eficiente<br></td>
             <td>El equipo mostró una comunicación efectiva por escrito, lo que permitió un progreso coordinado y organizado en las distintas tareas. <br>Ernesto Casaverde contribuyó significativamente en la creación del repositorio, el informe y partes clave del capítulo IV y V.<br> Abraham Acosta desarrolló los capítulos I, II y III, además de contribuir con mejoras continuas.<br> Michael Quispe trabajó en el capítulo IV y ayudó en la creación de las historias de usuario y el product backlog.<br> Sebastián Ramos asumió la mayor parte del desarrollo de la landing page, mientras que Melina Santillán contribuyó en su creación y en las mejoras del mismo. <br>El equipo logró avances sólidos al dividir responsabilidades y comunicarse efectivamente en la documentación y creación del proyecto.</td>
         </tr>
     </tbody>
@@ -2380,6 +2380,215 @@ Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas qu
     <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FTeam-insight-Informe.PNG?alt=media&token=8bf57737-e207-4004-841c-4822fa7a7056" alt="W5" style="width: auto; height: auto;">
 </div>
 
+### 5.2.2. Sprint 2
+
+Durante el Sprint 2, nuestro enfoque estuvo en el diseño del frontend de nuestro producto. Trabajamos arduamente para conceptualizar y dar forma a la primera impresión que tendrán nuestros usuarios. Este sprint fue fundamental para establecer la estética y la estructura inicial de nuestra plataforma, sentando así las bases para futuras iteraciones.
+
+### 5.2.2.1. Sprint Planning 2.
+
+
+Acontinuacion  mostraremos la tabla:
+
+| Sprint 2 | Sprint 2 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024/09/25 |
+| **Time** | 10:00 PM |
+| **Location** | Reunión por Discord |
+| **Prepared By** | Michael Quispe |
+| **Attendees (to planning meeting)** | Ernesto Casaverde U20221B657 <br> Sebastian Ramos U202222846 <br> Abraam Acosta U202219199 <br> Melina Liz Santillan Alvarado U202216058 |
+| **Sprint n 1 Review Summary** | Nos hemos reunido para repartir el frontend, es decir que coordinamos quien iba relaizar los puntos del frontend|
+| **Sprint n – 1 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
+| **Sprint Planning Background** | |
+| **Sprint 2 Goal** | Completar el desarrollo de la landing page |
+| **Sprint 2 Velocity** | **Story US-008**: Recuperar contraseña (3 Story Points) <br><br> **Story US-009**: Actualizar perfil de usuario (3 Story Points) <br><br> **Story US-010**: Visualizar historial de búsquedas (3 Story Points) <br><br> **Story US-011**: Configuración de notificaciones (3 Story Points) <br><br> **Story US-013**: Explorar categorías de productos (3 Story Points) <br><br> **Story US-016**: Filtrar productos por valor nutricional (3 Story Points) |
+| **Sum of Story Points** | Suma de Story Points: 3 + 3 + 3 + 3 + 3 + 3 = **18 Story Points** |
+
+
+
+### 5.2.2.2. Sprint Backlog 2.
+
+<table>
+  <tr>
+    <th>Sprint 2</th>
+    <th colspan="7">Sprint 2</th>
+  </tr>
+  <tr>
+    <th colspan="2"> User Story</th>
+    <th colspan="7">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <td>007</td>
+    <td>apartado del perfil de usuario</td>
+    <td>008</td>
+    <td>Recuperar contraseña</td>
+    <td>Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.</td>
+    <td>5.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>008</td>
+    <td>apartado del perfil de usuario</td>
+    <td>009</td>
+    <td>Actualizar perfil de usuario</td>
+    <td>Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes.</td>
+    <td>4.00</td>
+    <td>Allcca Guerrero, Irving Washington</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>009</td>
+    <td>apartado del historial</td>
+    <td>010</td>
+    <td>Visualizar historial de búsquedas</td>
+    <td>Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado.</td>
+    <td>6.00</td>
+    <td>Dextre Miguel, Kevin Cosner</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>010</td>
+    <td>apartado de notificaciones</td>
+    <td>011</td>
+    <td>Configuración de notificaciones</td>
+    <td>Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes.</td>
+    <td>2.00</td>
+    <td>Sanchez Montero, Carlos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>011</td>
+    <td>apartado de categorías</td>
+    <td>013</td>
+    <td>Explorar categorías de productos</td>
+    <td>Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional.</td>
+    <td>6.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>012</td>
+    <td>apartado de filtros</td>
+    <td>016</td>
+    <td>Filtrar productos por valor nutricional</td>
+    <td>Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas.</td>
+    <td>5.00</td>
+    <td>Quispe Roldan, Michael Fred</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+
+Para este entrega  hemos realizado en entre los  repositorios Informe y front end hemos Hecho 40 commits varios de ellos sobre el informe, frontend y correcciones aca dejo los mas importante:
+
+
+
+| Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/FoodFacts-Frontend   | develop  | id1       | fix:                             | imge url                                     | 6/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id2       | docs(Informe):                   | Added Product Backlog                        | 6/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id3       | docs(informe):                   | Update Startup description                   | 5/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop   | id4       | fix:                             | update sprint planning 1                     | 5/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id5       | docs(informe):                   | Add software deployment configuration        | 5/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop    | id6       | docs(Informe):                   | added mocks and wireframes Web               | 4/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id7       | docs(informe):                   | Update General Style Guidelines              | 5/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop    | id8       | landing page design:             | improvement                                  | 5/09/2024        |
+
+
+Para ver todos los commits con mas detalle revisar el repositorio
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
+ Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+| ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
+|testing | feature | 007 | Added | Recuperar contraseña: Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta. | 26/09/2024 |
+|testing | feature | 008 | Added | Actualizar perfil de usuario: Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes. | 26/09/2024 |
+|testing | feature | 009 | Added | Visualizar historial de búsquedas: Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado. | 26/09/2024 |
+|testing | feature | 010 | Added | Configuración de notificaciones: Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes. | 26/09/2024 |
+|testing | feature | 011 | Added | Explorar categorías de productos: Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional. | 26/09/2024 |
+|testing | feature | 012 | Added | Filtrar productos por valor nutricional: Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas. | 26/09/2024 |
+
+
+```feature
+Feature: Recuperar contraseña
+Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.
+
+Scenario: Solicitar recuperación de contraseña
+Given soy un usuario que ha olvidado su contraseña
+When intento iniciar sesión y selecciono "Olvidé mi contraseña"
+Then debería recibir un enlace de recuperación en mi correo electrónico
+And debería poder restablecer mi contraseña a través del enlace
+Feature: Actualizar perfil de usuario
+Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes.
+
+Scenario: Actualizar información del perfil
+Given soy un usuario autenticado en mi cuenta
+When navego a la sección de "Editar Perfil"
+Then debería poder modificar mis datos como nombre, correo electrónico, y preferencias
+And los cambios deberían guardarse correctamente
+Feature: Visualizar historial de búsquedas
+Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado.
+
+Scenario: Mostrar historial de búsquedas
+Given soy un usuario autenticado
+When accedo a la sección de historial de búsquedas
+Then debería ver una lista de las búsquedas recientes que he realizado
+And debería poder hacer clic en cualquier búsqueda para ver los resultados nuevamente
+Feature: Configuración de notificaciones
+Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes.
+
+Scenario: Modificar preferencias de notificaciones
+Given soy un usuario autenticado
+When accedo a la configuración de notificaciones
+Then debería poder activar o desactivar diferentes tipos de notificaciones
+And los cambios deberían reflejarse en mis alertas
+Feature: Explorar categorías de productos
+Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional.
+
+Scenario: Navegar por categorías de productos
+Given soy un usuario interesado en productos
+When navego a la sección de categorías de productos
+Then debería poder ver diferentes categorías de alimentos y productos
+And debería poder filtrar los productos según mi interés
+Feature: Filtrar productos por valor nutricional
+Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas.
+
+Scenario: Filtrar productos según valor nutricional
+Given soy un usuario que busca productos con características nutricionales específicas
+When utilizo los filtros de valor nutricional
+Then debería poder ver productos que cumplen con los valores que he seleccionado
+And debería poder ajustar los filtros para cambiar los resultados
+
+```
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
 ## Conclusiones
 
 
