@@ -2206,8 +2206,8 @@ Acontinuacion  mostraremos la tabla:
 
 <table>
   <tr>
-    <th>Sprint 3</th>
-    <th colspan="7">Sprint 3</th>
+    <th>Sprint 1</th>
+    <th colspan="7">Sprint 1</th>
   </tr>
   <tr>
     <th colspan="2"> User Story</th>
