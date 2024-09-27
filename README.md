@@ -2397,7 +2397,7 @@ Acontinuacion  mostraremos la tabla:
 | **Location** | Reunión por Discord |
 | **Prepared By** | Michael Quispe |
 | **Attendees (to planning meeting)** | Ernesto Casaverde U20221B657 <br> Sebastian Ramos U202222846 <br> Abraam Acosta U202219199 <br> Melina Liz Santillan Alvarado U202216058 |
-| **Sprint n 1 Review Summary** | Nos hemos reunido para repartir el frontend, es decir que coordinamos quien iba relaizar los puntos del frontend|
+| **Sprint n 1 Review Summary** | Nos hemos reunido para repartir el frontend, es decir que coordinamos quien iba realizar los puntos del frontend|
 | **Sprint n – 1 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
 | **Sprint Planning Background** | |
 | **Sprint 2 Goal** | Completar el desarrollo de la landing page |
@@ -2434,7 +2434,7 @@ Acontinuacion  mostraremos la tabla:
     <td>Recuperar contraseña</td>
     <td>Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.</td>
     <td>5.00</td>
-    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Abraham Acosta</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -2444,7 +2444,7 @@ Acontinuacion  mostraremos la tabla:
     <td>Actualizar perfil de usuario</td>
     <td>Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes.</td>
     <td>4.00</td>
-    <td>Allcca Guerrero, Irving Washington</td>
+    <td>Melina Santillan</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -2454,7 +2454,7 @@ Acontinuacion  mostraremos la tabla:
     <td>Visualizar historial de búsquedas</td>
     <td>Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado.</td>
     <td>6.00</td>
-    <td>Dextre Miguel, Kevin Cosner</td>
+    <td>Ernesto Casverde</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -2464,7 +2464,7 @@ Acontinuacion  mostraremos la tabla:
     <td>Configuración de notificaciones</td>
     <td>Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes.</td>
     <td>2.00</td>
-    <td>Sanchez Montero, Carlos</td>
+    <td>Sebastian Ramos</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -2474,7 +2474,7 @@ Acontinuacion  mostraremos la tabla:
     <td>Explorar categorías de productos</td>
     <td>Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional.</td>
     <td>6.00</td>
-    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Abraham Acosta</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -2484,7 +2484,7 @@ Acontinuacion  mostraremos la tabla:
     <td>Filtrar productos por valor nutricional</td>
     <td>Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas.</td>
     <td>5.00</td>
-    <td>Quispe Roldan, Michael Fred</td>
+    <td>Michael Quispe</td>
     <td>Done</td>
   </tr>
 </table>
@@ -2499,14 +2499,14 @@ Para este entrega  hemos realizado en entre los  repositorios Informe y front en
 
 | Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
 | -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
-| Food-Facts/FoodFacts-Frontend   | develop  | id1       | fix:                             | imge url                                     | 6/09/2024        |
-| Food-Facts/FoodFacts-Frontend   | develop    | id2       | docs(Informe):                   | Added Product Backlog                        | 6/09/2024        |
-| Food-Facts/FoodFacts-Frontend   | develop    | id3       | docs(informe):                   | Update Startup description                   | 5/09/2024        |
-| Food-Facts/FoodFacts-Frontend  | develop   | id4       | fix:                             | update sprint planning 1                     | 5/09/2024        |
-| Food-Facts/FoodFacts-Frontend   | develop    | id5       | docs(informe):                   | Add software deployment configuration        | 5/09/2024        |
-| Food-Facts/FoodFacts-Frontend  | develop    | id6       | docs(Informe):                   | added mocks and wireframes Web               | 4/09/2024        |
-| Food-Facts/FoodFacts-Frontend   | develop    | id7       | docs(informe):                   | Update General Style Guidelines              | 5/09/2024        |
-| Food-Facts/FoodFacts-Frontend  | develop    | id8       | landing page design:             | improvement                                  | 5/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop  | id1       | first commit                             | first commit                                   | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id2       | feat: a                 | dd toolbar and sidebar component                         | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id3       | docs(informe):                   | Update Startup description                   | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop   | id4       | fix:                             | update sprint planning 1                     | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id5       | docs(informe):                   | Add software deployment configuration        | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop    | id6       | docs(Informe):                   | added mocks and wireframes Web               | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id7       | docs(informe):                   | Update General Style Guidelines              | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop    | id8       | landing page design:             | improvement                                  | 26/09/2024        |
 
 
 Para ver todos los commits con mas detalle revisar el repositorio
@@ -2578,11 +2578,33 @@ And debería poder ajustar los filtros para cambiar los resultados
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
-
-
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-
+Sprint: Sprint 2 Fecha: 23/09/2024 FoodFacts
+1. Resumen
+El objetivo de este sprint fue implementar funcionalidades clave relacionadas con la experiencia del usuario, incluyendo la gestión de perfiles, recuperación de contraseñas, historial de búsquedas, notificaciones y exploración de productos. Se enfocó en mejorar la interacción del usuario con la aplicación y proporcionar herramientas para una experiencia más personalizada.
+2. Trabajo Realizado
+2.1 Recuperación de Contraseña
+Implementamos un sistema de recuperación de contraseña para que los usuarios puedan acceder nuevamente a sus cuentas en caso de olvidar sus credenciales. Esta funcionalidad mejora la seguridad y la accesibilidad de la aplicación.
+2.2 Actualización de Perfil de Usuario
+Desarrollamos la capacidad para que los usuarios actualicen su perfil, permitiéndoles mantener sus datos actualizados y recibir alertas relevantes basadas en su información personal.
+2.3 Visualización del Historial de Búsquedas
+Creamos una funcionalidad que permite a los usuarios ver su historial de búsquedas previas, facilitando el acceso rápido a la información que ya han consultado anteriormente.
+2.4 Configuración de Notificaciones
+Implementamos un sistema de configuración de notificaciones, permitiendo a los usuarios personalizar sus preferencias para recibir alertas sobre productos y noticias relevantes.
+2.5 Exploración de Categorías de Productos
+Desarrollamos una función para que los usuarios puedan explorar diferentes categorías de productos, facilitando el descubrimiento de nuevos alimentos y el acceso a su información nutricional.
+2.6 Filtrado de Productos por Valor Nutricional
+Implementamos un sistema de filtros que permite a los usuarios buscar productos específicos basados en su valor nutricional, ayudándoles a encontrar alimentos que se ajusten mejor a sus necesidades dietéticas.
+3. Hallazgos y Desafíos
+•	Integración de sistemas: La implementación del sistema de recuperación de contraseña requirió una cuidadosa integración con los sistemas de autenticación existentes.
+•	Rendimiento: La visualización del historial de búsquedas planteó desafíos de rendimiento, especialmente para usuarios con un historial extenso.
+•	Diseño de UX: Crear una interfaz intuitiva para la configuración de notificaciones y el filtrado de productos requirió varias iteraciones de diseño.
+4. Próximos Pasos
+•	Realizar pruebas de usabilidad para las nuevas funcionalidades implementadas.
+•	Optimizar el rendimiento del historial de búsquedas para grandes volúmenes de datos.
+•	Expandir las opciones de filtrado de productos basadas en el feedback de los usuarios.
+•	Mejorar la personalización de las notificaciones basadas en el comportamiento del usuario.
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
@@ -2597,8 +2619,8 @@ And debería poder ajustar los filtros para cambiar los resultados
 - El diseño atractivo y la usabilidad son fundamentales. Una estructura clara ayuda a los usuarios a encontrar información rápidamente, mejorando la efectividad del mensaje.
 <br><br>
 - El contenido debe ser científicamente preciso y actualizado. Esto aumenta la credibilidad y el valor informativo de la página.
-
-
+- El front end se avanzo hasta su fase funcional, con el fake api.
+- Se considera el front end con un diseño intuitivo y mas versatil
 ## Bibliografia 
 
 
