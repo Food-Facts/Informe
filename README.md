@@ -98,6 +98,12 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">Santillan Alvarado Melina Liz</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo capitulo V </td>
             </tr>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">6.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">27/09/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Todos los miembros del equipo</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo mejoras al doc y la creacion del front end</td>
+            </tr>
         </tbody>
     </table>
 </div>
