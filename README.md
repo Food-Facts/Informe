@@ -2725,13 +2725,13 @@ Para este entrega  hemos realizado en entre los  repositorios Informe y front en
 | Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
 | -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
 | Food-Facts/FoodFacts-Frontend   | develop  | id1       | first commit                             | first commit                                   | 26/09/2024        |
-| Food-Facts/FoodFacts-Frontend   | develop    | id2       | feat: a                 | dd toolbar and sidebar component                         | 26/09/2024        |
-| Food-Facts/FoodFacts-Frontend   | develop    | id3       | docs(informe):                   | Update Startup description                   | 26/09/2024        |
-| Food-Facts/FoodFacts-Frontend  | develop   | id4       | fix:                             | update sprint planning 1                     | 26/09/2024        |
-| Food-Facts/FoodFacts-Frontend   | develop    | id5       | docs(informe):                   | Add software deployment configuration        | 26/09/2024        |
-| Food-Facts/FoodFacts-Frontend  | develop    | id6       | docs(Informe):                   | added mocks and wireframes Web               | 26/09/2024        |
-| Food-Facts/FoodFacts-Frontend   | develop    | id7       | docs(informe):                   | Update General Style Guidelines              | 26/09/2024        |
-| Food-Facts/FoodFacts-Frontend  | develop    | id8       | landing page design:             | improvement                                  | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id2       | feat:                 | dd toolbar and sidebar component                         | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id3       | fea:                   | home component added                  | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop   | id4       | fix                         |  color                       | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id5       | fix                   |  color home       | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop    | id6       | fix critic                | color black              | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend   | develop    | id7       | fea                   | add products             | 26/09/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop    | id8       | Fix       | products component fix                                 | 26/09/2024        |
 
 
 Para ver todos los commits con mas detalle revisar el repositorio
@@ -2806,34 +2806,53 @@ And debería poder ajustar los filtros para cambiar los resultados
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Sprint: Sprint 2 Fecha: 23/09/2024 FoodFacts
-1. Resumen
-El objetivo de este sprint fue implementar funcionalidades clave relacionadas con la experiencia del usuario, incluyendo la gestión de perfiles, recuperación de contraseñas, historial de búsquedas, notificaciones y exploración de productos. Se enfocó en mejorar la interacción del usuario con la aplicación y proporcionar herramientas para una experiencia más personalizada.
-2. Trabajo Realizado
-2.1 Recuperación de Contraseña
+1. Resumen<br>
+El objetivo de este sprint fue implementar funcionalidades clave relacionadas con la experiencia del usuario, incluyendo la gestión de perfiles, recuperación de contraseñas, historial de búsquedas, notificaciones y exploración de productos. Se enfocó en mejorar la interacción del usuario con la aplicación y proporcionar herramientas para una experiencia más personalizada.<br>
+2. Trabajo Realizado<br>
+2.1 Recuperación de Contraseña<br>
 Implementamos un sistema de recuperación de contraseña para que los usuarios puedan acceder nuevamente a sus cuentas en caso de olvidar sus credenciales. Esta funcionalidad mejora la seguridad y la accesibilidad de la aplicación.
-2.2 Actualización de Perfil de Usuario
+2.2 Actualización de Perfil de Usuario<br>
 Desarrollamos la capacidad para que los usuarios actualicen su perfil, permitiéndoles mantener sus datos actualizados y recibir alertas relevantes basadas en su información personal.
-2.3 Visualización del Historial de Búsquedas
+2.3 Visualización del Historial de Búsquedas<br>
 Creamos una funcionalidad que permite a los usuarios ver su historial de búsquedas previas, facilitando el acceso rápido a la información que ya han consultado anteriormente.
-2.4 Configuración de Notificaciones
+2.4 Configuración de Notificaciones<br>
 Implementamos un sistema de configuración de notificaciones, permitiendo a los usuarios personalizar sus preferencias para recibir alertas sobre productos y noticias relevantes.
-2.5 Exploración de Categorías de Productos
+2.5 Exploración de Categorías de Productos<br>
 Desarrollamos una función para que los usuarios puedan explorar diferentes categorías de productos, facilitando el descubrimiento de nuevos alimentos y el acceso a su información nutricional.
-2.6 Filtrado de Productos por Valor Nutricional
+2.6 Filtrado de Productos por Valor Nutricional<br>
 Implementamos un sistema de filtros que permite a los usuarios buscar productos específicos basados en su valor nutricional, ayudándoles a encontrar alimentos que se ajusten mejor a sus necesidades dietéticas.
-3. Hallazgos y Desafíos
-•	Integración de sistemas: La implementación del sistema de recuperación de contraseña requirió una cuidadosa integración con los sistemas de autenticación existentes.
-•	Rendimiento: La visualización del historial de búsquedas planteó desafíos de rendimiento, especialmente para usuarios con un historial extenso.
-•	Diseño de UX: Crear una interfaz intuitiva para la configuración de notificaciones y el filtrado de productos requirió varias iteraciones de diseño.
-4. Próximos Pasos
-•	Realizar pruebas de usabilidad para las nuevas funcionalidades implementadas.
-•	Optimizar el rendimiento del historial de búsquedas para grandes volúmenes de datos.
-•	Expandir las opciones de filtrado de productos basadas en el feedback de los usuarios.
-•	Mejorar la personalización de las notificaciones basadas en el comportamiento del usuario.
+3. Hallazgos y Desafíos<br>
+•	Integración de sistemas: La implementación del sistema de recuperación de contraseña requirió una cuidadosa integración con los sistemas de autenticación existentes.<br>
+•	Rendimiento: La visualización del historial de búsquedas planteó desafíos de rendimiento, especialmente para usuarios con un historial extenso.<br>
+•	Diseño de UX: Crear una interfaz intuitiva para la configuración de notificaciones y el filtrado de productos requirió varias iteraciones de diseño.<br>
+4. Próximos Pasos<br>
+•	Realizar pruebas de usabilidad para las nuevas funcionalidades implementadas.<br>
+•	Optimizar el rendimiento del historial de búsquedas para grandes volúmenes de datos.<br>
+•	Expandir las opciones de filtrado de productos basadas en el feedback de los usuarios.<br>
+•	Mejorar la personalización de las notificaciones basadas en el comportamiento del usuario.<br>
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+Evidencia del Front end:
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010458.png?alt=media&token=c3fbc8d0-cd43-4534-9360-36f7d5b0495e" alt="W5" style="width: auto; height: auto;">
+</div>
 
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010538.png?alt=media&token=565eb83c-4b06-40f3-9472-545abb53f212" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010550.png?alt=media&token=ed47c7ac-4485-4da6-818c-95eeb80b9d13" alt="W5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010601.png?alt=media&token=d63f2d19-c59f-44bc-a620-39667a3ee360" alt="W5" style="width: auto; height: auto;">
+</div>
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 ## Conclusiones
@@ -2858,4 +2877,8 @@ link del repositorio: https://github.com/Food-Facts
 
 link del la landing desplegada: https://food-facts.github.io/LandingPage/
 
-link del video de Exposicion: https://upcedupe-my.sharepoint.com/personal/u20221e734_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221e734%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1150793369%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0c40a393%2D68c3%2D4fd2%2Db47c%2Dd0d33862fa0c
+link del front end: https://food-facts-vf.vercel.app/products
+
+link del video de Exposicion(TB1): https://upcedupe-my.sharepoint.com/personal/u20221e734_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221e734%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1150793369%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0c40a393%2D68c3%2D4fd2%2Db47c%2Dd0d33862fa0c
+
+link del video de Exposicion(TP1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EZ0WGP3UutVLhpmi9eL5UCgBNQQ5fgsWK0ZQMwuX7TlZ9Q e=3K0Dx4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
