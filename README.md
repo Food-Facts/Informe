@@ -3003,7 +3003,7 @@ Para este entrega  hemos realizado en entre los  repositorios Informe y backend 
 | Food-Facts/FoodFacts-Backend  | main    | id3       | Added Users Bounded Context                   | third commit                 | 04/11/2024        |
 | Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  fourth commit                       | 04/11/2024        |
 | Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  fifth commit       | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend  | main    | id6       | fix critic                | color black              | 26/09/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id6       | fix: product bounden context                | six commit             | 04/11/2024        |
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -3157,29 +3157,24 @@ And debería recibir actualizaciones si algún producto es retirado del mercado.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
-Como lo explicamos anteriormente vamos usar githubPages como sistema de despliegue.
+Ahora explicamos el despliegue del proyecto:
 
-Configuramos GitHub Pages
-
-- Vamos a la página de tu repositorio en GitHub.
-- Hazemos  clic en "Settings" en la barra superior.
-- En el menú lateral izquierdo, selecionamos  en "Pages".
-- En "Source", seleccionamod "main" como rama y "/" (root) como carpeta.
-Haz clic en "Save".
-
-
-Accedemos al backend:
-
-GitHub nos proposciona una URL
-
-Esperamos unos minutos y se hizo el despliegue en  GitHub despliega tu sitio.
+* Crear una cuenta en Railway
+* Regístrate o inicia sesión en Railway.
+* Ve al panel de control de Railway y haz clic en “New Project”.
+* Selecciona “Deploy from GitHub repo”.
+* Autoriza a Railway para acceder a tu cuenta de GitHub si es necesario y elige tu repositorio.
+* Railway detectará automáticamente si tu proyecto es una aplicación de Java/Maven/Gradle.
+* Ve a la sección de “Settings” de tu proyecto en Railway.
+* Una vez configurado, Railway comenzará a construir y desplegar tu aplicación automáticamente.
+* Monitorea el log del despliegue para asegurarte de que no haya errores.
+* Una vez completado el despliegue, obtendrás un dominio temporal de Railway para probar tu aplicación.
+* Accede al enlace proporcionado y verifica que tu aplicación esté funcionando correctamente.
+Y asi es como quedo:
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fdesplieguelandingfoodfacts.PNG?alt=media&token=683cfb0a-584e-4823-9156-37f429834850" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FDespliegue.png?alt=media&token=3e1fec40-ec5c-48e7-a83c-b00ddfbe0cb8" alt="W5" style="width: auto; height: auto;">
 </div>
-
-
-Baackend desplegado: 
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
