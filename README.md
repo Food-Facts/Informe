@@ -2986,7 +2986,18 @@ Acontinuacion  mostraremos la tabla:
 
 ### 5.2.3.3. Development Evidence for Sprint Review.
 
+Para este entrega  hemos realizado en entre los  repositorios Informe y backend hemos Hecho 40 commits varios de ellos sobre el informe, frontend y correcciones aca dejo los mas importante:
 
+
+
+| Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/FoodFacts-Backend   | main  | id1       | Backend: the project is created                             | first commit and project is created                                   | 03/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id2       | added Profile Bounded context                 | second commit                         | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id3       | Added Users Bounded Context                   | third commit                 | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  fourth commit                       | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  fifth commit       | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id6       | fix critic                | color black              | 26/09/2024        |
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -3056,6 +3067,10 @@ And debería recibir actualizaciones si algún producto es retirado del mercado.
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
+Evidencia del backend:
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FEvidencia.png?alt=media&token=2c40651b-cb3d-414d-8b4c-34dee6ab72c9" alt="W5" style="width: auto; height: auto;">
+</div>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -3129,6 +3144,11 @@ And debería recibir actualizaciones si algún producto es retirado del mercado.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -3182,12 +3202,12 @@ Por último, recomienda que los íconos de la parte superior incluyan indicadore
 
 **Usability – Inclusive Design – Information Architecture**
 
-**CARRERA**: Ingeniería de Software  
-**CURSO**: Desarrollo de Aplicaciones Open Source 
-**SECCIÓN**: SI729 
-**PROFESORES**: Hugo Allan Mori Paiva 
-**AUDITOR**: Quispe Roldan Michael Fred 
-**CLIENTE(S)**: Ernesto Casaverde U20221B657 <br> Sebastian Ramos U202222846 <br> Abraam Acosta U202219199 <br> Melina Liz Santillan Alvarado U202216058
+**CARRERA**: Ingeniería de Software<br>  
+**CURSO**: Desarrollo de Aplicaciones Open Source<br> 
+**SECCIÓN**: SI729<br> 
+**PROFESORES**: Hugo Allan Mori Paiva<br> 
+**AUDITOR**: Quispe Roldan Michael Fred<br> 
+**CLIENTE(S)**:<br> Ernesto Casaverde U20221B657 <br> Sebastian Ramos U202222846 <br> Abraam Acosta U202219199 <br> Melina Liz Santillan Alvarado U202216058
 
 
 ---
