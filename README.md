@@ -3378,6 +3378,9 @@ Las alertas sobre productos con altos niveles de azúcar, sal u otros componente
 **Recomendación**:  
 Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos o colores llamativos para destacarlas mejor.
 
+## 5.4. Video About-the-Product
+
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EaJRAMcgUYpDlnG208x6gvYBWqzQS0eaaED9uQ0ZU6vnng?e=P37fR8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Conclusiones
 
@@ -3407,3 +3410,6 @@ link del front end: https://food-facts-vf.vercel.app/products
 link del video de Exposicion(TB1): https://upcedupe-my.sharepoint.com/personal/u20221e734_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221e734%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1150793369%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0c40a393%2D68c3%2D4fd2%2Db47c%2Dd0d33862fa0c
 
 link del video de Exposicion(TP1): https://upcedupemy.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EZ0WGP3UutVLhpmi9eL5UCgBNQQ5fgsWK0ZQMwuX7TlZ9Qe=3K0Dx4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+link del video de Exposicion(TB2):
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EfpHmVx83ZVNsQHfa8MWMvQBC0e3RcxRi0l6Vumx8JlmhA?e=SRlfyY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
