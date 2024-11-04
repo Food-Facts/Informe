@@ -3206,6 +3206,18 @@ Por último, recomienda que los íconos de la parte superior incluyan indicadore
 
 **Resumen de la Entrevista:** Keira menciona que la barra lateral de la aplicación web le parece simple de usar y completo. Considera que el "Quick Search" es fácil de usar, además de que le parece agradable que este arriba, ya que le permitiria una busqueda rápida. Sobre el "Your Activity" piensa que no tiene tanta relevancia. Menciona que "Featured Reports" podría tener una mejor presentación. Sobre los colores y contrastes de diseño de la aplicación web menciona que se ve bastante comodo de usar y ver. La sección "Upcoming Nutrition Conference" le parece muy útil y piensa que es buena idea las notificaciones. Por otro lado, menciona que sería más agradable agregar más imágenes en los reportes de nutrición. Sobre la navegación que está en la parte superior derecha menciona que se ven claras. Por último considera que la página principal está bastante completo.
 
+**Nombres y Apellidos:** Steven Chavez Medrano
+
+**Edad:** 19 años
+
+**Lugar de Residencia:** Rimac
+
+**Ocupación:** Estudiante de Economia
+**URL:** https://upcedupe-my.sharepoint.com/personal/u202219199_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219199%5Fupc%5Fedu%5Fpe%2FDocuments%2FV%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8a940787%2D04cc%2D4e47%2Db367%2Dea34e0badbbc
+
+**Resumen de la entrevista:** Steven opina que la barra lateral de FoodFacts permite una navegación fluida. Considera que el cuadro de "Quick Search" es práctico y fácil de usar, lo que facilita la búsqueda de reportes. Valora la sección "Your Activity" como útil para hacer seguimiento de los reportes y el acceso reciente, y sugiere incluir estadísticas de progreso en los objetivos de salud para enriquecer la experiencia. La sección "Featured Reports" le parece interesante y atractiva, pero cree que podría mejorarse con descripciones breves o imágenes para hacerla más visual. Encuentra los colores y contrastes adecuados para la lectura, aunque sugiere un poco más de contraste en algunos detalles. Los botones interactivos como "Read Report" y "Search" son fáciles de identificar y usar. Considera que la sección "Upcoming Nutrition Conference" es útil y le gustaría recibir notificaciones de eventos. Propone agregar íconos o imágenes de alimentos para representar los reportes de manera más visual. La navegación en la parte superior derecha le parece clara y accesible. Finalmente, menciona que sería interesante agregar una función de comparación de alimentos procesados y recomendaciones personalizadas basadas en el historial de reportes para mejorar la experiencia.
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## UX Heuristics & Principles Evaluation
