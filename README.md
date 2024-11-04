@@ -283,7 +283,7 @@ Actualmente estoy cursando el quinto ciclo de ingenieria de software. Mi comprom
 __Ramos Calagua Sebastian Alexander - 202222846__
 
 <div style="text-align: center;">
-    <img src="https://i.postimg.cc/4NB27nzr/Sebastian-Ramos-foto-perfil.jpg" alt="SebasPerfil" style="width: 15%; height: auto;">
+    <img src="https://i.postimg.cc/vHksZbw6/Sebastian-Ramos-foto-perfil.jpg" alt="SebasPerfil" style="width: 15%; height: auto;">
 </div>
 Estudiante de la carrera de Ingeniería de Software. Me gusta todo lo relacionado a la tecnología y al desarrollo web. Espero ansioso poder aprender más del curso a medida que se desarrolle este proyecto.
 
@@ -3163,6 +3163,18 @@ Preguntas para la Entrevista:
 **Resumen de la Entrevista:** Fabrizio considera que la barra lateral de FoodFacts es intuitiva, aunque podría ser más delgada para aprovechar mejor el espacio. La funcionalidad del "Quick Search" es fácil de usar, pero sugiere que incluya sugerencias de reportes y un botón de búsqueda más visible. La sección "Your Activity" es útil, aunque le gustaría un enlace a un historial detallado. En "Featured Reports", propone títulos más grandes e imágenes para hacerla más atractiva.
 Sobre los colores, menciona que el verde es agradable pero dominante; recomienda más contraste para resaltar elementos. Los botones deberían ser más grandes y visibles, especialmente el de "Buscar". Sugiere que la sección de conferencias permita agregar eventos al calendario y recibir notificaciones. Destaca la necesidad de gráficos en los reportes para hacerlos más atractivos y mejorar la experiencia.
 Por último, recomienda que los íconos de la parte superior incluyan indicadores de novedades y sugiere agregar funcionalidades para guardar reportes como favoritos y recibir recomendaciones personalizadas.
+
+**Nombres y Apellidos:** Irene Escudero Neyra
+
+**Edad:** 24 años
+
+**Lugar de Residencia:** San Borja
+
+**Ocupación:** Nutricionista
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222846_upc_edu_pe/EWYE0pePJotBhGT0GWx_O4wBxRrCY06ePzYd1ROpWdtKZA?e=XwtbSm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Irene considera que la barra lateral de Food-Facts es intuitiva y bien estructurada, aunque sugiere agregar descripciones emergentes para mejorar la comprensión de cada sección. Encuentra útil el cuadro de "Quick Search" y sugiere que incluya sugerencias rápidas al escribir. Valora la sección "Your Activity" para hacer seguimiento, y recomienda añadir un gráfico de actividad. La sección "Featured Reports" le parece atractiva, aunque sugiere mejorarla con imágenes o íconos relacionados con cada reporte. Los colores y contrastes le resultan agradables, pero enfatiza la importancia de un buen contraste en textos clave. Aunque los botones son fáciles de identificar, propone resaltar más el botón de "Read Report". La sección "Upcoming Nutrition Conference" le parece útil y prefiere recibir notificaciones de eventos. Muestra interés en ver íconos o imágenes de alimentos en los reportes para hacerlos más visuales. La navegación en la parte superior derecha le resulta funcional, pero sugiere agrupar o mejorar la visibilidad de los íconos. Finalmente, recomienda añadir opciones de personalización en los reportes según condiciones de salud o intereses específicos, como deficiencia de vitaminas, para mejorar la experiencia del usuario.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
