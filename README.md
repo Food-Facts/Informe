@@ -2893,7 +2893,7 @@ Acontinuacion  mostraremos la tabla:
 | **Sprint 3 Review Summary** | Nos hemos reunido para repartir el back end, es decir que coordinamos quien iba realizar los puntos del back end|
 | **Sprint 3 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
 | **Sprint Planning Background** | |
-| **Sprint 3 Goal** | Completar el desarrollo de la landing page |
+| **Sprint 3 Goal** | Completar el desarrollo del backend |
 | **Sprint 3 Velocity** | **Story US-001**: Visualizar información nutricional detallada (3 Story Points) <br><br> **Story US-003**: Personalización de alertas de salud (3 Story Points) <br><br> **Story US-004**: Comparar productos similares (3 Story Points) <br><br> **Story US-014**:  Ver alertas de productos no saludables (3 Story Points) <br><br> **Story US-015**: Identificación de aditivos artificiales (3 Story Points) <br><br> **Story US-025**: Consulta de información sobre seguridad alimentaria (3 Story Points) |
 | **Sum of Story Points** | Suma de Story Points: 3 + 3 + 3 + 3 + 3 + 3 = **18 Story Points** |
 
@@ -2990,14 +2990,299 @@ Acontinuacion  mostraremos la tabla:
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
+En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
+
+| Repository | Branch   | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+|------------|----------|-----------|-----------------|----------------------|-------------------|
+| testing    | feature  | 018       | Added           | Visualizar información nutricional detallada: Como usuario, quiero visualizar la información nutricional detallada de los productos para entender mejor sus beneficios y limitaciones. | 29/10/2024 |
+| testing    | feature  | 021       | Added           | Personalización de alertas de salud: Como usuario, quiero personalizar las alertas de salud para recibir notificaciones relevantes a mis necesidades y preferencias. | 29/10/2024 |
+| testing    | feature  | 017       | Added           | Comparar productos similares: Como usuario, quiero comparar productos similares para elegir el más adecuado para mí en términos de valor nutricional y otros criterios. | 29/10/2024 |
+| testing    | feature  | 016       | Added           | Ver alertas de productos no saludables: Como usuario, quiero recibir alertas sobre productos no saludables para tomar decisiones informadas sobre mi alimentación. | 29/10/2024  |
+| testing    | feature  | 019       | Added           | Identificación de aditivos artificiales: Como usuario, quiero identificar aditivos artificiales en los productos para evitar aquellos que no sean compatibles con mis preferencias alimenticias. | 29/10/2024  |
+| testing    | feature  | 020       | Added           | Consulta de información sobre seguridad alimentaria: Como usuario, quiero consultar información sobre la seguridad alimentaria de los productos para garantizar su calidad y seguridad. | 29/10/2024  |
+
+
+
+```feature
+
+Feature: Visualizar información nutricional
+Scenario: Mostrar detalles nutricionales de un producto
+Given soy un usuario autenticado
+When selecciono un producto de la lista
+Then debería poder ver la información nutricional completa
+And debería visualizar detalles como calorías, grasas, proteínas, y vitaminas.
+
+
+Feature: Configuración de alertas de salud
+Scenario: Modificar preferencias de alertas
+Given soy un usuario autenticado
+When accedo a la configuración de alertas de salud
+Then debería poder activar o desactivar alertas personalizadas
+And los cambios deberían reflejarse en mis notificaciones.
+
+
+Feature: Comparar productos
+Scenario: Comparación de productos seleccionados
+Given soy un usuario interesado en comparar productos
+When selecciono dos o más productos de la lista
+Then debería ver una tabla comparativa de sus características nutricionales
+And debería poder identificar las diferencias en los valores nutricionales.
+
+
+Feature: Alerta de productos no saludables
+Scenario: Recibir alerta de producto no saludable
+Given soy un usuario que navega por productos
+When accedo a un producto considerado no saludable
+Then debería recibir una alerta visual indicando el riesgo
+And debería ver detalles sobre los componentes que lo hacen no saludable.
+
+
+Feature: Identificar aditivos
+Scenario: Mostrar aditivos artificiales en productos
+Given soy un usuario autenticado que revisa un producto
+When veo los detalles de un producto
+Then debería poder ver una lista de aditivos artificiales presentes
+And debería obtener información sobre el posible impacto en la salud de estos aditivos.
+
+
+Feature: Seguridad alimentaria
+Scenario: Consultar información de seguridad
+Given soy un usuario interesado en la seguridad alimentaria
+When accedo a la sección de información de seguridad
+Then debería poder ver datos sobre alertas sanitarias, riesgos, y recomendaciones
+And debería recibir actualizaciones si algún producto es retirado del mercado.
+
+```
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Sprint: Sprint 3 Fecha: 02/10/2024 FoodFacts
+
+1. Resumen
+El objetivo de este sprint fue implementar funcionalidades clave relacionadas con la experiencia del usuario, enfocadas en proporcionar información nutricional detallada, personalización de alertas de salud, comparación de productos, y funcionalidades de seguridad alimentaria. Se buscó mejorar la interacción del usuario y ofrecer herramientas para una experiencia más informada y personalizada.
+
+2. Trabajo Realizado
+
+2.1 Visualización de Información Nutricional Detallada
+Story US-001: Desarrollamos la funcionalidad para que los usuarios puedan visualizar información nutricional completa de los productos, incluyendo detalles como calorías, grasas, proteínas y vitaminas.
+Scenario: Mostrar detalles nutricionales de un producto
+Given soy un usuario autenticado
+When selecciono un producto de la lista
+Then debería poder ver la información nutricional completa
+And debería visualizar detalles como calorías, grasas, proteínas, y vitaminas.
+
+2.2 Personalización de Alertas de Salud
+Story US-003: Implementamos la opción para que los usuarios personalicen sus alertas de salud, permitiéndoles activar o desactivar notificaciones basadas en sus preferencias.
+Scenario: Modificar preferencias de alertas
+Given soy un usuario autenticado
+When accedo a la configuración de alertas de salud
+Then debería poder activar o desactivar alertas personalizadas
+And los cambios deberían reflejarse en mis notificaciones.
+
+2.3 Comparar Productos Similares
+Story US-004: Creamos la funcionalidad que permite a los usuarios comparar productos similares en una tabla comparativa, destacando sus características nutricionales y diferencias clave.
+Scenario: Comparación de productos seleccionados
+Given soy un usuario interesado en comparar productos
+When selecciono dos o más productos de la lista
+Then debería ver una tabla comparativa de sus características nutricionales
+And debería poder identificar las diferencias en los valores nutricionales.
+
+2.4 Ver Alertas de Productos No Saludables
+Story US-014: Implementamos un sistema de alertas que avisa a los usuarios cuando están viendo productos considerados no saludables, junto con detalles de los componentes de riesgo.
+Scenario: Recibir alerta de producto no saludable
+Given soy un usuario que navega por productos
+When accedo a un producto considerado no saludable
+Then debería recibir una alerta visual indicando el riesgo
+And debería ver detalles sobre los componentes que lo hacen no saludable.
+
+2.5 Identificación de Aditivos Artificiales
+Story US-015: Desarrollamos una funcionalidad que muestra a los usuarios los aditivos artificiales presentes en los productos, junto con información sobre sus posibles impactos en la salud.
+Scenario: Mostrar aditivos artificiales en productos
+Given soy un usuario autenticado que revisa un producto
+When veo los detalles de un producto
+Then debería poder ver una lista de aditivos artificiales presentes
+And debería obtener información sobre el posible impacto en la salud de estos aditivos.
+
+2.6 Consulta de Información sobre Seguridad Alimentaria
+Story US-025: Implementamos una sección donde los usuarios pueden consultar información sobre seguridad alimentaria, incluyendo alertas sanitarias y recomendaciones.
+Scenario: Consultar información de seguridad
+Given soy un usuario interesado en la seguridad alimentaria
+When accedo a la sección de información de seguridad
+Then debería poder ver datos sobre alertas sanitarias, riesgos, y recomendaciones
+And debería recibir actualizaciones si algún producto es retirado del mercado.
+
+3. Hallazgos y Desafíos
+
+* Integración de sistemas: La implementación de la visualización de información detallada y las alertas de salud requirió una integración cuidadosa con los sistemas de datos existentes.
+* Rendimiento: Las funcionalidades de comparación de productos y visualización de aditivos exigieron optimización para mantener la rapidez de la aplicación.
+* Diseño de UX: Diseñar una interfaz intuitiva para la consulta de información de seguridad alimentaria y el manejo de alertas personalizadas llevó varias iteraciones.
+4. Próximos Pasos
+
+* Realizar pruebas de usabilidad para las nuevas funcionalidades implementadas.
+* Optimizar el rendimiento de las consultas de información nutricional y alertas de productos no saludables.
+* Recoger feedback de los usuarios para mejorar la personalización de alertas y la visualización de detalles nutricionales.
+* Añadir nuevas categorías de aditivos y sus impactos en la salud basadas en la retroalimentación de expertos en nutrición.
 
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+Food-Facts es una plataforma diseñada para proporcionar un análisis detallado y personalizado de la composición nutricional de alimentos procesados, enfocándose en la identificación de riesgos para la salud y la educación nutricional. Food-Facts permite a los usuarios registrar productos, obtener información detallada sobre los ingredientes y recibir reportes personalizados basados en sus condiciones de salud, ayudándoles a tomar decisiones alimenticias más seguras y saludables.
+
+Preguntas para la Entrevista:
+
+* ¿Qué opinas sobre la barra lateral que incluye opciones como "Home", "Products", "Nutritionist", "Profile", y "Help"? ¿Es intuitiva para ti?
+* ¿Cómo te parece el diseño y funcionalidad del cuadro de "Quick Search" para buscar reportes? ¿Es fácil de usar?
+* ¿Te parece útil la sección de "Your Activity" que muestra la cantidad de reportes creados y la última fecha de acceso? ¿Agregarías algo más a esta sección?
+* ¿La sección de "Featured Reports" te resulta atractiva y clara para explorar información como suplementos de proteínas o vitamina D? ¿Cómo mejorarías su presentación?
+* ¿Consideras que los colores y contrastes del diseño son agradables y facilitan la lectura o navegación?
+* ¿Te parece fácil identificar los botones interactivos como el de "Read Report" o "Search"? ¿Son lo suficientemente claros?
+* ¿Qué tan útil te resulta la sección de "Upcoming Nutrition Conference"? ¿Te gustaría recibir recordatorios o notificaciones sobre eventos?
+* ¿Cómo te sentirías si hubiera más detalles gráficos, como íconos o imágenes de alimentos, para representar los reportes de nutrición?
+* ¿Qué tan clara te parece la navegación en la parte superior derecha, con los íconos de búsqueda, notificaciones y compartir? ¿Es fácil acceder a esas opciones?
+* ¿Hay alguna funcionalidad que crees que falta en esta página principal que mejoraría tu experiencia como usuario interesado en la alimentación saludable?
+
+### 5.3.2. Registro de Entrevistas.
+
+**Nombres y Apellidos:** Fabrizio Sanchez Zamora
+
+**Edad:** 21 años
+
+**Lugar de Residencia:** Chorrillos
+
+**Ocupación:** Estudiante de ingenieria de software
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EXwMygqCRB5HghisqvvNXwwBlUWSGnln9gA_8DQrMYXv8w?e=2eKGMx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+
+**Resumen de la Entrevista:** Fabrizio considera que la barra lateral de FoodFacts es intuitiva, aunque podría ser más delgada para aprovechar mejor el espacio. La funcionalidad del "Quick Search" es fácil de usar, pero sugiere que incluya sugerencias de reportes y un botón de búsqueda más visible. La sección "Your Activity" es útil, aunque le gustaría un enlace a un historial detallado. En "Featured Reports", propone títulos más grandes e imágenes para hacerla más atractiva.
+Sobre los colores, menciona que el verde es agradable pero dominante; recomienda más contraste para resaltar elementos. Los botones deberían ser más grandes y visibles, especialmente el de "Buscar". Sugiere que la sección de conferencias permita agregar eventos al calendario y recibir notificaciones. Destaca la necesidad de gráficos en los reportes para hacerlos más atractivos y mejorar la experiencia.
+Por último, recomienda que los íconos de la parte superior incluyan indicadores de novedades y sugiere agregar funcionalidades para guardar reportes como favoritos y recibir recomendaciones personalizadas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Desarrollo de Aplicaciones Open Source 
+**SECCIÓN**: SI729 
+**PROFESORES**: Hugo Allan Mori Paiva 
+**AUDITOR**: Quispe Roldan Michael Fred 
+**CLIENTE(S)**: Ernesto Casaverde U20221B657 <br> Sebastian Ramos U202222846 <br> Abraam Acosta U202219199 <br> Melina Liz Santillan Alvarado U202216058
+
+
+---
+
+## Site o app a evaluar: Food Facts
+**Nombre de App** Food Facts
+
+## Tareas avaluar:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de usuarios
+2. Inicio de sesión de usuarios
+3. Guardar productos favoritos
+4. Eliminar productos de favoritos
+5. Buscar productos por nombre o categoría
+6. Valor nutricional real
+7. Recuperar contraseña
+8. Actualizar perfil de usuario
+9. Explorar categorías de productos
+10. Explorar categorías de productos
+11. Visualizar información nutricional detallada
+12. Comparar productos similares
+13. Ver alertas de productos no saludables
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Actualizar perfil de usuario
+2. Visualizar historial de búsqueda
+3. Configuración de notificaciones
+4. Filtrar productos por valor nutricional
+5. Personalización de alertas de salud
+6. Identificación de aditivos artificiales
+7. Consulta de información sobre seguridad alimentaria
+
+---
+
+## Escala de severidad:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+## Tabla resumen:
+
+| #  | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|----|----------|----------------------|---------------------------------|
+| 1  | Falta de validación clara en el formulario de registro de usuarios | 3 | Usability: Visibilidad del estado del sistema |
+| 2  | Mensajes de error poco descriptivos al fallar el inicio de sesión | 2 | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de los errores |
+| 3  | No se guarda correctamente el producto en la lista de favoritos en ciertas ocasiones | 3 | Usability: Confiabilidad y consistencia |
+| 4  | No hay confirmación visual al eliminar productos de favoritos | 2 | Usability: Proporcionar feedback claro |
+| 5  | La barra de búsqueda no sugiere términos relacionados al escribir | 2 | Usability: Flexibilidad y eficiencia de uso |
+| 6  | Información del valor nutricional no se muestra en formato accesible para usuarios con dificultades visuales | 4 | Inclusive Design: Proporciona experiencias comparables |
+| 7  | El enlace para recuperar la contraseña es difícil de encontrar en la página de inicio de sesión | 2 | Usability: Visibilidad y accesibilidad |
+| 8  | Al actualizar el perfil, algunos cambios no se reflejan de inmediato | 3 | Usability: Visibilidad del estado del sistema |
+| 9  | La navegación entre categorías de productos no es intuitiva | 3 | Usability: Consistencia y estándares |
+| 10 | Problemas de diseño repetido en la exploración de categorías | 2 | Usability: Minimizar la carga de memoria del usuario |
+| 11 | La visualización de la información nutricional detallada es confusa por exceso de datos sin priorización | 3 | Information Architecture: Is it clear? |
+| 12 | No se pueden comparar productos de manera clara, lo que genera confusión | 3 | Usability: Ayuda al usuario a realizar tareas sin esfuerzo excesivo |
+| 13 | Las alertas de productos no saludables no se destacan lo suficiente | 2 | Usability: Visibilidad del estado del sistema |
+
+---
+
+## Descripcion de problemas:
+
+### PROBLEMA #2: Mensajes de error poco descriptivos al fallar el inicio de sesión
+**Severidad**: 2  
+**Heurística violada**: Usabilidad - Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de los errores
+
+**Problema**:  
+Cuando un usuario intenta iniciar sesión y falla (por ejemplo, por una contraseña incorrecta), los mensajes de error que aparecen son vagos, como "Error al iniciar sesión". Esto no permite al usuario identificar cuál es la causa específica del problema, haciendo que la experiencia sea frustrante.
+
+**Recomendación**:  
+Implementar mensajes de error más descriptivos, como "La contraseña ingresada es incorrecta" o "El correo electrónico no está registrado".
+
+### PROBLEMA #5: La barra de búsqueda no sugiere términos relacionados al escribir
+**Severidad**: 2  
+**Heurística violada**: Usabilidad - Flexibilidad y eficiencia de uso
+
+**Problema**:  
+La barra de búsqueda no proporciona sugerencias automáticas mientras el usuario escribe, lo que dificulta encontrar productos si no se conoce el nombre exacto o se cometen errores de escritura.
+
+**Recomendación**:  
+Incorporar una función de autocompletado que ofrezca sugerencias basadas en términos populares o relacionados.
+
+### PROBLEMA #8: Al actualizar el perfil, algunos cambios no se reflejan de inmediato
+**Severidad**: 3  
+**Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+
+**Problema**:  
+Cuando un usuario actualiza su perfil, ciertos cambios, como la foto de perfil o la información de contacto, no se reflejan de inmediato. Esto puede llevar al usuario a pensar que los cambios no se han guardado correctamente.
+
+**Recomendación**:  
+Mostrar un mensaje claro de confirmación al guardar los cambios e implementar una actualización automática de la página o elementos específicos.
+
+### PROBLEMA #13: Las alertas de productos no saludables no se destacan lo suficiente
+**Severidad**: 2  
+**Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+
+**Problema**:  
+Las alertas sobre productos con altos niveles de azúcar, sal u otros componentes perjudiciales no son lo suficientemente visibles. Esto puede llevar a los usuarios a pasar por alto información relevante para su salud.
+
+**Recomendación**:  
+Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos o colores llamativos para destacarlas mejor.
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -3012,6 +3297,7 @@ Acontinuacion  mostraremos la tabla:
 - El contenido debe ser científicamente preciso y actualizado. Esto aumenta la credibilidad y el valor informativo de la página.
 - El front end se avanzo hasta su fase funcional, con el fake api.
 - Se considera el front end con un diseño intuitivo y mas versatil
+- 
 ## Bibliografia 
 
 
