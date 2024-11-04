@@ -104,6 +104,12 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">Todos los miembros del equipo</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo mejoras al doc y la creacion del front end</td>
             </tr>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">7.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">04/11/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Todos los miembros del equipo</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo mejoras al doc y la creacion del backend</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -3072,6 +3078,13 @@ Evidencia del backend:
     <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FEvidencia.png?alt=media&token=2c40651b-cb3d-414d-8b4c-34dee6ab72c9" alt="W5" style="width: auto; height: auto;">
 </div>
 
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FEvidencia2.png?alt=media&token=1b0046c8-c459-4aab-a6cf-e2960b09add8" alt="W5" style="width: auto; height: auto;">
+</div>
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FEvidencia3.png?alt=media&token=9b3a779c-1881-4f57-b0a9-b59b59c93b6f" alt="W5" style="width: auto; height: auto;">
+</div>
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 Sprint: Sprint 3 Fecha: 02/10/2024 FoodFacts
@@ -3144,10 +3157,42 @@ And debería recibir actualizaciones si algún producto es retirado del mercado.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Como lo explicamos anteriormente vamos usar githubPages como sistema de despliegue.
+
+Configuramos GitHub Pages
+
+- Vamos a la página de tu repositorio en GitHub.
+- Hazemos  clic en "Settings" en la barra superior.
+- En el menú lateral izquierdo, selecionamos  en "Pages".
+- En "Source", seleccionamod "main" como rama y "/" (root) como carpeta.
+Haz clic en "Save".
+
+
+Accedemos al backend:
+
+GitHub nos proposciona una URL
+
+Esperamos unos minutos y se hizo el despliegue en  GitHub despliega tu sitio.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fdesplieguelandingfoodfacts.PNG?alt=media&token=683cfb0a-584e-4823-9156-37f429834850" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+Baackend desplegado: 
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+En este Aparto veremos colaboracion real entre todos los integrantes de FoodFacts en la implementacion del backend
+
+Team collaboration de la Organizacion:
+
+Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas que otros pero es aplicando mejora continua entre compañeros.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits2.png?alt=media&token=2bd13960-f699-4ffa-bed5-53bbdf6d997f" alt="W5" style="width: auto; height: auto;">
+</div>
 
 ## 5.3. Validation Interviews.
 
@@ -3338,8 +3383,6 @@ Las alertas sobre productos con altos niveles de azúcar, sal u otros componente
 **Recomendación**:  
 Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos o colores llamativos para destacarlas mejor.
 
-
-### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ## Conclusiones
 
