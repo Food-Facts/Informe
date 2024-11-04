@@ -3196,6 +3196,16 @@ Por último, recomienda que los íconos de la parte superior incluyan indicadore
 
 **Resumen de la Entrevista:** Irene considera que la barra lateral de Food-Facts es intuitiva y bien estructurada, aunque sugiere agregar descripciones emergentes para mejorar la comprensión de cada sección. Encuentra útil el cuadro de "Quick Search" y sugiere que incluya sugerencias rápidas al escribir. Valora la sección "Your Activity" para hacer seguimiento, y recomienda añadir un gráfico de actividad. La sección "Featured Reports" le parece atractiva, aunque sugiere mejorarla con imágenes o íconos relacionados con cada reporte. Los colores y contrastes le resultan agradables, pero enfatiza la importancia de un buen contraste en textos clave. Aunque los botones son fáciles de identificar, propone resaltar más el botón de "Read Report". La sección "Upcoming Nutrition Conference" le parece útil y prefiere recibir notificaciones de eventos. Muestra interés en ver íconos o imágenes de alimentos en los reportes para hacerlos más visuales. La navegación en la parte superior derecha le resulta funcional, pero sugiere agrupar o mejorar la visibilidad de los íconos. Finalmente, recomienda añadir opciones de personalización en los reportes según condiciones de salud o intereses específicos, como deficiencia de vitaminas, para mejorar la experiencia del usuario.
 
+**Nombres y Apellidos:** Keira Cuentas Ormachea
+
+**Edad:** 18 años
+
+**Ocupación:** Estudiante
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216058_upc_edu_pe/EfdeV3A_fpZHiR0YdlnTU0cBwW07eBOpcXxManDmoat-6w?e=zNTDil&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Keira menciona que la barra lateral de la aplicación web le parece simple de usar y completo. Considera que el "Quick Search" es fácil de usar, además de que le parece agradable que este arriba, ya que le permitiria una busqueda rápida. Sobre el "Your Activity" piensa que no tiene tanta relevancia. Menciona que "Featured Reports" podría tener una mejor presentación. Sobre los colores y contrastes de diseño de la aplicación web menciona que se ve bastante comodo de usar y ver. La sección "Upcoming Nutrition Conference" le parece muy útil y piensa que es buena idea las notificaciones. Por otro lado, menciona que sería más agradable agregar más imágenes en los reportes de nutrición. Sobre la navegación que está en la parte superior derecha menciona que se ven claras. Por último considera que la página principal está bastante completo.
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## UX Heuristics & Principles Evaluation
