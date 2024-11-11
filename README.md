@@ -104,6 +104,12 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">Todos los miembros del equipo</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo mejoras al doc y la creacion del front end</td>
             </tr>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">7.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">04/11/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Todos los miembros del equipo</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo mejoras al doc y la creacion del backend</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -2997,7 +3003,7 @@ Para este entrega  hemos realizado en entre los  repositorios Informe y backend 
 | Food-Facts/FoodFacts-Backend  | main    | id3       | Added Users Bounded Context                   | third commit                 | 04/11/2024        |
 | Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  fourth commit                       | 04/11/2024        |
 | Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  fifth commit       | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend  | main    | id6       | fix critic                | color black              | 26/09/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id6       | fix: product bounden context                | six commit             | 04/11/2024        |
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -3072,6 +3078,13 @@ Evidencia del backend:
     <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FEvidencia.png?alt=media&token=2c40651b-cb3d-414d-8b4c-34dee6ab72c9" alt="W5" style="width: auto; height: auto;">
 </div>
 
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FEvidencia2.png?alt=media&token=1b0046c8-c459-4aab-a6cf-e2960b09add8" alt="W5" style="width: auto; height: auto;">
+</div>
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FEvidencia3.png?alt=media&token=9b3a779c-1881-4f57-b0a9-b59b59c93b6f" alt="W5" style="width: auto; height: auto;">
+</div>
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 Sprint: Sprint 3 Fecha: 02/10/2024 FoodFacts
@@ -3144,10 +3157,37 @@ And debería recibir actualizaciones si algún producto es retirado del mercado.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Ahora explicamos el despliegue del proyecto:
+
+* Crear una cuenta en Railway
+* Regístrate o inicia sesión en Railway.
+* Ve al panel de control de Railway y haz clic en “New Project”.
+* Selecciona “Deploy from GitHub repo”.
+* Autoriza a Railway para acceder a tu cuenta de GitHub si es necesario y elige tu repositorio.
+* Railway detectará automáticamente si tu proyecto es una aplicación de Java/Maven/Gradle.
+* Ve a la sección de “Settings” de tu proyecto en Railway.
+* Una vez configurado, Railway comenzará a construir y desplegar tu aplicación automáticamente.
+* Monitorea el log del despliegue para asegurarte de que no haya errores.
+* Una vez completado el despliegue, obtendrás un dominio temporal de Railway para probar tu aplicación.
+* Accede al enlace proporcionado y verifica que tu aplicación esté funcionando correctamente.
+Y asi es como quedo:
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FDespliegue.png?alt=media&token=3e1fec40-ec5c-48e7-a83c-b00ddfbe0cb8" alt="W5" style="width: auto; height: auto;">
+</div>
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+En este Aparto veremos colaboracion real entre todos los integrantes de FoodFacts en la implementacion del backend
+
+Team collaboration de la Organizacion:
+
+Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas que otros pero es aplicando mejora continua entre compañeros.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits2.png?alt=media&token=2bd13960-f699-4ffa-bed5-53bbdf6d997f" alt="W5" style="width: auto; height: auto;">
+</div>
 
 ## 5.3. Validation Interviews.
 
@@ -3203,8 +3243,7 @@ Por último, recomienda que los íconos de la parte superior incluyan indicadore
 
 **Lugar de Residencia:** Rimac
 
-**Ocupación:** Estudiante de Economia
-**URL:** https://upcedupe-my.sharepoint.com/personal/u202219199_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219199%5Fupc%5Fedu%5Fpe%2FDocuments%2FV%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8a940787%2D04cc%2D4e47%2Db367%2Dea34e0badbbc
+**Resumen de la Entrevista:** Keira menciona que la barra lateral de la aplicación web le parece simple de usar y completo. Considera que el "Quick Search" es fácil de usar, además de que le parece agradable que este arriba, ya que le permitiria una busqueda rápida. Sobre el "Your Activity" piensa que no tiene tanta relevancia. Menciona que "Featured Reports" podría tener una mejor presentación. Sobre los colores y contrastes de diseño de la aplicación web menciona que se ve bastante comodo de usar y ver. La sección "Upcoming Nutrition Conference" le parece muy útil y piensa que es buena idea las notificaciones. Por otro lado, menciona que sería más agradable agregar más imágenes en los reportes de nutrición. Sobre la navegación que está en la parte superior derecha menciona que se ven claras. Por último considera que la página principal está bastante completo.
 
 **Resumen de la entrevista:** Steven opina que la barra lateral de FoodFacts permite una navegación fluida. Considera que el cuadro de "Quick Search" es práctico y fácil de usar, lo que facilita la búsqueda de reportes. Valora la sección "Your Activity" como útil para hacer seguimiento de los reportes y el acceso reciente, y sugiere incluir estadísticas de progreso en los objetivos de salud para enriquecer la experiencia. La sección "Featured Reports" le parece interesante y atractiva, pero cree que podría mejorarse con descripciones breves o imágenes para hacerla más visual. Encuentra los colores y contrastes adecuados para la lectura, aunque sugiere un poco más de contraste en algunos detalles. Los botones interactivos como "Read Report" y "Search" son fáciles de identificar y usar. Considera que la sección "Upcoming Nutrition Conference" es útil y le gustaría recibir notificaciones de eventos. Propone agregar íconos o imágenes de alimentos para representar los reportes de manera más visual. La navegación en la parte superior derecha le parece clara y accesible. Finalmente, menciona que sería interesante agregar una función de comparación de alimentos procesados y recomendaciones personalizadas basadas en el historial de reportes para mejorar la experiencia del usuario.
 ### 5.3.3. Evaluaciones según heurísticas.
@@ -3327,8 +3366,9 @@ Las alertas sobre productos con altos niveles de azúcar, sal u otros componente
 **Recomendación**:  
 Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos o colores llamativos para destacarlas mejor.
 
+## 5.4. Video About-the-Product
 
-### 5.2.3.8. Team Collaboration Insights during Sprint.
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EaJRAMcgUYpDlnG208x6gvYBWqzQS0eaaED9uQ0ZU6vnng?e=P37fR8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Conclusiones
 
@@ -3358,3 +3398,6 @@ link del front end: https://food-facts-vf.vercel.app/products
 link del video de Exposicion(TB1): https://upcedupe-my.sharepoint.com/personal/u20221e734_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221e734%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1150793369%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0c40a393%2D68c3%2D4fd2%2Db47c%2Dd0d33862fa0c
 
 link del video de Exposicion(TP1): https://upcedupemy.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EZ0WGP3UutVLhpmi9eL5UCgBNQQ5fgsWK0ZQMwuX7TlZ9Qe=3K0Dx4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+link del video de Exposicion(TB2):
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EfpHmVx83ZVNsQHfa8MWMvQBC0e3RcxRi0l6Vumx8JlmhA?e=SRlfyY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
