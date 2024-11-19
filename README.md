@@ -3189,6 +3189,288 @@ Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas qu
     <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits2.png?alt=media&token=2bd13960-f699-4ffa-bed5-53bbdf6d997f" alt="W5" style="width: auto; height: auto;">
 </div>
 
+### 5.2.4. Sprint 4
+
+Durante el Sprint 4, nuestro enfoque se centró en el desarrollo del web service de nuestra plataforma. Trabajamos arduamente en la implementación de la arquitectura y la estructura inicial que sustentará la interacción entre el frontend y el backend. Para ello decidimos realizar el despliegue de la aplicacion con la conexion del frontend y el backend.
+
+### 5.2.4.1. Sprint Planning 4.
+
+| Sprint 4 | Sprint 4 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024/11/12 |
+| **Time** | 10:00 PM |
+| **Location** | Reunión por Discord |
+| **Prepared By** | Michael Quispe |
+| **Attendees (to planning meeting)** | Ernesto Casaverde U20221B657 <br> Sebastian Ramos U202222846 <br> Abraam Acosta U202219199 <br> Melina Liz Santillan Alvarado U202216058 |
+| **Sprint 4 Review Summary** | Nos hemos reunido para repartir el backend, es decir que coordinamos para terminar el backend y hacer el despliegue|
+| **Sprint 4 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
+| **Sprint Planning Background** | |
+| **Sprint 4 Goal** | Completar el desarrollo del backend y hacer el despliegue |
+| **Sprint 4 Velocity** | **Story US-012**: Obtener reportes personalizados (5 Story Points)<br><br> **Story US-017**: Recomendaciones de productos saludables (5 Story Points)<br><br> **Story US-020**: Comparación de Productos (5 Story Points)<br><br> **Story US-022**: Sugerencias para Mejora de Hábitos Alimenticios (5 Story Points)<br><br> **Story US-023**: Filtro por Preferencias Alimenticias (5 Story Points)<br><br> **Story US-024**: Gestión de Listas de Productos (5 Story Points)<br><br> **Story US-021**: Informes de Tendencias de Consumo (8 Story Points) |
+| **Sum of Story Points** | Suma de Story Points: 5 + 5 + 5 + 5 + 5 + 5 + 8 = **38 Story Points** |
+
+
+### 5.2.4.2. Sprint Backlog 4.
+
+<table>
+  <tr>
+    <th>Sprint 4</th>
+    <th colspan="7">Sprint 4</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="7">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <td>012</td>
+    <td>Obtener reportes personalizados</td>
+    <td>026</td>
+    <td>Desarrollar generación de reportes personalizados</td>
+    <td>Como usuario, quiero generar reportes personalizados sobre la seguridad y valor nutricional de productos específicos para revisarlos o compartirlos.</td>
+    <td>6.00</td>
+    <td>Michael Quispe</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>017</td>
+    <td>Recomendaciones de productos saludables</td>
+    <td>027</td>
+    <td>Implementar sistema de recomendaciones</td>
+    <td>Como usuario, quiero recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos para mejorar mi dieta.</td>
+    <td>5.00</td>
+    <td> Abraam Acosta</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>020</td>
+    <td>Comparación de Productos</td>
+    <td>028</td>
+    <td>Crear funcionalidad de comparación de productos</td>
+    <td>Como usuario, quiero comparar rápidamente dos productos para elegir la opción más saludable.</td>
+    <td>4.00</td>
+    <td>Ernesto Casaverde</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>022</td>
+    <td>Sugerencias para Mejora de Hábitos Alimenticios</td>
+    <td>029</td>
+    <td>Desarrollar sistema de sugerencias</td>
+    <td>Como usuario, quiero recibir sugerencias para mejorar mis hábitos alimenticios basadas en mi consumo actual.</td>
+    <td>5.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>023</td>
+    <td>Filtro por Preferencias Alimenticias</td>
+    <td>030</td>
+    <td>Implementar filtros de preferencias alimenticias</td>
+    <td>Como usuario, quiero filtrar productos según mis preferencias alimenticias para encontrar opciones adecuadas a mi dieta.</td>
+    <td>4.00</td>
+    <td>Melina Liz Santillan Alvarado</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>024</td>
+    <td>Gestión de Listas de Productos</td>
+    <td>031</td>
+    <td>Desarrollar gestión de listas de productos</td>
+    <td>Como usuario, quiero poder crear y gestionar listas de productos para planificar mis compras o consumo.</td>
+    <td>6.00</td>
+    <td>Michael Quispe</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>021</td>
+    <td>Informes de Tendencias de Consumo</td>
+    <td>032</td>
+    <td>Desarrollar informes de tendencias de consumo</td>
+    <td>Como usuario, quiero recibir informes periódicos sobre tendencias en mi consumo alimenticio para hacer ajustes si es necesario.</td>
+    <td>7.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>To-do</td>
+  </tr>
+</table>
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch   | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+|------------|----------|-----------|-----------------|----------------------|-------------------|
+| testing    | feature  | 026       | Added           | Obtener reportes personalizados: Como usuario, quiero generar reportes personalizados para revisar o compartir información. | 12/11/2024 |
+| testing    | feature  | 027       | Added           | Recomendaciones de productos saludables: Como usuario, quiero recibir recomendaciones de productos saludables basadas en mis preferencias. | 12/11/2024 |
+| testing    | feature  | 028       | Added           | Comparación de Productos: Como usuario, quiero comparar rápidamente dos productos para elegir la opción más saludable. | 12/11/2024 |
+| testing    | feature  | 029       | Added           | Sugerencias para Mejora de Hábitos Alimenticios: Como usuario, quiero recibir sugerencias para mejorar mis hábitos alimenticios basadas en mi consumo actual. | 12/11/2024 |
+| testing    | feature  | 030       | Added           | Filtro por Preferencias Alimenticias: Como usuario, quiero filtrar productos según mis preferencias alimenticias para encontrar opciones adecuadas a mi dieta. | 12/11/2024 |
+| testing    | feature  | 031       | Added           | Gestión de Listas de Productos: Como usuario, quiero poder crear y gestionar listas de productos para planificar mis compras o consumo. | 12/11/2024 |
+| testing    | feature  | 032       | Added           | Informes de Tendencias de Consumo: Como usuario, quiero recibir informes periódicos sobre tendencias en mi consumo alimenticio para hacer ajustes si es necesario. | 12/11/2024 |
+
+```feature
+
+Feature: Obtener reportes personalizados
+Scenario: Generar reportes personalizados
+Given soy un usuario autenticado
+When accedo a la sección de reportes
+Then debería poder seleccionar productos y generar un reporte personalizado
+And debería poder visualizar o descargar el reporte generado.
+
+
+Feature: Recomendaciones de productos saludables
+Scenario: Recibir recomendaciones personalizadas
+Given soy un usuario con un perfil configurado
+When accedo a la plataforma
+Then debería recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos.
+
+
+Feature: Comparación de Productos
+Scenario: Comparación de dos productos
+Given soy un usuario que desea comparar productos
+When selecciono dos productos para comparar
+Then debería ver una tabla comparativa con los valores nutricionales y alertas de salud de cada producto.
+
+
+Feature: Sugerencias para Mejora de Hábitos Alimenticios
+Scenario: Recibir sugerencias personalizadas
+Given mi historial de consumo está registrado
+When accedo a la sección de sugerencias
+Then debería recibir sugerencias para mejorar mis hábitos alimenticios basadas en análisis de patrones de consumo.
+
+
+Feature: Filtro por Preferencias Alimenticias
+Scenario: Aplicar filtros de preferencias
+Given he configurado mis preferencias alimenticias
+When busco productos
+Then deberían mostrarse solo aquellos que cumplen con mis criterios de preferencias.
+
+
+Feature: Gestión de Listas de Productos
+Scenario: Crear y gestionar listas
+Given tengo varias listas de productos
+When accedo a la gestión de listas
+Then debería poder editar, eliminar o combinar listas según mis necesidades.
+
+
+Feature: Informes de Tendencias de Consumo
+Scenario: Generar informes de tendencias
+Given consumo productos regularmente
+When se genera un informe de tendencias
+Then debería incluir un análisis de tendencias en el consumo de calorías y nutrientes.
+
+```
+
+### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Sprint: Sprint 4  
+**Fecha:** 12/11/2024  
+**Proyecto:** FoodFacts  
+
+#### 1. Resumen  
+El objetivo de este sprint fue implementar funcionalidades clave relacionadas con la experiencia del usuario, enfocadas en proporcionar herramientas para la generación de reportes personalizados, recomendaciones de productos saludables, comparación de productos, gestión de listas de productos, y análisis de tendencias de consumo. Se buscó mejorar la interacción del usuario y ofrecer herramientas para una experiencia más informada y personalizada.
+
+##### 2. Trabajo Realizado  
+
+###### 2.1 Obtener Reportes Personalizados  
+**Story US-012:** Desarrollamos la funcionalidad para que los usuarios puedan generar reportes personalizados sobre la seguridad y valor nutricional de productos específicos para revisarlos o compartirlos.  
+
+**Feature:** Obtener reportes personalizados  
+**Scenario:** Generar reportes personalizados  
+- **Given**: soy un usuario autenticado  
+- **When**: accedo a la sección de reportes  
+- **Then**: debería poder seleccionar productos y generar un reporte personalizado  
+- **And**: debería poder visualizar o descargar el reporte generado.  
+
+###### 2.2 Recomendaciones de Productos Saludables  
+**Story US-017:** Implementamos la opción para que los usuarios reciban recomendaciones de productos saludables basadas en sus preferencias y hábitos.  
+
+**Feature:** Recomendaciones de productos saludables  
+**Scenario:** Recibir recomendaciones personalizadas  
+- **Given**: soy un usuario con un perfil configurado  
+- **When**: accedo a la plataforma  
+- **Then**: debería recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos.  
+
+###### 2.3 Comparación de Productos  
+**Story US-020:** Creamos la funcionalidad que permite a los usuarios comparar rápidamente dos productos para elegir la opción más saludable.  
+
+**Feature:** Comparación de Productos  
+**Scenario:** Comparación de dos productos  
+- **Given**: soy un usuario que desea comparar productos  
+- **When**: selecciono dos productos para comparar  
+- **Then**: debería ver una tabla comparativa con los valores nutricionales y alertas de salud de cada producto.  
+
+###### 2.4 Sugerencias para Mejora de Hábitos Alimenticios  
+**Story US-022:** Implementamos un sistema que proporciona sugerencias para mejorar los hábitos alimenticios basadas en el consumo actual del usuario.  
+
+**Feature:** Sugerencias para Mejora de Hábitos Alimenticios  
+**Scenario:** Recibir sugerencias personalizadas  
+- **Given**: mi historial de consumo está registrado  
+- **When**: accedo a la sección de sugerencias  
+- **Then**: debería recibir sugerencias para mejorar mis hábitos alimenticios basadas en análisis de patrones de consumo.  
+
+###### 2.5 Filtro por Preferencias Alimenticias  
+**Story US-023:** Desarrollamos una funcionalidad que permite a los usuarios filtrar productos según sus preferencias alimenticias.  
+
+**Feature:** Filtro por Preferencias Alimenticias  
+**Scenario:** Aplicar filtros de preferencias  
+- **Given**: he configurado mis preferencias alimenticias  
+- **When**: busco productos  
+- **Then**: deberían mostrarse solo aquellos que cumplen con mis criterios de preferencias.  
+
+###### 2.6 Gestión de Listas de Productos  
+**Story US-024:** Implementamos una sección donde los usuarios pueden crear y gestionar listas de productos para planificar sus compras o consumo.  
+
+**Feature:** Gestión de Listas de Productos  
+**Scenario:** Crear y gestionar listas  
+- **Given**: tengo varias listas de productos  
+- **When**: accedo a la gestión de listas  
+- **Then**: debería poder editar, eliminar o combinar listas según mis necesidades.  
+
+###### 2.7 Informes de Tendencias de Consumo  
+**Story US-021:** Desarrollamos una funcionalidad que genera informes periódicos sobre tendencias en el consumo alimenticio del usuario.  
+
+**Feature:** Informes de Tendencias de Consumo  
+**Scenario:** Generar informes de tendencias  
+- **Given**: consumo productos regularmente  
+- **When**: se genera un informe de tendencias  
+- **Then**: debería incluir un análisis de tendencias en el consumo de calorías y nutrientes.  
+
+#### 3. Hallazgos y Desafíos  
+- **Integración de sistemas:** La implementación de la generación de reportes personalizados y las recomendaciones de productos saludables requirió una integración cuidadosa con los sistemas de datos existentes.  
+- **Rendimiento:** Las funcionalidades de comparación de productos y generación de informes exigieron optimización para mantener la rapidez de la aplicación.  
+- **Diseño de UX:** Diseñar una interfaz intuitiva para la gestión de listas de productos y el manejo de sugerencias personalizadas llevó varias iteraciones.  
+
+#### 4. Próximos Pasos  
+- Realizar pruebas de usabilidad para las nuevas funcionalidades implementadas.  
+- Optimizar el rendimiento de las consultas de información nutricional y generación de informes.  
+- Recoger feedback de los usuarios para mejorar la personalización de recomendaciones y la visualización de detalles nutricionales.  
+- Añadir nuevas categorías de productos y sus impactos en la salud basadas en la retroalimentación de expertos en nutrición.  
+
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
+### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
