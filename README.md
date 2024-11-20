@@ -3469,6 +3469,21 @@ El objetivo de este sprint fue implementar funcionalidades clave relacionadas co
 
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
+En esta sección, presentaremos imagenes del trabajo colaborativo, como los analiticos de colaboracioón, commits de github.
+
+Commits :
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/commits2.jpg?alt=media&token=843fb129-483c-4d0c-ac68-781fa4b87787" alt="W5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/commits3.jpg?alt=media&token=dd72b5a4-0443-4631-8453-3788ccbadf3d" alt="W5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/commits.jpg?alt=media&token=442e7fa5-875a-4baa-9a91-81d630238fd0" alt="W5" style="width: auto; height: auto;">
+</div>
 
 
 ## 5.3. Validation Interviews.
