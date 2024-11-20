@@ -3469,7 +3469,7 @@ El objetivo de este sprint fue implementar funcionalidades clave relacionadas co
 
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
-En esta sección, presentaremos imagenes del trabajo colaborativo, como los analiticos de colaboracioón, commits de github.
+Imagenes del trabajo colaborativo, como los analiticos de colaboración, commits de github.
 
 Commits :
 
