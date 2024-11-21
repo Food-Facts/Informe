@@ -110,6 +110,12 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">Todos los miembros del equipo</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo mejoras al doc y la creacion del backend</td>
             </tr>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">8.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">20/11/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Todos los miembros del equipo</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo la ultima version del doc y backend</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -2815,6 +2821,26 @@ And debería poder ajustar los filtros para cambiar los resultados
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
+Evidencia del Front end:
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010458.png?alt=media&token=c3fbc8d0-cd43-4534-9360-36f7d5b0495e" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010538.png?alt=media&token=565eb83c-4b06-40f3-9472-545abb53f212" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010550.png?alt=media&token=ed47c7ac-4485-4da6-818c-95eeb80b9d13" alt="W5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010601.png?alt=media&token=d63f2d19-c59f-44bc-a620-39667a3ee360" alt="W5" style="width: auto; height: auto;">
+</div>
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Sprint: Sprint 2 Fecha: 23/09/2024 FoodFacts
@@ -2845,25 +2871,23 @@ Implementamos un sistema de filtros que permite a los usuarios buscar productos 
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Evidencia del Front end:
- <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010458.png?alt=media&token=c3fbc8d0-cd43-4534-9360-36f7d5b0495e" alt="W5" style="width: auto; height: auto;">
-</div>
+Ahora explicamos el despliegue del proyecto:
 
-
-
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010538.png?alt=media&token=565eb83c-4b06-40f3-9472-545abb53f212" alt="W5" style="width: auto; height: auto;">
-</div>
-
-
-
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010550.png?alt=media&token=ed47c7ac-4485-4da6-818c-95eeb80b9d13" alt="W5" style="width: auto; height: auto;">
-</div>
+* Crear una cuenta en Railway
+* Regístrate o inicia sesión en Railway.
+* Ve al panel de control de Railway y haz clic en “New Project”.
+* Selecciona “Deploy from GitHub repo”.
+* Autoriza a Railway para acceder a tu cuenta de GitHub si es necesario y elige tu repositorio.
+* Railway detectará automáticamente si tu proyecto es una aplicación de Java/Maven/Gradle.
+* Ve a la sección de “Settings” de tu proyecto en Railway.
+* Una vez configurado, Railway comenzará a construir y desplegar tu aplicación automáticamente.
+* Monitorea el log del despliegue para asegurarte de que no haya errores.
+* Una vez completado el despliegue, obtendrás un dominio temporal de Railway para probar tu aplicación.
+* Accede al enlace proporcionado y verifica que tu aplicación esté funcionando correctamente.
+Y asi es como quedo:
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCaptura%20de%20pantalla%202024-09-27%20010601.png?alt=media&token=d63f2d19-c59f-44bc-a620-39667a3ee360" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FDespliegue.png?alt=media&token=3e1fec40-ec5c-48e7-a83c-b00ddfbe0cb8" alt="W5" style="width: auto; height: auto;">
 </div>
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
@@ -2992,18 +3016,18 @@ Acontinuacion  mostraremos la tabla:
 
 ### 5.2.3.3. Development Evidence for Sprint Review.
 
-Para este entrega  hemos realizado en entre los  repositorios Informe y backend hemos Hecho 40 commits varios de ellos sobre el informe, frontend y correcciones aca dejo los mas importante:
+Para este entrega hemos realizado esto commits en el backend 
 
 
 
 | Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
 | -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
-| Food-Facts/FoodFacts-Backend   | main  | id1       | Backend: the project is created                             | first commit and project is created                                   | 03/11/2024        |
-| Food-Facts/FoodFacts-Backend   | main    | id2       | added Profile Bounded context                 | second commit                         | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend  | main    | id3       | Added Users Bounded Context                   | third commit                 | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  fourth commit                       | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  fifth commit       | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend  | main    | id6       | fix: product bounden context                | six commit             | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main  | id1       | Backend: the project is created                             | (No message provided)                                  | 03/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id2       | added Profile Bounded context                 | (No message provided)                         | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id3       | Added Users Bounded Context                   | (No message provided)                 | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  (No message provided)                      | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  (No message provided)       | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id6       | fix: product bounden context                | (No message provided)             | 04/11/2024        |
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -3305,8 +3329,33 @@ Durante el Sprint 4, nuestro enfoque se centró en el desarrollo del web service
 </table>
 
 ### 5.2.4.3. Development Evidence for Sprint Review.
+Para este entrega  hemos realizado en entre los repositorios del backend y frontend. Se presenta en el siguiente cuadro 
 
 
+
+| Repository           | Branch  | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------- | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/FoodFacts-Backend   | main    | bb4d32d       | fix: Products                             | (No message provided)                                   | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | 45d8ac9      | fix: product arreglement                 | (No message provided)                         | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | d9d7e5b       | Added Users Bounded Context                   | (No message provided)                | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  (No message provided)                      | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  (No message provided)      | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id6       | fix: product bounden context                | (No message provided)           | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | c881116   | fbc Add Scheme for example                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | 3b92255   | Fear Config Deploy                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | a1ba8b1   | fbc correo                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | d947e5b   | (No message provided)                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | 9fbbdc3   | fbc product arreglement                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | 4S48ac9   | fbc Products                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | bb44324   | (No message provided)                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop | dec26dc   | design products                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop | 9a5516e   | fost: update health-risks.components.es                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop | 3c686d    | fest: update health-risks.components.html                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop | 9360213   | fest: update health-risks.components.                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop | c99b43a   | fos: Connect register login database                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop | 5335647   | Foa: Connect back mode local.                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop | b72544a   | fic: routes                | (No message provided)             | 20/11/2024        |
+| Food-Facts/FoodFacts-Frontend  | develop | ab0fc74   | fic: navigate route                | (No message provided)             | 20/11/2024        |
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
 | Repository | Branch   | Commit Id | Commit Message | Commit Message Body | Commited on Date |
