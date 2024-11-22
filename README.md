@@ -3423,8 +3423,39 @@ Then debería incluir un análisis de tendencias en el consumo de calorías y nu
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 
+Evidencia de la aplicacion:
+
+Registro
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fregistro-open.png?alt=media&token=90e15a1c-e605-4df4-bf2d-0a6a3fd16713" alt="W5" style="width: auto; height: auto;">
+</div>
 
 
+Login
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Flogin-open.png?alt=media&token=060aa9d3-3391-4015-9733-155062958ef2" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+Home
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fhome-open.png?alt=media&token=1be10466-d7ab-4bb8-a9e0-3e5da8f6e401" alt="W5" style="width: auto; height: auto;">
+</div>
+
+Products
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fproducts-open.png?alt=media&token=e8154358-27f3-4c25-b660-9b88ff6252c6" alt="W5" style="width: auto; height: auto;">
+</div>
+
+Nutricionistas
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fnutricionistas-open.png?alt=media&token=3a951a6c-0a06-4e2f-8f95-af6a870e48df" alt="W5" style="width: auto; height: auto;">
+</div>
+
+Profile
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fproducts-open.png?alt=media&token=e8154358-27f3-4c25-b660-9b88ff6252c6" alt="W5" style="width: auto; height: auto;">
+</div>
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
@@ -3515,7 +3546,20 @@ El objetivo de este sprint fue implementar funcionalidades clave relacionadas co
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-
+Preparar tu Proyecto
+Asegúrate de que tu backend esté listo para producción
+Subir tu Proyecto a un Repositorio
+Subir el código a un repositorio de GitHub, GitLab o Bitbucket.
+Deploy from GitHub Repository:
+Conecta Railway con tu cuenta de GitHub.
+Selecciona el repositorio donde está tu backend.
+Configurar Variables de Entorno
+Ve a la sección "Variables" en el proyecto.
+Agrega todas las variables de entorno necesarias (por ejemplo, claves de API, configuración de base de datos, etc.).
+Verificar el Despliegue
+Una vez que el proyecto comience a desplegarse, Railway generará una URL para tu aplicación.
+Prueba la URL para asegurarte de que tu backend está funcionando correctamente.
+Link del backend https://foodfacts-backend-production.up.railway.app/swagger-ui/index.html
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
 Imagenes del trabajo colaborativo, como los analiticos de colaboración, commits de github.
@@ -3523,15 +3567,7 @@ Imagenes del trabajo colaborativo, como los analiticos de colaboración, commits
 Commits :
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/commits2.jpg?alt=media&token=843fb129-483c-4d0c-ac68-781fa4b87787" alt="W5" style="width: auto; height: auto;">
-</div>
-
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/commits3.jpg?alt=media&token=dd72b5a4-0443-4631-8453-3788ccbadf3d" alt="W5" style="width: auto; height: auto;">
-</div>
-
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/commits.jpg?alt=media&token=442e7fa5-875a-4baa-9a91-81d630238fd0" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fcommits.png?alt=media&token=356c0584-567d-45f0-ab97-4d8724927803" alt="W5" style="width: auto; height: auto;">
 </div>
 
 
@@ -3733,7 +3769,7 @@ URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EaJ
 - El contenido debe ser científicamente preciso y actualizado. Esto aumenta la credibilidad y el valor informativo de la página.
 - El front end se avanzo hasta su fase funcional, con el fake api.
 - Se considera el front end con un diseño intuitivo y mas versatil
-- 
+- El despliegue del backend nos fue un tanto dificil ya que no aparecia los datos. 
 ## Bibliografia 
 
 
@@ -3754,3 +3790,6 @@ link del video de Exposicion(TP1): https://upcedupemy.sharepoint.com/:v:/g/perso
 
 link del video de Exposicion(TB2):
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EfpHmVx83ZVNsQHfa8MWMvQBC0e3RcxRi0l6Vumx8JlmhA?e=SRlfyY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+
+link del video de exposicion (TF1)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EY47fsOjqUlJu3962txTjmcBGB0HnkoFu68o7BzXg-ricA?e=pxBoPv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
